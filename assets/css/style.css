@@ -234,6 +234,11 @@ select:-webkit-autofill:focus {
     letter-spacing: 0.5px;
 }
 
+.f_size_34 {
+    font-size: 34px;
+    letter-spacing: 0.5px;
+}
+
 .f_size_28 {
     font-size: 28px;
     letter-spacing: 0.5px;
@@ -5098,7 +5103,7 @@ sub {
     top: 11px;
 }
 .price_content .price_item p {
-    font-size: 16px;
+    font-size: 14px;
     color: #353535;
     font-weight: 600;
     margin-bottom: 0px;

@@ -652,10 +652,9 @@
   }
   .container.custom_container {
     max-width: 100%;
-    padding: 0px 15px;
+    padding: 0px 0px;
   }
-  .slider_btn_tr {
-  }
+
   .price_content .price_item {
     height: 100%;
   }
@@ -2029,8 +2028,12 @@
     left: -878px;
   }
   .f_size_40 {
-    font-size: 30px;
+    font-size: 26px;
   }
+
+  .f_size_34 {
+    font-size: 26px;
+}
   .footer_area_two .footer_bottom p {
     margin-bottom: 8px !important;
   }
@@ -2556,7 +2559,7 @@
     border-radius: 3px;
   }
   .partner_info .logo_item {
-    width: 100%;
+    /* width: 100%; */
   }
   .app_img .phone_img {
     max-width: 55%;
@@ -2760,7 +2763,7 @@
     width: 55%;
     height: 100%;
     display: table-cell;
-    padding: 40px 10% !important;
+    padding: 25px 10% !important;
     background-color: #fff;
     opacity: 0;
     transition: all 0.3s 0.12s;

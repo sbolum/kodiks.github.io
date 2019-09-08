@@ -16,6 +16,8 @@ git push -f origin master
 
 
 
+
+
 pc ye indirmek için;
 git clone https://github.com/kodiks/kodiks.github.io.git
 
