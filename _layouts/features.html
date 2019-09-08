@@ -1,0 +1,39 @@
+---
+layout: wrapper
+---
+
+<!--PAGE CONTENT-->
+{% include header_sub.html %}
+
+<section class="prototype_service_area_three bg_color">
+    <div class="container">
+
+        <div class="prototype_service_info_3">
+            <div class="symbols-pulse active">
+                <div class="pulse-1"></div>
+                <div class="pulse-2"></div>
+                <div class="pulse-3"></div>
+                <div class="pulse-4"></div>
+                <div class="pulse-x"></div>
+            </div>
+            <h2 class="f_size_34 f_600 t_color3 text-center wow fadeInDown" data-wow-delay="0.3s">Tüm Özellikler</h2>
+            <p class="f_400 f_size_16 text-center mb_90 wow fadeindown" data-wow-delay="0.5s">Eğitim gerektirmeyen, basit ve kullanımı kolay tam istediğiniz özellikler</p>
+
+            <div class="row p_service_info">
+                {% assign features=site.features | sort: 'order' %} {% for feature in features %} {% if feature.visible == true %}
+                <div class="col-lg-4 col-sm-4">
+                    <div class="p_service_item pr_70 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="icon {{feature.color}}"><i class="{{feature.icon}}"></i></div>
+                        <h5 class="f_600 f_p t_color3">{{feature.title}}</h5>
+                        <p class="f_400">
+                            {{feature.description}}
+                        </p>
+                        <div class="text-center mt_10"><a href="{{feature.url}}" class="learn_btn_two">Keşfet <i class="ti-arrow-right"></i></a></div>
+                    </div>
+                </div>
+                {% endif %} {% endfor %}
+            </div>
+
+        </div>
+    </div>
+</section>

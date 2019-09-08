@@ -1,0 +1,52 @@
+---
+layout: wrapper
+---
+
+
+<!--PAGE CONTENT-->
+{% include header_sub.html %}
+
+<section class="blog_area sec_pad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-sm-12">
+                {% for post in site.posts %}
+                <div class="blog_list_item mb_50">
+                    <img class="img-fluid" src="{{post.image}}" alt="">
+                    <div class="blog_content">
+                        <div class="post_date">
+                            {% assign m = post.date | date: "%-m" | minus: 1 %}
+                            {% assign month = site.data.lang_tr.months[m] %}
+                                
+                            <h2>{{ post.date | date: '%d' }} <span>{{ month }} </span></h2>
+                        </div>
+                        <div class="entry_post_info">
+                            By: <a href="#">{{ post.author }}</a>
+                            <a href="#">{{ post.categories[0] }}</a>
+                            <a href="#">{{ post.date | date: "%d-%m-%Y" }}</a>
+                        </div>
+                        <a href="{{post.url}}">
+                            <h5 class="f_p f_size_20 f_500 t_color mb_20">{{post.title}}</h5>
+                        </a>
+                        <p class="f_300 mb_20">{{post.summary}}</p>
+                        <a href="{{post.url}}" class="learn_btn_two">Devamını Oku <i class="ti-arrow-right"></i></a>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="col-lg-4 col-sm-12">
+                {% include blog_sidemenu.html %}
+            </div>
+
+            <!--
+            <ul class="col-lg-12 list-unstyled page-numbers shop_page_number text-left mt_30">
+                <li><span aria-current="page" class="page-numbers current">1</span></li>
+                <li><a class="page-numbers" href="#">2</a></li>
+                <li><a class="next page-numbers" href="#"><i class="ti-arrow-right"></i></a></li>
+            </ul>
+            -->
+        </div>
+    </div>
+</section>
+<!--PAGE CONTENT-->

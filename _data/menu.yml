@@ -1,0 +1,88 @@
+- id: 1
+  title: ÖZELLİKLER
+  url: /ozellikler/
+  isHeader: true
+  isFooter: true
+  submenu: true
+  subitems:
+    - id: 11
+      title: Mobil Uygulamalar
+      url: /ozellikler/mobil-uygulamalar
+      icon: ti-mobiluygulama
+
+    - id: 12
+      title: Offline Çalışma
+      url: /ozellikler/offline-calisma
+      icon: ti-offline
+
+    - id: 13
+      title: Stok ve Reçete Takibi
+      url: /ozellikler/stok-takibi
+      icon: ti-stok
+
+    - id: 14
+      title: Termal Yazıcı
+      url: /ozellikler/termal-yazici-mutfak
+      icon: ti-termalyazici
+
+    - id: 15
+      title: Entegrasyonlar
+      url: /ozellikler/entegrasyonlar
+      icon: ti-stok
+- id: 2
+  title: FİYATLAR
+  url: /fiyatlar/
+  isHeader: true
+  isFooter: true
+  submenu: false
+
+- id: 3
+  title: DESTEK
+  url: /destek/
+  isHeader: true
+  isFooter: true
+  submenu: false  
+
+- id: 4
+  title: BLOG
+  url: /blog/
+  isHeader: true
+  isFooter: true
+  submenu: false  
+
+- id: 5
+  title: İLETİŞİM
+  url: /iletisim/
+  isHeader: true
+  isFooter: true
+  submenu: false  
+
+- id: 6
+  title: Hizmet İptali ve İade
+  url: /hizmet-iptali-ve-iade/
+  isHeader: false
+  isFooter: true
+  submenu: false  
+
+- id: 7
+  title: Kullanıcı Sözleşmesi
+  url: /kullanici-sozlesmesi/
+  isHeader: false
+  isFooter: true
+  submenu: false  
+
+
+- id: 8
+  title: Gizlilik Politikası
+  url: /gizlilik-politikasi/
+  isHeader: false
+  isFooter: true
+  submenu: false  
+
+
+- id: 10
+  title: Banka Bilgilerimiz
+  url: /banka-bilgilerimiz/
+  isHeader: false
+  isFooter: true
+  submenu: false  

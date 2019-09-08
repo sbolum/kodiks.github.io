@@ -1,0 +1,94 @@
+<!--footer area-->
+<footer class="footer_nine_area bg_color_lg">
+    <div class="footer_nine_top">
+        <div class="footer_shap left"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="f-title f_600 f_size_18 color-grey pr_20">
+                        <a href="index.html" class="f-logo"><img src="/assets/img/logo-adisyo-footer.svg"alt="adisyo-logo"></a>
+                        <p class="f_400 f_p f_size_14 mb-0 l_height28 mt_10">
+                            {{site.about}}
+                        </p>
+                        <div class="f_social_icon_two mt_30 pb_30">
+                            {% for social in site.data.social_media %}
+                            {% if social.type == "twitter" %}
+                            <a href="https://twitter.com/adisyocom" target="_blank" class="f_size_24"><i
+                                    class="ti-twitter-alt"></i></a>
+                            {% elsif social.type == "facebook" %}
+                            <a href="https://www.facebook.com/adisyocom/" target="_blank" class="f_size_24"><i
+                                    class="ti-facebook"></i></a>
+                            {% elsif social.type == "instagram" %}
+                            <a href="https://www.instagram.com/adisyocom/" target="_blank" class="f_size_24"><i
+                                    class="ti-instagram"></i></a>
+                            {% elsif social.type == "youtube" %}
+                            <a href="https://www.youtube.com/channel/UCKdnA5lA-tBGbBjBPWoy-Lw/videos" target="_blank" class="f_size_24"><i
+                                    class="ti-youtube"></i></a>
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <div class="f_widget about-widget">
+                        <h3 class="f-title f_600 f_size_18 color-white mb_20">Menü</h3>
+                        <ul class="list-unstyled f_list">
+                            {% assign footer_menu = site.data.menu | where: "isHeader", true  %}
+                            {% for menu in footer_menu %}
+                            <li><a href="{{menu.url}}">{{menu.title}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="f_widget about-widget">
+                        <h3 class="f-title f_600 f_size_18 color-white mb_20">Şirketimiz</h3>
+                        <ul class="list-unstyled f_list">
+                            {% assign footer_menu = site.data.menu | where: "isHeader", false  %}
+                            {% for menu in footer_menu %}
+                            <li><a href="{{menu.url}}">{{menu.title}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 pl_20">
+                    <div class="f_widget about-widget">
+                        <h3 class="f-title f_600 f_size_18 color-white mb_20">Size nasıl yardımcı olabiliriz?</h3>
+                        <ul class="list-unstyled f_list">
+                            <li><i class="ti-direction-alt m-r-10 "></i> {{site.address}}</li>
+                            <li><i class="ti-calendar m-r-10 "></i> {{site.working_hours}}</li>
+                            <li><i class="ti ti-headphone-alt m-r-10 color-red"></i> <a class="color-red"
+                                    href="tel:{{site.phone}}"> {{site.phone}}</a></li>
+                            <li><i class="ti-email mr_10"></i><a href="mailto:{{site.email}}"> {{site.email}}</a></li>
+                            <li class="pt_15">
+                                <a href="{{site.store_google}}" target="_blank"><img src="/assets/img/googleplay.svg"
+                                        class="appstore m-r-10"></a>
+                                <a href="{{site.store_ios}}" target="_blank"><img src="/assets/img/appstore.svg"
+                                        class="appstore"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="footer_nine_bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 hidden-xs">
+                    <p class="pt_7">{{site.copyright}}</p>
+                </div>
+                <div class="col-sm-6">
+                        <select class="selectpicker flag_selector" data-width="fit">
+                            <i class="ti-world"></i>
+                            <option data-content='<span class="flag-icon flag-icon-tr"></span> Türkçe'>Türkçe</option>
+                            <option data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
+                        </select>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

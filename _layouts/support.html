@@ -1,0 +1,64 @@
+---
+layout: wrapper
+---
+
+<!--PAGE CONTENT-->
+{% include header_sub.html %}
+
+<section class="software_service_area sec_pad">
+    <div class="container mb_40">
+        <div class="sec_title text-center mb_50 wow fadeInUp" data-wow-delay="0.2s">
+            <h2 class="f_p f_size_34 l_height30 f_600 t_color2">Size nasıl yardımcı olabiliriz?</h2>
+            <p class="f_400 f_size_16 l_height30 mb-0">
+                Tüm sorularınıza yanıt bulabileceğiniz, Adisyo kullanım kılavuzu sizler için hazırladık.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-3">
+                <ul class="nav nav-tabs software_service_tab" id="myTab" role="tablist">
+                    {% for support in site.data.support %}
+                    <li class="nav-item">
+                        <a class="nav-link {% if forloop.first %}active{% endif %}" id="{{ support.id }}-tab"
+                            data-toggle="tab" href="#{{ support.id }}" role="tab" aria-controls="{{ support.id }}"
+                            aria-selected="true">{{ support.category_name }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="col-lg-9 col-md-9">
+                <div class="tab-content faq_content" id="myTabContent">
+                    {% for support in site.data.support %}
+                    <div class="tab-pane fade {% if forloop.first %}show active{% endif %}" id="{{ support.id }}" role="tabpanel"
+                        aria-labelledby="{{ support.id }}-tab">
+                        <h3 class="f_p f_size_22 f_500 color-red">{{ support.category_name }}</h3>
+                        <div id="accordion">
+                            {% for item in support.items %}
+                            <div class="card">
+                                <div class="card-header" id="heading{{ item.id }}">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link {% if forloop.first %} {% else %} collapsed {% endif %}" data-toggle="collapse" data-target="#collapse{{ item.id }}"
+                                            aria-expanded="true" aria-controls="collapse{{ item.id }}">
+                                            {{item.title}}<i class="ti-plus"></i><i class="ti-minus"></i>
+                                        </button>
+                                    </h5>
+                                </div>
+
+                                <div id="collapse{{ item.id }}" class="collapse {% if forloop.first %}show{% endif %}" aria-labelledby="heading{{ item.id }}"
+                                    data-parent="#accordion">
+                                    <div class="card-body">
+                                        {{item.description}}
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,13 @@
+bundle exec jekyll serve
+
+jekyll serve --draft
+
+
+git add .
+git commit -m "ozellikler guncellendi"
+
+
+git push origin master
+veya 
+git push -f origin master
+
