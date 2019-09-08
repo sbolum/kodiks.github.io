@@ -1,3 +1,5 @@
+git pull 
+
 bundle exec jekyll serve
 
 jekyll serve --draft
@@ -11,3 +13,13 @@ git push origin master
 veya 
 git push -f origin master
 
+
+
+
+pc ye indirmek için;
+git clone https://github.com/kodiks/kodiks.github.io.git
+
+daha sonra proje klasörüne girip değişiklik yaptıktan sonra
+git add .
+git commit -m "yorum"
+git push origin master
