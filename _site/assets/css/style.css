@@ -194,6 +194,50 @@ select:-webkit-autofill:focus {
  transition: background-color 5000s ease-in-out 0s;
 }
 
+/* back on top  */
+#return-to-top {
+    position: fixed;
+    z-index: 999;
+    bottom: 30px;
+    right: 15px;
+    border: 1px solid #666;
+    color: #666;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #666;
+    margin: 0;
+    position: relative;
+    left: 15px;
+    top: 10px;
+    font-size: 20px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    border: 1px solid #cb2c2e
+}
+#return-to-top:hover i {
+    color: #cb2c2e;
+    top: 8px;
+}
+
+.service_details_area .service_details_img img {
+    max-width: 85%;
+}
+
 @media (min-width: 1250px) {
     .container {
         max-width: 1200px;
@@ -203,6 +247,13 @@ select:-webkit-autofill:focus {
 @media (max-width: 767px) {
     .container {
         max-width: 100%;
+    }
+
+    .pl_footer-menu {
+        padding-left: 20px;
+    }
+      .mt_80 {
+        margin-top: 20px;
     }
 }
 
@@ -543,8 +594,6 @@ input:-internal-autofill-selected {
 .mb_50 {
     margin-bottom: 50px;
 }
-
-
 
 .mb-50 {
     margin-bottom: -50px;
@@ -6602,6 +6651,7 @@ sub {
 .saas_map_area,
 .saas_subscribe_area {
     background: #f8f8f8;
+    padding-top: 20px;
 }
 
 /*=========== saas_subscribe_area css ==========*/
@@ -6713,7 +6763,7 @@ sub {
     background-image: -moz-linear-gradient(140deg, #c82c2c 0%, #260505 100%);
     background-image: -webkit-linear-gradient(140deg, #c82c2c 0%, #260505 100%);
     background-image: -ms-linear-gradient(140deg, #c82c2c 0%, #260505 100%);
-    padding: 120px 0px 80px;
+    padding: 80px 0px 80px;
     position: relative;
     overflow: hidden;
     z-index: 1;
@@ -9727,7 +9777,7 @@ input[type=number]::-webkit-inner-spin-button {
     margin-bottom: 0px;
 }
 .f_widget.about-widget .f_list li {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     font: 400 15px/24px "Quicksand", sans-serif;
     letter-spacing: 1px;
     color: #ffffff;

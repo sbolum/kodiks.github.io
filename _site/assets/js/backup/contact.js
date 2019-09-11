@@ -31,16 +31,16 @@
             },
             messages: {
                 name: {
-                    required: "* Lütfen Adınızı Soyadınızı giriniz",
+                    required: "* Adınızı yazınız.",
                     minlength: "* İsminiz en az 2 karakter olmalıdır"
                 },
                
                 email: {
-                    required: "* Lütfen e-posta adresinizi giriniz"
+                    required: "* E-posta adresinizi yazınız"
                 },
 
                 telephone: {
-                    required: "* Lütfen telefon numaranızı giriniz"
+                    required: "* Telefon numaranızı yazınız"
                 },
                
                
@@ -90,7 +90,7 @@
             messages: {
                 
                 email: {
-                    required: "* Lütfen e-posta adresinizi giriniz"
+                    required: "* E-posta adresinizi yazınız"
                 },
 
                
@@ -139,7 +139,7 @@
             messages: {
                
                 email: {
-                    required: "* Lütfen e-posta adresinizi giriniz"
+                    required: "* E-posta adresinizi yazınız"
                 },
 
                
@@ -193,16 +193,16 @@
             },
             messages: {
                 name: {
-                    required: "* Lütfen Adınızı Soyadınızı giriniz",
+                    required: "* Adınızı yazınız.",
                     minlength: "* İsminiz en az 2 karakter olmalıdır"
                 },
                
                 email: {
-                    required: "* Lütfen e-posta adresinizi giriniz"
+                    required: "* E-posta adresinizi yazınız"
                 },
 
                 telephone: {
-                    required: "* Lütfen telefon numaranızı giriniz"
+                    required: "* Telefon numaranızı yazınız"
                 },
                 
             },

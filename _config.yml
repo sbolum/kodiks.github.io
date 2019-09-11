@@ -39,7 +39,8 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-redirect-from
-
+  - jekyll-sitemap
+  
 collections:
   features:
     output: true

@@ -1,3 +1,9 @@
+/*
+Fatih Komecoglu | www.fatihkomecoglu.com
+UI Designer and Front-End Developer 
+Copyright. All Rights Reserved.
+*/
+
 @media (min-width: 2000px) {
   .top-buttons {
     padding-left: 300px;
@@ -41,7 +47,7 @@
   .top-buttons {
     padding-left: 100px;
     text-align: center;
-
+  }
 
 }
 
@@ -541,7 +547,7 @@
 }
 
   svg {
-    width: 150px;
+    width: 120px;
     position: fixed;
     top: 0;
     left: 0;
@@ -614,7 +620,7 @@
   }
   .service_details_area .service_details_img {
     margin-left: 0;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
   }
   .service_promo_area .shape.shape_four,
   .service_promo_area .shape.shape_three {
@@ -1169,7 +1175,7 @@
     margin-bottom: 40px;
   }
   .footer_nine_top {
-    padding-bottom: 80px;
+    padding-bottom: 40px;
   }
   .payment_action_area {
     padding: 125px 0px 120px;
@@ -1781,6 +1787,12 @@
     padding-top: 100px;
     background-color: #232323 !important;
   }
+  .pl_footer-menu {
+    padding-left: 20px;
+}
+  .mt_80 {
+    margin-top: 0px;
+}
 }
 
 @media (max-width: 650px) {
@@ -1967,13 +1979,7 @@
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
-    width: 80%;
-}ap {
-    position: absolute;
-    right: 0;
-    top: 0;
-    z-index: -1;
-    opacity: 0.1;
+    width: 60%;
 }
   .slider_btn {
     margin-bottom: 10px;
@@ -2068,7 +2074,9 @@
   }
   .partner_info .logo_item {
     width: calc(100% / 2);
+    margin-bottom: 40px;
   }
+
   .fun_fact_content .fact_item h1 {
     font-size: 60px;
   }
@@ -2372,7 +2380,7 @@
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
-    width: 80%;
+    width: 60%;
 }
 
   .breadcrumb_area .breadcrumb_shap {
@@ -2763,7 +2771,7 @@
     width: 55%;
     height: 100%;
     display: table-cell;
-    padding: 25px 10% !important;
+    padding: 10px 10% !important;
     background-color: #fff;
     opacity: 0;
     transition: all 0.3s 0.12s;
