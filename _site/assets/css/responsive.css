@@ -2409,7 +2409,7 @@
   .btn_try {
     display: block;
     color: #ffffff !important;
-    background-color: #f57c00;
+    background-color: #f57c00 !important;
     border-radius: 0px;
     border: none;
     padding: 0px 0px;

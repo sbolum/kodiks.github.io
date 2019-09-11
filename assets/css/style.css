@@ -107,7 +107,7 @@ svg {
     z-index: 999;
 }
 .f-logo img{
-    width: 50%;
+    width: 60%;
 }
 
 .w40 {
@@ -365,15 +365,15 @@ input:-internal-autofill-selected {
     color: #c82c2d !important;
 }
 
-.appstore {
-    width: 165px;
+.mobile-store-icons {
+    width: 150px;
     margin-right: 10px;
     height: auto;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     opacity: 0.8 !important;
 }
 
-.appstore:hover {
+.mobile-store-icons:hover {
     opacity: 1 !important;
 }
 
@@ -631,6 +631,7 @@ input:-internal-autofill-selected {
     padding-top: 15px;
 }
 
+
 .pt_25 {
     padding-top: 25px;
 }
@@ -669,6 +670,9 @@ input:-internal-autofill-selected {
     padding-bottom: 150px;
 }
 
+.m-b-5 {
+    margin-bottom:5px !important;
+}
 
 .mr_10 {
     margin-right: 10px;
@@ -685,6 +689,15 @@ input:-internal-autofill-selected {
 .ml-0 {
     margin-left: 0px;
 }
+
+.m-t_15 {
+    margin-top: -15px;
+}
+
+.pl_footer-menu{
+    padding-left: 120px;
+}
+
 
 .sec_pad {
     padding: 40px 0px;
@@ -1564,9 +1577,9 @@ input:-internal-autofill-selected {
     margin-left: 5px;
 }
 .btn_try:hover {
-    background: #cb2c2e !important;
+    background: #cb2c2e;
     color: #fff !important;
-    border-color: #cb2c2e !important;
+    border-color: #cb2c2e;
 }
 .btn_properties {
     background: none;
@@ -5119,7 +5132,7 @@ sub {
 }
 .border-price {
     border-bottom: 1px solid #eaeaea;
-    padding: 5px 0px 15px;
+    padding: 10px 0px 15px;
     font-weight: 600;
     letter-spacing: 0px;
 }
@@ -5143,7 +5156,7 @@ sub {
     bottom: 0;
 }
 .price_content .price_item .p_list {
-    padding: 15px 0px 15px;
+    padding: 10px 0px 10px;
 }
 .price_content .price_item .p_list li {
     font: 500 14px/36px "Quicksand", sans-serif;
@@ -6790,12 +6803,14 @@ sub {
     vertical-align: sub;
 }
 .get_content .app_btn.app_btn_two:hover {
-    color: #c82c2c;
+    color: #c82c2c !important;
     background: #fff;
     -webkit-box-shadow: 0px 20px 30px 0px rgba(12, 0, 46, 0.1);
     box-shadow: 0px 20px 30px 0px rgba(12, 0, 46, 0.1);
 }
-
+.get_content .app_btn.app_btn_two:focus {
+    color: #ffffff;
+}
 /*====================================================*/
 
 /*====================================================*/
