@@ -750,6 +750,7 @@ input:-internal-autofill-selected {
 
 .sec_pad {
     padding: 40px 0px;
+    background-color: #f8f8f8 !important;
 }
 
 .f-right {
