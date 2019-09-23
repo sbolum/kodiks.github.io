@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog9.png"
 author: "Adisyo"
 categories: ["Sosyal Medya"]
 tags: [Dijital Pazarlama, Sosyal Medya, Restorant, Kafe, Adisyon]
-permalink: /blog/:title
 ---
 ### Restoran ve Kafe Menülerinde de Bu Yiyecekleri Sorunuz! İşte Yazın Tüketilmesi Gereken Besinler
 

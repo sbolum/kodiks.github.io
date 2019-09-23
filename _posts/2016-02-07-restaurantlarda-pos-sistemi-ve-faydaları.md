@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog0.png"
 author: "Adisyo"
 categories: ["Sosyal Medya"]
 tags: [Dijital Pazarlama, Sosyal Medya, Restorant, Kafe, Adisyon]
-permalink: /blog/:title
 ---
 Teknolojinin hızlı gelişimiyle pek çok alanda kullanılan elektronik sistemler değişmiş ve yenilenmiştir. Teknoloji, sanayi ve sanayinin kollarında kullanılması dışında hizmet sektöründe de oldukça önemli bir paya sahiptir. Hizmet sektörünün önemli bir basamağı olan restaurantların ve cafelerin kullanmış oldukları pos sistemleri ise, restaurantların veya cafelerin hizmet kalitesi ve işleyişini önemli bir ölçüde etkilemektedir.
 

@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog5.png"
 author: "Adisyo"
 categories: ["Sosyal Medya"]
 tags: [Dijital Pazarlama, Sosyal Medya, Restorant, Kafe, Adisyon]
-permalink: /blog/:title
 ---
 ### Bir restoran/ kafe sahibi, işletmecisisiniz ya da hayalinizdeki restoran/ kafeyi açmayı planlıyorsunuz. İşin püf noktalarını bilirseniz, başarılı olmamanız için en ufak bir neden yok
 

@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog1.png"
 author: "Adisyo"
 categories: [Yemek]
 tags: [Film, Yemek, Adisyo, Adisyon, Şef]
-permalink: /blog/:title
 ---
 
 **Şeflerin Savaşı’ndan Çikolata’ya, Başrolünde “Yemek” Olan Unutulmaz Filmler**

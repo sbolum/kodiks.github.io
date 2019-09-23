@@ -18,9 +18,9 @@ title: Bulut Tabanlı Adisyon Programı | Restaurant Programı | Cafe & Bar Prog
 description: Bulut tabanlı cafe ve restaurant adisyon pos sistemi ile operasyonlarınızı online yönetin! Hemen 15 gün ücretsiz deneyin.
 about: Adisyo, cafe ve restoran operasyonlarınızı, herhangi bir cihaz üzerinden yönetebileceğiniz, basit ve kullanımı kolay, bulut tabanlı POS sistemidir.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kodiks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adisyo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-address: "Workinton - AND Plaza İçerenköy Mah. Umut Sokak No:8 Ataşehir - İstanbul"
+address: "İçerenköy Mah. Topçu İbrahim Sk. AND Binası No:8-10 D5 Ataşehir - İstanbul"
 phone: "+90 (216) 706 06 24"
 email: "destek@adisyo.com"
 working_hours: "Pazartesi - Cumartesi 09.00 - 18.00"
@@ -44,4 +44,7 @@ plugins:
 collections:
   features:
     output: true
-    permalink: /ozellikler/:name
+    permalink: /ozellikler/:name/
+  posts:
+    output: true
+    permalink: /blog/:name/

@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog8.png"
 author: "Adisyo"
 categories: ["Sosyal Medya"]
 tags: [Dijital Pazarlama, Sosyal Medya, Restorant, Kafe, Adisyon]
-permalink: /blog/:title
 ---
 ### Sıcakları Bertaraf Edecek Enfes Yaz İçecekleri
 

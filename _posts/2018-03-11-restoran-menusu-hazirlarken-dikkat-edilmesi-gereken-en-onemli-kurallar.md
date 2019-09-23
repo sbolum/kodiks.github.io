@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog10.png"
 author: "Adisyo"
 categories: ["Sosyal Medya"]
 tags: [Dijital Pazarlama, Sosyal Medya, Restorant, Kafe, Adisyon]
-permalink: /blog/:title
 ---
 ### Başarılı Menü Tasarımı Nasıl Yapılır? Bu Tüyolardan Yararlanın
 

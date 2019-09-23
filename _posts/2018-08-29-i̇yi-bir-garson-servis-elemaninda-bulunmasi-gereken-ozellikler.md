@@ -13,7 +13,6 @@ tags:
 - Adisyo
 - Adisyon
 - Müşteri
-permalink: "/blog/:title"
 ---
 
 **Herkes Garsonluk Yapabilir Ama Herkes İyi Bir Garson Olamaz! İyi Bir Garsonda Bulunması Gereken Özellikler**

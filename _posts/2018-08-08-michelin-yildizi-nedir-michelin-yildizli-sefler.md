@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog6.png"
 author: "Adisyo"
 categories: ["Sosyal Medya"]
 tags: [Dijital Pazarlama, Sosyal Medya, Restorant, Kafe, Adisyon]
-permalink: /blog/:title
 ---
 ### Michelin Yıldızı Nasıl Alınır? Michelin Yıldızlı Şefler Kimlerdir?
 

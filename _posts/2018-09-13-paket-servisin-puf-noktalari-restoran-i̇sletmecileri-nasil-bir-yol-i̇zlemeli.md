@@ -7,7 +7,6 @@ image: "/assets/img/blog/blog2.png"
 author: "Adisyo"
 categories: [Paket Servis, Yemek]
 tags: [Paket Servis, Adisyo, Adisyon, Restoran, Kafe]
-permalink: /blog/:title
 ---
 
 **Paket Servisin İncelikleri: Restoran ve Kafe İşletmecilerine Altın Değerinde Öneriler**

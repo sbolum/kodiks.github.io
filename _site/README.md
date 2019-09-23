@@ -1,2 +1,0 @@
-## Adisyo
-kodiks.github.io
