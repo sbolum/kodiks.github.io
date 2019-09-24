@@ -53,14 +53,14 @@
   logo: /assets/img/home/testimonial/pizzadunyasi.jpg
 
 - id: 21
-  company_name: Beyoğlu Çorbacısı
+  company_name: Tosttuning
   owner: Faik Sarı
   comment: Programınızı bir yıldır kullanmaktayım. Program herkesin anlayabileceği
            gayet basit ve sade bir tarzda tasarlanmış olup bir işletmenin ihtiyacı
            olan hemen her şey mevcuttur. Bu tür programlar için son derece önemli olan
            Destek Hizmetleri'de son derece ilgili ve hızlı.
            Teşekkürler Adisyo.                    
-  logo: /assets/img/home/testimonial/beyoglucorba.jpg
+  logo: /assets/img/home/testimonial/tosttuning.jpg
 
 - id: 20
   company_name: Küçük Fil Cafe & Restaurant
