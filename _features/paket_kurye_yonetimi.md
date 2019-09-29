@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Paket Siparişi ve Kurye Yönetimi
     desc: |
-      <p class="f_p f_400">Adisyo ile paket siparişlerinizi çok daha kolay şekilde yönetebilirsiniz. Paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca yönetebilirsiniz. Bu özellik ile paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca sisteme kaydedebilir, ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de kolayca gerçekleştirebilirsiniz. Dilerseniz mobil uygulamamız üzerinden kuryelerinizin kendi paket siparişlerinin takibini de yapmalarını sağlayabilirsiniz.</p>
+      <p class="f_p f_400">Adisyo ile paket siparişlerinizi ve siparişlerinizin teslim edileceği müşterilerinize ait bilgileri çok daha kolay şekilde yönetebilirsiniz. Bu özellik ile paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca sisteme kaydedebilir, ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de kolayca gerçekleştirebilirsiniz. Dilerseniz mobil uygulamamız üzerinden kuryelerinizin kendi paket siparişlerinin takibini de yapmalarını sağlayabilirsiniz.</p>
     image: /assets/img/home/features/paket-kurye01.png
 
   - title: Devir Ekonomi Devri
