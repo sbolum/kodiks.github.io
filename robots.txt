@@ -1,4 +1,4 @@
 User-agent: *
-Allow: / 
+Disallow: /
 Sitemap: https://adisyo.com/sitemap.xml
 
