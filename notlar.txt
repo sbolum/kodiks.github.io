@@ -1,0 +1,41 @@
+git pull 
+
+bundle exec jekyll serve
+
+jekyll serve --draft
+
+
+git add .
+git commit -m "ozellikler guncellendi"
+
+
+git push origin master
+veya 
+git push -f origin master
+
+
+
+
+pc ye indirmek için;
+git clone https://github.com/kodiks/kodiks.github.io.git
+
+daha sonra proje klasörüne girip değişiklik yaptıktan sonra
+git add .
+git commit -m "yorum"
+git push origin master
+
+
+--------------------------------------------------------------------------------------------
+pc ye indirme SSH
+SSH oluşturmak  - gitbash te yapılacak
+https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
+ssh-keygen -o
+cat ~/.ssh/id_rsa.pub
+
+
+Github - SSH Ekleme 
+Open github profile login ol - setting - SSH keys - New SSH Key yukarıda oluşturduğun SSH key kopyala
+
+
+pc ye indirmek için;
+git clone git@github.com:kodiks/kodiks.github.io.git

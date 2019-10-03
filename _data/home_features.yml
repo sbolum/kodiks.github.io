@@ -1,0 +1,42 @@
+- id: 1
+  title: Düşük Maliyet
+  description: Adisyo'yu kullanmak için pahalı bir lisans almanız gerekmez. Yıllık bakım ücreti de ödemezsiniz. Abonelik sistemi sayesinde, kullandığınız kadar ödersiniz.
+  icon: ti-stats-down
+  color: purple
+  url: /ozellikler/dusuk-maliyet
+
+- id: 2
+  title: Kolay Kullanım
+  description: Adisyo, eğitim almayı gerektirmeden kullanabileceğiniz şekilde tasarlanmıştır. Bu sayede tüm operasyonlarınızı hızlı ve kolay bir şekilde yönetebilirsiniz.
+  icon: ti-wand
+  color: orange
+  url: /ozellikler/kolay-kullanim
+
+- id: 3
+  title: İstediğiniz Cihazdan Kullanın
+  description: Adisyo sizi tek bir cihaz kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar.
+  icon: ti-mobile
+  color: green
+  url: /ozellikler/tum-cihazlarda-erisim
+
+  
+- id: 4
+  title: Offline Çalışma
+  description: Adisyo kullanımı sırasında, internet bağlantınız kesilse bile çalışmaya devam edersiniz. Böylece işletmenizin tüm operasyonlarını kesintisiz sürdürebilirsiniz.
+  icon: ti-rss-alt
+  color: red
+  url: /ozellikler/offline-calisma
+
+- id: 5
+  title: Stok Takibi
+  description: Adisyo ile ürünlerinizin stok takibini yapabilirsiniz. Tükenen veya kritik seviyenin altına inen stoklar için, Adisyo sizi anında uyarır.
+  icon: ti-package
+  color: blue
+  url: /ozellikler/stok-takibi
+
+- id: 6
+  title: Üst Seviye Güvenlik
+  description: Adisyo, verilerinizi yüksek güvenliğe sahip üç farklı sunucuda tutar. Anlık yedeklerinizi alır. İşletmenizdeki cihazlarınızda sorun olsa bile verileriniz güvende kalır.
+  icon: ti-lock
+  color: yellow
+  url: /ozellikler/ust-seviye-guvenlik

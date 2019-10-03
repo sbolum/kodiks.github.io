@@ -1,0 +1,76 @@
+- id: 26
+  company_name: Lokmaçatı
+  owner: Ayk Baklacıoğlu
+  comment:  Bundan yaklaşık 4-5 ay önce Çeşme/Alaçatı’da yeni bir işletme açmak üzere yola çıktım.
+            Her işletme de olduğu gibi benim açacağım cafe içinde bir POS sistemi kurmam gerekiyordu.
+            Yaptığım uzun araştırmalar sonucunda; Genç ve dinamik bir ekibe sahip olan, güvenilir ve
+            kolay kullanımı olan bir arayüze sahip ve en önemlisi fiyat politikasında rakipsiz bir 
+            firma oldukları için düşünmeden Adisyo'yu seçtim. Bugün, ne kadar doğru bir seçim yaptığımı görüyorum.
+            Eğer sizde yeni bir işletme açacaksanız ve bir POS sistemine ihtiyacınız varsa, o zaman düşünmeden 
+            Adisyo'yu seçin pişman olmazsanız... Teşekkürler Adisyo Ekibi. Başarılarınızın devamını dilerim.         
+  logo: /assets/img/home/testimonial/lokmacati.jpg
+
+
+- id: 25
+  company_name: Neşve Restaurant
+  owner: Şaban Emeklioğlu
+  comment:  Adisyo'yu bir yılı aşkın süredir kullanıyorum. İşletmemizde hızımıza hız katıyor, 
+            çok hızlı ve kullanımı kolay bir yazılım. Bu fiyata bu hizmeti verdikleri için çok teşekkürler. 
+            Sektördeki tüm işletmelere denemelerini tavsiye ediyorum.                     
+  logo: /assets/img/home/testimonial/nesve.jpg
+
+- id: 24
+  company_name: Vitamin Simit
+  owner: Cenk Tik
+  comment:  Yoğun bir şekilde müşteri ağırladığımız simit kafemizde Adisyo
+            kullanıyoruz. Bu sayesinde günlük oluşan sipariş yoğunluğumuz daha rahat olmaya
+            başladı. Ayrıca işletmede olmadığım zaman bile herşeye erişebiliyorum.                   
+  logo: /assets/img/home/testimonial/vitaminsimit.jpg
+
+
+- id: 24
+  company_name: Baltazar Meat & Drink
+  owner: Ozan Rende
+  comment: Adisyo’yu ilk kullanmaya başladığımızda çalışanlarımızın programa
+          alışması sanki daha önce kullanmışlar gibi hızlı oldu. Adisyo’nun gayet şık
+          ve sade tasarımı ile hızlı olması bize çok büyük bir avantaj sağlıyor.
+          Ayrıca Adisyo ile restaurantımın bütün bilgileri avucumun içinde.
+          Teşekkürler Adisyo.                                               
+  logo: /assets/img/home/testimonial/baltazar.jpg
+
+- id: 22
+  company_name: Pizza Dünyası
+  owner: Mustafa Yıldırım
+  comment:  Türkiye'nin en büyük iletişim şirketinde 12 yıl iş tecrübesinden sonra
+            pizza restoran işletmeciliğine geçmiş biri olarak sektörde teknolojinin çok
+            az kullanıldığını ve bu yüzden işlerin verimli yürümediğini fark ettim.
+            Öncelikle son teknoloji olan, bulut tabanlı bir POS Sistemi arayışına
+            girdim, bu süreçte karşıma birçok seçenek çıktı. Hemen hemen hepsini
+            denedikten sonra basit arayüzü nedeniyle "Adisyo" diğer seçenekler arasında
+            ön plana çıktı. Beş şubemizin günlük hareketlerini istediğim her
+            yerden ulaşıp gerektiğinde anında müdahale imkanına sahip oldum.
+            Teşekkürler Adisyo.
+  logo: /assets/img/home/testimonial/pizzadunyasi.jpg
+
+- id: 21
+  company_name: Beyoğlu Çorbacısı
+  owner: Faik Sarı
+  comment: Programınızı bir yıldır kullanmaktayım. Program herkesin anlayabileceği
+           gayet basit ve sade bir tarzda tasarlanmış olup bir işletmenin ihtiyacı
+           olan hemen her şey mevcuttur. Bu tür programlar için son derece önemli olan
+           Destek Hizmetleri'de son derece ilgili ve hızlı.
+           Teşekkürler Adisyo.                    
+  logo: /assets/img/home/testimonial/beyoglucorba.jpg
+
+- id: 20
+  company_name: Küçük Fil Cafe & Restaurant
+  owner: Serkan Sert
+  comment:  On yıldır cafe restaurant sektöründe ve bizzat işin içindeyim. Senelerdir
+            bir çok adisyon programını inceledim, ancak incelediklerim arasında Adisyo
+            kadar basit, kafa karıştırmayan ve kullanılabilir olanına rastlamadım.
+            Firma yetkilileri ilgili ve taleplere hızlı cevap veriyor. Bu fiyata bu
+            hizmeti verdikleri için kendilerine teşekkür ediyor ve sektördeki tüm
+            işletmelere denemelerini tavsiye ediyorum.                     
+  logo: /assets/img/home/testimonial/kucukfil.jpg
+
+

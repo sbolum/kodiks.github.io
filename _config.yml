@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+name: Adisyo
+title: Bulut Tabanlı Adisyon Programı | Restaurant Programı | Cafe & Bar Programı | Restoran Otomasyonu | 15 Gün Ücretsiz Adisyon Programı
+description: Bulut tabanlı cafe ve restaurant adisyon pos sistemi ile operasyonlarınızı online yönetin! Hemen 15 gün ücretsiz deneyin.
+about: Adisyo, cafe ve restoran operasyonlarınızı, herhangi bir cihaz üzerinden yönetebileceğiniz, basit ve kullanımı kolay, bulut tabanlı POS sistemidir.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kodiks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+address: "Business İstanbul - Merdivenköy Mah. Yumurtacı Abdibey Cd. No:10 B-Blok D:138 Kadıköy/İstanbul"
+phone: "+90 (216) 706 06 24"
+email: "destek@adisyo.com"
+working_hours: "Pazartesi - Cumartesi 09.00 - 18.00"
+copyright: Copyright © Adisyo 2019. Tüm Hakları Saklıdır.
+
+store_google: https://play.google.com/store/apps/details?id=com.adisyo.mobile
+store_ios: https://itunes.apple.com/tr/app/adisyo-mobile/id1419508147?l=tr&mt=8
+store_windows: https://adisyo.com/downloads/adisyo-desktop/AdisyoDesktopInstaller.exe
+
+timezone: Turkey
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  
+collections:
+  features:
+    output: true
+    permalink: /ozellikler/:name
+#  posts:
+#    output: true
+#    permalink: /blog/:name/
+  release-notes:
+    output: true
+    permalink: /surum-notlari/:name/

@@ -1,0 +1,48 @@
+---
+layout: wrapper
+---
+
+
+<!--PAGE CONTENT-->
+{% include header_sub.html %}
+
+<section class="blog_area sec_pad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-sm-12">
+                <h2>Arşiv</h2>
+                <div class="post-by-tags-wrapper">
+                    {% for post in site.posts %}
+                    {% assign currentDate = post.date | date: "%Y" %}
+                    {% if currentDate != myDate %}
+                    {% unless forloop.first %}</ul>{% endunless %}
+                    <div class="post-by-tags-title">
+                        <h3 class="f_p f_size_20 t_color3" id="{{ currentDate }}">{{ currentDate }}</h3>
+                        <div class="border_bottom"></div>
+                    </div>
+                    {% assign myDate = currentDate %}
+                    {% endif %}
+                    <div class="post-by-tags">
+                        <a href="{{ post.url }}">
+                            <span>{{ post.title }}</span><em>{{ post.date | date: "%d-%m-%Y" }}</em>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-12">
+                    {% include blog_sidemenu.html %}
+                </div>
+
+            <!--
+            <ul class="col-lg-12 list-unstyled page-numbers shop_page_number text-left mt_30">
+                <li><span aria-current="page" class="page-numbers current">1</span></li>
+                <li><a class="page-numbers" href="#">2</a></li>
+                <li><a class="next page-numbers" href="#"><i class="ti-arrow-right"></i></a></li>
+            </ul>
+            -->
+        </div>
+    </div>
+</section>
+<!--PAGE CONTENT-->

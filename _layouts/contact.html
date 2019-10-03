@@ -1,0 +1,36 @@
+---
+layout: wrapper
+---
+
+    <!--PAGE CONTENT-->
+    {% include header_sub.html %}
+
+    <section class="contact_info_area sec_pad bg_color_white">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 pr-0">
+                    <div class="contact_info_item">
+                        <h6 class="f_p f_size_20 t_color3 f_600 mb_20"><i class="fa fa-map-marker" aria-hidden="true"></i> Adres Bilgileri</h6>
+                        <p class="f_400 f_size_15 pr_50">{{site.address}}</p>
+                    </div>
+                    <div class="contact_info_item">
+                        <h6 class="f_p f_size_20 t_color3 f_600 mb_20"><i class="ti ti-headphone-alt" aria-hidden="true"></i> İletişim Bilgileri</h6>
+                        <p class="f_400 f_size_15"><span class="f_600 t_color3">Telefon:</span> <a href="tel:{{site.phone}}">{{site.phone}}</a></p>
+                        <p class="f_400 f_size_15"><span class="f_600 t_color3">E-mail:</span> <a href="mailto:{{site.email}}">{{site.email}}</a></p>
+                    </div>
+
+                    <div class="contact_info_item">
+                        <h6 class="f_p f_size_20 t_color3 f_600 mb_20"><i class="fa fa-clock-o" aria-hidden="true"></i> Çalışma Saatleri</h6>
+                        <p class="f_400 f_size_15">{{site.working_hours}}</p>
+                    </div>
+                </div>
+                <div class="col-lg-7 offset-lg-1">
+                    <div class="mapbox">
+                        {% include google_map.html %}
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!--PAGE CONTENT-->

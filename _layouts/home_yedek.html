@@ -1,0 +1,304 @@
+---
+layout: wrapper
+---
+<!--slider-->
+<section class="agency_banner_area">
+    <img class="banner_shap" src="/assets/img/home/banner_bg.png" alt="">
+    <div class="container custom_container">
+        <div class="row">
+            <div class="col-lg-6 d-flex align-items-center">
+                <div class="agency_content">
+                    <h2 class="f_400 t_color3 wow fadeInLeft" data-wow-delay="1s">Hızlı ve Kurulum Gerektirmeyen</h2>
+                    <h2 class="f_600 t_color3 wow fadeInLeft" data-wow-delay="1s">POS Sistemi</h2>
+                    <p class="f_400 f_size_18 mt_25 wow fadeInLeft" data-wow-delay="1s">
+                        Adisyo, cafe/restaurant operasyonlarınızı online olarak, herhangi bir cihaz üzerinden
+                        yönetebileceğiniz, bulut tabanlı POS sistemidir. <br><b>Üstelik ilk 15 gün ücretsiz</b>
+                    </p>
+                    <div class="action_btn d-flex align-items-center mt_40">
+
+                        <a href="#" class="modal-toggle slider_btn_tr wow fadeInLeft mr_10 hidden-xs"
+                            data-openpopup="signuplogin" data-popup="call" data-wow-delay="1.2s"> <i
+                                class="ti ti-headphone-alt top-ico-fix"></i> Sizi Arayalım</a>
+                        <a href="http://pos.adisyo.com/login/?t=1" target="_blank" class="slider_btn white_btn wow fadeInLeft">Ücretsiz
+                            15 Gün Dene</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 text-right">
+                <div class="slider_img">
+                    <img class="app_screen mb_20 two wow fadeInDown animated" src="/assets/img/home/ipad-adisyo.png"
+                        alt="" style="visibility: visible; animation-name: animateUpDown;">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!--adisyo properties-->
+<section class="prototype_service_area_three bg_color_white">
+    <div class="container">
+        <div class="prototype_service_info">
+            <div class="symbols-pulse active">
+                <div class="pulse-1"></div>
+                <div class="pulse-2"></div>
+                <div class="pulse-3"></div>
+                <div class="pulse-4"></div>
+                <div class="pulse-x"></div>
+            </div>
+            <h2 class="f_size_34 f_600 t_color3 l_height30 mb_20 text-center mt_60 wow fadeInDown"
+                data-wow-delay="0.3s">
+                Adisyo'nun Benzersiz Özellikleri ile Tanışın</h2>
+            <p class="f_400 f_size_16 l_height30 text-center mb_90 wow wow fadeInDown" data-wow-delay="0.8s">Adisyo'nun
+                benzersiz özellikleri ile tanışın! İhtiyacınız olan tüm özellikleri bir araya getirdik.</p>
+            <div class="row p_service_info">
+                {% for feature in site.data.home_features %}
+                <div class="col-lg-4 col-sm-4">
+                    <div class="p_service_item pr_70 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="icon {{feature.color}}"><i class="{{feature.icon}}"></i></div>
+                        <h5 class="f_600 f_p t_color3">{{feature.title}}</h5>
+                        <p class="f_400">
+                            {{feature.description}}
+                        </p>
+                        <!--<div class="text-center mt_10"><a href="{{feature.url}}" class="learn_btn_two">Keşfet <i class="ti-arrow-right"></i></a></div>-->
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="text-center mt_90">
+                <a class="properties_btn_tr" href="/ozellikler">Tüm Özellikler</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--pricing-->
+<section class="pricing_area bg_color sec_pad">
+    <div class="container custom_container p0">
+        <div class="sec_title text-center">
+            <h2 class="f_p f_size_34 l_height30 f_600 t_color2">Fiyatlarımız</h2>
+            <p class="f_400 f_size_16 l_height30 mb-0">Adisyo ile en kapsamlı özellikler, en uygun fiyatlarla sizleri
+                bekliyor
+            </p>
+        </div>
+        <ul class="nav nav-tabs price_tab mt_50" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active active_hover" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                    aria-controls="home" aria-selected="true">Aylık Plan</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                    aria-controls="profile" aria-selected="false">Yıllık Plan</a>
+            </li>
+        </ul>
+        <div class="tab-content price_content" id="myTabContent">
+            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-4 pb_15">
+                        <div class="price_item">
+                            <img src="/assets/img/home/price/price-1.png" alt="">
+                            <h5 class="f_p f_size_22 f_600 t_color2 mt_30">1 Aylık</h5>
+                            <p>30 Gün Boyunca Ücretsiz</p>
+                            <div class="price f_600 f_size_40 t_color2">49,99 ₺<sub class="f_size_16 f_400">/
+                                    aylık</sub></div>
+                            <ul class="list-unstyled p_list">
+                                <li> Sınırsız Kullanıcı</li>
+                                <li> Kurulum Ücreti Yok</li>
+                                <li> Bakım Ücreti Yok</li>
+                                <li> Güncelleme Ücreti Yok</li>
+                                <li> Lisans Ücreti Yok</li>
+                            </ul>
+                            <a href="#" class="modal-toggle price_btn btn_hover" data-openpopup="signuplogin"
+                                data-popup="login">Ücretsiz Dene</a>
+                            <p class="f-p-y">* Kredi Kartı Gerekmez</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-4 pb_15">
+                        <div class="price_item">
+                            <img src="/assets/img/home/price/price-2.png" alt="">
+                            <h5 class="f_p f_size_22 f_600 t_color2 mt_30">6 Aylık</h5>
+                            <p>% 10 İndirimli</p>
+                            <div class="price f_600 f_size_40 t_color2">139,99 ₺<sub class="f_size_16 f_400">/ 6
+                                    aylık</sub></div>
+                            <ul class="list-unstyled p_list">
+                                <li> Sınırsız Kullanıcı</li>
+                                <li> Kurulum Ücreti Yok</li>
+                                <li> Bakım Ücreti Yok</li>
+                                <li> Güncelleme Ücreti Yok</li>
+                                <li> Lisans Ücreti Yok</li>
+                            </ul>
+                            <a href="#" class="modal-toggle price_btn btn_hover" data-openpopup="signuplogin"
+                                data-popup="login">Ücretsiz Dene</a>
+                            <p class="f-p-y">* Kredi Kartı Gerekmez</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-4 pb_15">
+                        <div class="price_item select-price">
+                            <div class="tag"><span>Popüler</span></div>
+                            <img src="/assets/img/home/price/price-3.png" alt="">
+                            <h5 class="f_p f_size_22 f_600 t_color2 mt_30">12 Aylık</h5>
+                            <p>% 20 İndirimli</p>
+                            <div class="price f_600 f_size_40 t_color2">379,99 ₺<sub class="f_size_16 f_400">/ 12
+                                    aylık</sub></div>
+                            <ul class="list-unstyled p_list">
+                                <li> Sınırsız Kullanıcı</li>
+                                <li> Kurulum Ücreti Yok</li>
+                                <li> Bakım Ücreti Yok</li>
+                                <li> Güncelleme Ücreti Yok</li>
+                                <li> Lisans Ücreti Yok</li>
+                            </ul>
+                            <a href="#" class="modal-toggle price_btn btn_hover" data-openpopup="signuplogin"
+                                data-popup="login">Ücretsiz Dene</a>
+                            <p class="f-p-y">* Kredi Kartı Gerekmez</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-4 pb_15">
+                        <div class="price_item">
+                            <img src="/assets/img/home/price/price-1.png" alt="">
+                            <h5 class="f_p f_size_22 f_600 t_color2 mt_30">2 Yıllık</h5>
+                            <p>30 Gün Boyunca Ücretsiz</p>
+                            <div class="price f_600 f_size_40 t_color2">2,200 ₺<sub class="f_size_16 f_400">/ 48
+                                    aylık</sub></div>
+                            <ul class="list-unstyled p_list">
+                                <li> Sınırsız Kullanıcı</li>
+                                <li> Kurulum Ücreti Yok</li>
+                                <li> Bakım Ücreti Yok</li>
+                                <li> Güncelleme Ücreti Yok</li>
+                                <li> Lisans Ücreti Yok</li>
+                            </ul>
+                            <a href="#" class="modal-toggle price_btn btn_hover" data-openpopup="signuplogin"
+                                data-popup="login">Ücretsiz Dene</a>
+                            <p class="f-p-y">* Kredi Kartı Gerekmez</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 pb_15">
+                        <div class="price_item">
+                            <img src="/assets/img/home/price/price-2.png" alt="">
+                            <h5 class="f_p f_size_22 f_600 t_color2 mt_30">3 Yıllık</h5>
+                            <p>% 10 İndirimli</p>
+                            <div class="price f_600 f_size_40 t_color2">3,200 ₺<sub class="f_size_16 f_400">/ 36
+                                    aylık</sub></div>
+                            <ul class="list-unstyled p_list">
+                                <li> Sınırsız Kullanıcı</li>
+                                <li> Kurulum Ücreti Yok</li>
+                                <li> Bakım Ücreti Yok</li>
+                                <li> Güncelleme Ücreti Yok</li>
+                                <li> Lisans Ücreti Yok</li>
+                            </ul>
+                            <a href="#" class="modal-toggle price_btn btn_hover" data-openpopup="signuplogin"
+                                data-popup="login">Ücretsiz Dene</a>
+                            <p class="f-p-y">* Kredi Kartı Gerekmez</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 pb_15">
+                        <div class="price_item select-price">
+                            <div class="tag"><span>Popüler</span></div>
+                            <img src="/assets/img/home/price/price-3.png" alt="">
+                            <h5 class="f_p f_size_22 f_600 t_color2 mt_30">5 Yıllık</h5>
+                            <p>% 20 İndirimli</p>
+                            <div class="price f_600 f_size_40 t_color2">4,200 ₺<sub class="f_size_16 f_400">/ 60
+                                    aylık</sub></div>
+                            <ul class="list-unstyled p_list">
+                                <li> Sınırsız Kullanıcı</li>
+                                <li> Kurulum Ücreti Yok</li>
+                                <li> Bakım Ücreti Yok</li>
+                                <li> Güncelleme Ücreti Yok</li>
+                                <li> Lisans Ücreti Yok</li>
+                            </ul>
+                            <a href="#" class="modal-toggle price_btn btn_hover" data-openpopup="signuplogin"
+                                data-popup="login">Ücretsiz Dene</a>
+                            <p class="f-p-y">* Kredi Kartı Gerekmez</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--mobile banner-->
+<section class="get_started_area">
+    <div class="shap one"></div>
+    <div class="shap two"></div>
+    <div class="shap one three"></div>
+    <div class="shap two four"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 d-flex align-items-center">
+                <div class="get_content">
+                    <h3 class="f_400 f_p wow fadeInLeft" data-wow-delay="0.2s">Hemen İndir</h3>
+                    <h2 class="f_600 f_p f_size_40 l_height50 mb_20 wow fadeInLeft" data-wow-delay="0.3s">Mobil
+                        uygulamalarımızı denediniz mi?</h2>
+                    <p class="f_400 f_size_16 mb_40 wow fadeInLeft" data-wow-delay="0.4s">Google Play ve App Store
+                        üzerinden mobil uygulamamızı indirebilirsiniz. Böylece tablet ve akıllı telefonlarınızda,
+                        uygulama üzerinden garsonlarınızın sipariş girip, ödeme almalarını sağlayabilirsiniz.
+                    </p>
+                    <a href="{{site.store_google}}" target="_blank" class="app_btn app_btn_two wow fadeInLeft"
+                        data-wow-delay="0.5s"><img src="/assets/img/home/google_icon.png" alt="">Google Play</a>
+
+                    <a href="{{site.store_ios}}" target="_blank" class="app_btn app_btn_two wow fadeInLeft"
+                        data-wow-delay="0.6s"><i class="fab fa-apple"></i>App Store</a>
+
+                    <a href="{{site.store_windows}}" target="_blank" class="app_btn app_btn_two wow fadeInLeft"
+                        data-wow-delay="0.7s"><i class="fa fa-windows"></i>Windows Setup</a>
+                </div>
+            </div>
+            <div class="col-lg-4 text-right wow fadeInRight" data-wow-delay="0.7s">
+                <img class="app_mobile_img" src="/assets/img/home/iPhoneX3.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--client testimonial-->
+<section class="agency_testimonial_area bg_color_lg sec_pad">
+    <div class="container">
+        <h2 class="f_size_34 f_600 t_color3 l_height40 text-center mb_40">Kullanıcı Yorumları</h2>
+        <div class="agency_testimonial_info">
+            <div class="testimonial_slider owl-carousel">
+                {% assign comments=site.data.client_testimonial | sort: "id" | reverse %} {% for item in comments %}
+                <div class="testimonial_item text-center center">
+                    <div class="author_img"><img src="{{item.logo}}" alt=""></div>
+                    <div class="author_description">
+                        <h4 class="f_500 t_color3 f_size_18">{{item.company_name}}</h4>
+                        <h6>{{item.owner}}</h6>
+                    </div>
+                    <p>
+                        {{item.comment}}
+                    </p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!--partners logo-->
+        <div class="partner_logo_area_four">
+            <h4 class="f_size_18 f_400 f_p text-center l_height28 mb_60">Adisyo'yu tercih eden tüm markalarımıza sonsuz
+                teşekkürler, birlikte daha güçlüyüz!</h4>
+            <div class="row partner_info">
+                <div class="logo_item wow fadeInLeft" data-wow-delay="0.1s">
+                    <a href="#"><img src="/assets/img/home/logos/logo_01.png" alt=""></a>
+                </div>
+                <div class="logo_item wow fadeInLeft" data-wow-delay="0.2s">
+                    <a href="#"><img src="/assets/img/home/logos/logo_02.png" alt=""></a>
+                </div>
+                <div class="logo_item wow fadeInLeft" data-wow-delay="0.3s">
+                    <a href="#"><img src="/assets/img/home/logos/logo_03.png" alt=""></a>
+                </div>
+                <div class="logo_item wow fadeInLeft" data-wow-delay="0.4s">
+                    <a href="#"><img src="/assets/img/home/logos/logo_04.png" alt=""></a>
+                </div>
+                <div class="logo_item wow fadeInLeft" data-wow-delay="0.5s">
+                    <a href="#"><img src="/assets/img/home/logos/logo_05.png" alt=""></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
