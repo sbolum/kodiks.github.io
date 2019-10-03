@@ -85,6 +85,7 @@
   url: /banka-bilgilerimiz/
   isHeader: false
   isFooter: true
+<<<<<<< HEAD
   submenu: false  
 
 - id: 11
@@ -92,4 +93,6 @@
   url: /surum-notlari/
   isHeader: false
   isFooter: true
+=======
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
   submenu: false  

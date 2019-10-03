@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-03T17:12:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bulut Tabanlı Adisyon Programı | Restaurant Programı | Cafe &amp;amp; Bar Programı | Restoran Otomasyonu | 15 Gün Ücretsiz Adisyon Programı</title><subtitle>Bulut tabanlı cafe ve restaurant adisyon pos sistemi ile operasyonlarınızı online yönetin! Hemen 15 gün ücretsiz deneyin.</subtitle><entry><title type="html">Restoran ve Kafe İşletmeciliğinin Püf Noktaları</title><link href="http://localhost:4000/blog/restoran-ve-kafe-i-sletmeciliginin-puf-noktalari" rel="alternate" type="text/html" title="Restoran ve Kafe İşletmeciliğinin Püf Noktaları" /><published>2019-01-01T12:00:00+03:00</published><updated>2019-01-01T12:00:00+03:00</updated><id>http://localhost:4000/blog/restoran-ve-kafe-i%CC%87sletmeciliginin-puf-noktalari</id><content type="html" xml:base="http://localhost:4000/blog/restoran-ve-kafe-i-sletmeciliginin-puf-noktalari">&lt;h3 id=&quot;bir-restoran-kafe-sahibi-işletmecisisiniz-ya-da-hayalinizdeki-restoran-kafeyi-açmayı-planlıyorsunuz-İşin-püf-noktalarını-bilirseniz-başarılı-olmamanız-için-en-ufak-bir-neden-yok&quot;&gt;Bir restoran/ kafe sahibi, işletmecisisiniz ya da hayalinizdeki restoran/ kafeyi açmayı planlıyorsunuz. İşin püf noktalarını bilirseniz, başarılı olmamanız için en ufak bir neden yok&lt;/h3&gt;
 
 &lt;p&gt;Bir restoran/ kafe sahibi veya işletmecisi misiniz? Yeme-içme sektörüne yatırım yapmayı mı planlıyorsunuz? Yalnızca mutfakta değil, mekanın farklı alanlarında mı görev yapıyorsunuz? Yoksa iyi bir hizmet bekleyen daimi müşterilerden misiniz? Aşağıdaki tavsiyeler, bu soruların herhangi birine “evet” cevabı verenler için…&lt;/p&gt;
@@ -7,6 +8,17 @@
 &lt;p&gt;Giderlerinizi ve lokasyonu iyi belirleyin. İşletmenizi operasyona açabilmek için hukuki önceliklerinizi araştırın. İhtiyacınız olan sigortadan izinler ve lisanslara, satış vergilerini yapılandırmaktan sağlık lisansları için yeterlilik göstermeye kadar her konuda bilgi sahibi olun. Muhasebe, maaş bordro ve raporlama işlemleri için uzmanlardan yardım alın. “Güvenlik”i asla atlamayın. ERP ve CRM gibi yazılımlar ile satışlarınızı artırabilmek adına pek çok işi otomatik hale getirebileceğinizi unutmayın. Ama tüm bu süreçleri kendiniz yürütecekseniz, ona göre bir “eylem planı” hazırlayın.&lt;/p&gt;
 
 &lt;h3 id=&quot;mutfak-ve-tema-seçiminin-Önemi&quot;&gt;Mutfak ve Tema Seçiminin Önemi&lt;/h3&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-03T13:15:42+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bulut Tabanlı Adisyon Programı | Restaurant Programı | Cafe &amp;amp; Bar Programı | Restoran Otomasyonu | 15 Gün Ücretsiz Adisyon Programı</title><subtitle>Bulut tabanlı cafe ve restaurant adisyon pos sistemi ile operasyonlarınızı online yönetin! Hemen 15 gün ücretsiz deneyin.</subtitle><entry><title type="html">Restoran ve Kafe İşletmeciliğinin Püf Noktaları</title><link href="http://localhost:4000/blog/restoran-ve-kafe-i-sletmeciliginin-puf-noktalari" rel="alternate" type="text/html" title="Restoran ve Kafe İşletmeciliğinin Püf Noktaları" /><published>2019-01-01T09:00:00+00:00</published><updated>2019-01-01T09:00:00+00:00</updated><id>http://localhost:4000/blog/restoran-ve-kafe-i%CC%87sletmeciliginin-puf-noktalari</id><content type="html" xml:base="http://localhost:4000/blog/restoran-ve-kafe-i-sletmeciliginin-puf-noktalari">&lt;h3 id=&quot;bir-restoran-kafe-sahibi-işletmecisisiniz-ya-da-hayalinizdeki-restoran-kafeyi-açmayı-planlıyorsunuz-i̇şin-püf-noktalarını-bilirseniz-başarılı-olmamanız-için-en-ufak-bir-neden-yok&quot;&gt;Bir restoran/ kafe sahibi, işletmecisisiniz ya da hayalinizdeki restoran/ kafeyi açmayı planlıyorsunuz. İşin püf noktalarını bilirseniz, başarılı olmamanız için en ufak bir neden yok&lt;/h3&gt;
+
+&lt;p&gt;Bir restoran/ kafe sahibi veya işletmecisi misiniz? Yeme-içme sektörüne yatırım yapmayı mı planlıyorsunuz? Yalnızca mutfakta değil, mekanın farklı alanlarında mı görev yapıyorsunuz? Yoksa iyi bir hizmet bekleyen daimi müşterilerden misiniz? Aşağıdaki tavsiyeler, bu soruların herhangi birine “evet” cevabı verenler için…&lt;/p&gt;
+
+&lt;h3 id=&quot;ticari-ve-hukuki-boyutlarını-i̇yi-araştırın&quot;&gt;Ticari ve Hukuki Boyutlarını İyi Araştırın&lt;/h3&gt;
+
+&lt;p&gt;Giderlerinizi ve lokasyonu iyi belirleyin. İşletmenizi operasyona açabilmek için hukuki önceliklerinizi araştırın. İhtiyacınız olan sigortadan izinler ve lisanslara, satış vergilerini yapılandırmaktan sağlık lisansları için yeterlilik göstermeye kadar her konuda bilgi sahibi olun. Muhasebe, maaş bordro ve raporlama işlemleri için uzmanlardan yardım alın. “Güvenlik”i asla atlamayın. ERP ve CRM gibi yazılımlar ile satışlarınızı artırabilmek adına pek çok işi otomatik hale getirebileceğinizi unutmayın. Ama tüm bu süreçleri kendiniz yürütecekseniz, ona göre bir “eylem planı” hazırlayın.&lt;/p&gt;
+
+&lt;h3 id=&quot;mutfak-ve-tema-seçiminin-önemi&quot;&gt;Mutfak ve Tema Seçiminin Önemi&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Sporla ilgili bir konsept mi kulüp tarzında bir mekan mı? Lokal olarak hizmet verecek bir restoran mı gurme restoran mı? İş yemekleri mi günlük yemek mi?&lt;/p&gt;
 
@@ -28,7 +40,11 @@
 
 &lt;p&gt;Müşterileriniz için kesintisiz ve hızlı internet önemli. Artık pek çok işletme için vazgeçilmez. Restoran ve kafe işletmecisi olarak da dijitalleşmeden korkmayın. Müşteri deneyimlerini internet ortamından ve sosyal medya platformlarından takip edin, sosyal medyadan nasıl en iyi şekilde fayda sağlayabileceğinizi öğrenin; hatta işi uzmanlara teslim edin. Dijital alanda “var olun”, gerektiğinde krizleri de avantaja dönüştürebileceğinizi unutmayın.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Kullanıcılar, günümüzde akıllı telefonlar üzerinden yemek seçeneklerini araştırabiliyor; işletmelerin menüleri online ortamda görülüyor. Paket siparişler için de dijital dünyanın nimetlerinden yararlanın. Sipariş verme opsiyonlarını internet, telefon ya da değişik kanallar aracılığıyla belirleyebilirsiniz. Müşterileriniz size hem fiziki hem dijital alanda rahatlıkla “ulaşabilmeli”.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Bir restoran/ kafe sahibi, işletmecisisiniz ya da hayalinizdeki restoran/ kafeyi açmayı planlıyorsunuz. İşin püf noktalarını bilirseniz, başarılı olmamanız için en ufak bir neden yok</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog5.png" /></entry><entry><title type="html">Bu Filmlerin Başrolünde “Yemek” Var!</title><link href="http://localhost:4000/blog/bu-filmlerin-basrolunde-yemek-var" rel="alternate" type="text/html" title="Bu Filmlerin Başrolünde “Yemek” Var!" /><published>2018-09-15T12:00:00+03:00</published><updated>2018-09-15T12:00:00+03:00</updated><id>http://localhost:4000/blog/bu-filmlerin-basrolunde-yemek-var</id><content type="html" xml:base="http://localhost:4000/blog/bu-filmlerin-basrolunde-yemek-var">&lt;p&gt;&lt;strong&gt;Şeflerin Savaşı’ndan Çikolata’ya, Başrolünde “Yemek” Olan Unutulmaz Filmler&lt;/strong&gt;&lt;/p&gt;
+=======
+&lt;p&gt;Kullanıcılar, günümüzde akıllı telefonlar üzerinden yemek seçeneklerini araştırabiliyor; işletmelerin menüleri online ortamda görülüyor. Paket siparişler için de dijital dünyanın nimetlerinden yararlanın. Sipariş verme opsiyonlarını internet, telefon ya da değişik kanallar aracılığıyla belirleyebilirsiniz. Müşterileriniz size hem fiziki hem dijital alanda rahatlıkla “ulaşabilmeli”.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Bir restoran/ kafe sahibi, işletmecisisiniz ya da hayalinizdeki restoran/ kafeyi açmayı planlıyorsunuz. İşin püf noktalarını bilirseniz, başarılı olmamanız için en ufak bir neden yok</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog5.png" /></entry><entry><title type="html">Bu Filmlerin Başrolünde “Yemek” Var!</title><link href="http://localhost:4000/blog/bu-filmlerin-basrolunde-yemek-var" rel="alternate" type="text/html" title="Bu Filmlerin Başrolünde “Yemek” Var!" /><published>2018-09-15T09:00:00+00:00</published><updated>2018-09-15T09:00:00+00:00</updated><id>http://localhost:4000/blog/bu-filmlerin-basrolunde-yemek-var</id><content type="html" xml:base="http://localhost:4000/blog/bu-filmlerin-basrolunde-yemek-var">&lt;p&gt;&lt;strong&gt;Şeflerin Savaşı’ndan Çikolata’ya, Başrolünde “Yemek” Olan Unutulmaz Filmler&lt;/strong&gt;&lt;/p&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Şeflerin Savaşı (Comme un Chef), Tost (Toast), İyi Bir Yıl (A Good Year), Julie &amp;amp; Julia, Garson Kız (Waitress) ve niceleri… İşte bir kez daha izlemeye doyamayacağınız yemek temalı filmler&lt;/p&gt;
 
@@ -90,7 +106,11 @@ Oyuncular; Jon Favreau, John Leguizamo, Sofia Vergara.&lt;/p&gt;
 
 &lt;p&gt;İnatçı bir aşçı: Primo… Kardeşi Secondo da üçkağıtçılıkla meşgul bir adam! Abi Primo memleketine dönmek için yanıp tutuşan, Seconda ise Amerikan kültürünü iyice benimsemiş ve Amerikan rüyasını gerçekleştirmek isteyen saf bir İtalyan. İşlerini batırma noktasına gelen iki kardeşin hikayesi. 1996 yılında gösterime giren filmin yönetmenleri, Stanley Tucci ve Campbell Scott.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Oyuncular; Stanley Tucci, Tony Shalhoub, Campbell Scott, Isabella Rossellini.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Film" /><category term="Yemek" /><category term="Adisyo" /><category term="Adisyon" /><category term="Şef" /><summary type="html">Şeflerin Savaşı’ndan Çikolata’ya, Başrolünde “Yemek” Olan Unutulmaz Filmler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog1.png" /></entry><entry><title type="html">Paket Servisin Püf Noktaları Nelerdir?</title><link href="http://localhost:4000/blog/paket-servisin-puf-noktalari-restoran-i-sletmecileri-nasil-bir-yol-i-zlemeli" rel="alternate" type="text/html" title="Paket Servisin Püf Noktaları Nelerdir?" /><published>2018-09-13T12:00:00+03:00</published><updated>2018-09-13T12:00:00+03:00</updated><id>http://localhost:4000/blog/paket-servisin-puf-noktalari-restoran-i%CC%87sletmecileri-nasil-bir-yol-i%CC%87zlemeli</id><content type="html" xml:base="http://localhost:4000/blog/paket-servisin-puf-noktalari-restoran-i-sletmecileri-nasil-bir-yol-i-zlemeli">&lt;p&gt;&lt;strong&gt;Paket Servisin İncelikleri: Restoran ve Kafe İşletmecilerine Altın Değerinde Öneriler&lt;/strong&gt;&lt;/p&gt;
+=======
+&lt;p&gt;Oyuncular; Stanley Tucci, Tony Shalhoub, Campbell Scott, Isabella Rossellini.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Film" /><category term="Yemek" /><category term="Adisyo" /><category term="Adisyon" /><category term="Şef" /><summary type="html">Şeflerin Savaşı’ndan Çikolata’ya, Başrolünde “Yemek” Olan Unutulmaz Filmler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog1.png" /></entry><entry><title type="html">Paket Servisin Püf Noktaları Nelerdir?</title><link href="http://localhost:4000/blog/paket-servisin-puf-noktalari-restoran-i-sletmecileri-nasil-bir-yol-i-zlemeli" rel="alternate" type="text/html" title="Paket Servisin Püf Noktaları Nelerdir?" /><published>2018-09-13T09:00:00+00:00</published><updated>2018-09-13T09:00:00+00:00</updated><id>http://localhost:4000/blog/paket-servisin-puf-noktalari-restoran-i%CC%87sletmecileri-nasil-bir-yol-i%CC%87zlemeli</id><content type="html" xml:base="http://localhost:4000/blog/paket-servisin-puf-noktalari-restoran-i-sletmecileri-nasil-bir-yol-i-zlemeli">&lt;p&gt;&lt;strong&gt;Paket Servisin İncelikleri: Restoran ve Kafe İşletmecilerine Altın Değerinde Öneriler&lt;/strong&gt;&lt;/p&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Beyaz yakalılardan üniversitelilere, vakitsizlikten yakınıp yemek yapmaya hatta yemek için dışarı çıkmaya vakti olmayanlara kadar herkesin tercihi… Eve/ ofise yemek siparişi yani paket servis gün geçtikçe daha popüler hale geliyor; lokanta/ cafe/ restoran işletmecileri de paket servis hizmetleriyle cirolarını artırmayı planlıyor&lt;/p&gt;
 
@@ -118,7 +138,11 @@ Oyuncular; Jon Favreau, John Leguizamo, Sofia Vergara.&lt;/p&gt;
 
 &lt;p&gt;Yukarıda sözünü ettiğimiz kurallara uydunuz, şimdiden müşteri kazandınız! Onları kaybetmemek adına ikramlarda (salata/ meze/ tatlı gibi) bulunabilir, kampanyalarla müşterilerinizin sizden vazgeçmemesini sağlayabilirsiniz. Paket serviste inşa edilen müşteri memnuniyeti, işletmelere sadık müşteriler kazandırır. Sevdiğiniz yemekler, ayağınıza kadar tam istediğiniz şekilde geliyor! Neden başka bir yer tercih edesiniz ki! Sadık müşterilerinizin kaydını tutun, onların “her zamanki” siparişlerini es geçmeyin. Ayrıca menüye yeni eklenen ürünler varsa, çeşitli kampanyalar ve indirimlerle bu ürünleri tanıtabilirsiniz.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Mekanın web sitesini güncellemeyi unutmayın. İletişim bilgileriniz her zaman doğru olmalı. Müşterileriniz sizi dakikalarca aramamalı. Web sitesiniz ve sosyal medya hesaplarınız dışında broşürler, buzdolabı “magnet”ları da hazırlatın. Yalnız çevre kirliliğine dikkat! Sokaklarda, apartman önlerinde onlarca broşürünüzün olması size artı puan kazandırmaz. Reklam bütçeniz doğrultusunda dijital ya da yazılı/ görsel basına ilan da verebilirsiniz.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Paket Servis" /><category term="Adisyo" /><category term="Adisyon" /><category term="Restoran" /><category term="Kafe" /><summary type="html">Paket Servisin İncelikleri: Restoran ve Kafe İşletmecilerine Altın Değerinde Öneriler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog2.png" /></entry><entry><title type="html">İyi Bir Garson ve ya Servis Elemanında Bulunması Gereken Özellikler</title><link href="http://localhost:4000/blog/i-yi-bir-garson-servis-elemaninda-bulunmasi-gereken-ozellikler" rel="alternate" type="text/html" title="İyi Bir Garson ve ya Servis Elemanında Bulunması Gereken Özellikler" /><published>2018-08-29T12:00:00+03:00</published><updated>2018-08-29T12:00:00+03:00</updated><id>http://localhost:4000/blog/i%CC%87yi-bir-garson-servis-elemaninda-bulunmasi-gereken-ozellikler</id><content type="html" xml:base="http://localhost:4000/blog/i-yi-bir-garson-servis-elemaninda-bulunmasi-gereken-ozellikler">&lt;p&gt;&lt;strong&gt;Herkes Garsonluk Yapabilir Ama Herkes İyi Bir Garson Olamaz! İyi Bir Garsonda Bulunması Gereken Özellikler&lt;/strong&gt;&lt;/p&gt;
+=======
+&lt;p&gt;Mekanın web sitesini güncellemeyi unutmayın. İletişim bilgileriniz her zaman doğru olmalı. Müşterileriniz sizi dakikalarca aramamalı. Web sitesiniz ve sosyal medya hesaplarınız dışında broşürler, buzdolabı “magnet”ları da hazırlatın. Yalnız çevre kirliliğine dikkat! Sokaklarda, apartman önlerinde onlarca broşürünüzün olması size artı puan kazandırmaz. Reklam bütçeniz doğrultusunda dijital ya da yazılı/ görsel basına ilan da verebilirsiniz.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Paket Servis" /><category term="Adisyo" /><category term="Adisyon" /><category term="Restoran" /><category term="Kafe" /><summary type="html">Paket Servisin İncelikleri: Restoran ve Kafe İşletmecilerine Altın Değerinde Öneriler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog2.png" /></entry><entry><title type="html">İyi Bir Garson ve ya Servis Elemanında Bulunması Gereken Özellikler</title><link href="http://localhost:4000/blog/i-yi-bir-garson-servis-elemaninda-bulunmasi-gereken-ozellikler" rel="alternate" type="text/html" title="İyi Bir Garson ve ya Servis Elemanında Bulunması Gereken Özellikler" /><published>2018-08-29T09:00:00+00:00</published><updated>2018-08-29T09:00:00+00:00</updated><id>http://localhost:4000/blog/i%CC%87yi-bir-garson-servis-elemaninda-bulunmasi-gereken-ozellikler</id><content type="html" xml:base="http://localhost:4000/blog/i-yi-bir-garson-servis-elemaninda-bulunmasi-gereken-ozellikler">&lt;p&gt;&lt;strong&gt;Herkes Garsonluk Yapabilir Ama Herkes İyi Bir Garson Olamaz! İyi Bir Garsonda Bulunması Gereken Özellikler&lt;/strong&gt;&lt;/p&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Garsonluğu kimileri geçici görür, kimileri ise hayatını bu işe adar, sektörde haklı bir üne sahip olur. Yüksek enerji gerektiren bir iş olduğu için genellikle 18–40 yaş ortalamasındaki kişilerin yaptığı garsonluk, “doğru” yapıldığı takdirde işletmelerin itibarını yükseltir, müşteri sayısını artırır&lt;/p&gt;
 
@@ -162,7 +186,11 @@ Oyuncular; Jon Favreau, John Leguizamo, Sofia Vergara.&lt;/p&gt;
 
 &lt;p&gt;Ayrıca mutfaktan çıkan her şey servis edilmez. İlk önce garsonun elinden geçtiği için eğer yanlış bir şey varsa servis edilmemeli. Lütfen biraz dikkat!&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Ve son bir hatırlatma: Garsonlar, müşteriye dokunmaz!&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Garson" /><category term="Adisyo" /><category term="Adisyon" /><category term="Müşteri" /><summary type="html">Herkes Garsonluk Yapabilir Ama Herkes İyi Bir Garson Olamaz! İyi Bir Garsonda Bulunması Gereken Özellikler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog3.png" /></entry><entry><title type="html">Michelin Yıldızı Nedir? Michelin Yıldızlı Şefler</title><link href="http://localhost:4000/blog/michelin-yildizi-nedir-michelin-yildizli-sefler" rel="alternate" type="text/html" title="Michelin Yıldızı Nedir? Michelin Yıldızlı Şefler" /><published>2018-08-08T12:00:00+03:00</published><updated>2018-08-08T12:00:00+03:00</updated><id>http://localhost:4000/blog/michelin-yildizi-nedir-michelin-yildizli-sefler</id><content type="html" xml:base="http://localhost:4000/blog/michelin-yildizi-nedir-michelin-yildizli-sefler">&lt;h3 id=&quot;michelin-yıldızı-nasıl-alınır-michelin-yıldızlı-Şefler-kimlerdir&quot;&gt;Michelin Yıldızı Nasıl Alınır? Michelin Yıldızlı Şefler Kimlerdir?&lt;/h3&gt;
+=======
+&lt;p&gt;Ve son bir hatırlatma: Garsonlar, müşteriye dokunmaz!&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Garson" /><category term="Adisyo" /><category term="Adisyon" /><category term="Müşteri" /><summary type="html">Herkes Garsonluk Yapabilir Ama Herkes İyi Bir Garson Olamaz! İyi Bir Garsonda Bulunması Gereken Özellikler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog3.png" /></entry><entry><title type="html">Michelin Yıldızı Nedir? Michelin Yıldızlı Şefler</title><link href="http://localhost:4000/blog/michelin-yildizi-nedir-michelin-yildizli-sefler" rel="alternate" type="text/html" title="Michelin Yıldızı Nedir? Michelin Yıldızlı Şefler" /><published>2018-08-08T09:00:00+00:00</published><updated>2018-08-08T09:00:00+00:00</updated><id>http://localhost:4000/blog/michelin-yildizi-nedir-michelin-yildizli-sefler</id><content type="html" xml:base="http://localhost:4000/blog/michelin-yildizi-nedir-michelin-yildizli-sefler">&lt;h3 id=&quot;michelin-yıldızı-nasıl-alınır-michelin-yıldızlı-şefler-kimlerdir&quot;&gt;Michelin Yıldızı Nasıl Alınır? Michelin Yıldızlı Şefler Kimlerdir?&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Aylar öncesinden rezervasyon alan, yeme-içme meraklılarıyla dolup taşan 
 restoranlar ve onların Hollywood yıldızları kadar ünlü şefleri… “Michelin 
@@ -224,7 +252,11 @@ Japonya, 32 adet 3 yıldız; 61 adet 2 yıldız ve 224 adet 1 Michelin yıldızl
 restoranlarıyla bu alanda en çok yıldıza sahip ülkelerden. Fransa, Almanya ve 
 ABD de bu yarışın içinde.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;michelin-yıldızlı-restoranlar-ve-Ünlü-Şefler&quot;&gt;Michelin Yıldızlı Restoranlar ve Ünlü Şefler&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;michelin-yıldızlı-restoranlar-ve-ünlü-şefler&quot;&gt;Michelin Yıldızlı Restoranlar ve Ünlü Şefler&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;En dikkat çeken Michelin Yıldızlı restoranları şöyle sıralamak mümkün:&lt;/p&gt;
 
@@ -264,7 +296,11 @@ yıldızı istemediğini ise şöyle açıklamıştı:&lt;/p&gt;
 &lt;p&gt;“Pageou’ya Michelin kesinlikle istemiyorum. Burası rahat bir fine dining 
 restoran. İyi yemek yemek isteyen herkes gelebiliyor… Çünkü fiyatlar makul. 
 Oysa yıldız aldığınızda şimdiki gibi 80 kişiye servis vermek imkansız. O sayı 
+<<<<<<< HEAD
 inecek 30’a 40’a, fiyatlar da artacak.”&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Michelin Yıldızı Nasıl Alınır? Michelin Yıldızlı Şefler Kimlerdir?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog6.png" /></entry><entry><title type="html">Yaz Sıcakları İçin En Lezzetli İçecekler</title><link href="http://localhost:4000/blog/yaz-sicaklari-enlezzetli-icecekler" rel="alternate" type="text/html" title="Yaz Sıcakları İçin En Lezzetli İçecekler" /><published>2018-07-24T12:00:00+03:00</published><updated>2018-07-24T12:00:00+03:00</updated><id>http://localhost:4000/blog/yaz-sicaklari-enlezzetli-icecekler</id><content type="html" xml:base="http://localhost:4000/blog/yaz-sicaklari-enlezzetli-icecekler">&lt;h3 id=&quot;sıcakları-bertaraf-edecek-enfes-yaz-İçecekleri&quot;&gt;Sıcakları Bertaraf Edecek Enfes Yaz İçecekleri&lt;/h3&gt;
+=======
+inecek 30’a 40’a, fiyatlar da artacak.”&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Michelin Yıldızı Nasıl Alınır? Michelin Yıldızlı Şefler Kimlerdir?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog6.png" /></entry><entry><title type="html">Yaz Sıcakları İçin En Lezzetli İçecekler</title><link href="http://localhost:4000/blog/yaz-sicaklari-enlezzetli-icecekler" rel="alternate" type="text/html" title="Yaz Sıcakları İçin En Lezzetli İçecekler" /><published>2018-07-24T09:00:00+00:00</published><updated>2018-07-24T09:00:00+00:00</updated><id>http://localhost:4000/blog/yaz-sicaklari-enlezzetli-icecekler</id><content type="html" xml:base="http://localhost:4000/blog/yaz-sicaklari-enlezzetli-icecekler">&lt;h3 id=&quot;sıcakları-bertaraf-edecek-enfes-yaz-i̇çecekleri&quot;&gt;Sıcakları Bertaraf Edecek Enfes Yaz İçecekleri&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Yaz mevsiminin en güzel yanı meyve ve sebze çeşitliliği… Böyle olunca da 
 karşımıza pek çok lezzetli içecek alternatifi çıkıyor. Restoran ve kafelerin 
@@ -275,7 +311,11 @@ sıcaklarında, soluklanmak için oturduğunuz kafe veya restoranların
 menülerinde “sağlıksız” içeceklere yönelmeden önce bu özel alkolsüz 
 içecekleri de deneyebilirsiniz. Hepsi lezzet garantili…&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;Şekersiz-limonata-ve-diğer-limonata-Çeşitleri&quot;&gt;Şekersiz Limonata ve Diğer Limonata Çeşitleri&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;şekersiz-limonata-ve-diğer-limonata-çeşitleri&quot;&gt;Şekersiz Limonata ve Diğer Limonata Çeşitleri&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;C Vitamini ve antioksidanlar açısından son derece zengin. Çoğu mekanda 
 şekersiz limonata olmayabilir ama “şekerli” çeşitlerinin de ne kadar şeker 
@@ -284,7 +324,11 @@ denemeniz tavsiye olunur! Karpuz, A vitamini kaynağı; bağışıklık sistemi 
 kalp/damar sağlığı açısından da ilk akla gelen meyvelerden. Üstelik karpuzlu 
 limonata, limonun ekşiliğinden yakınanlar için de iyi bir alternatif olabilir.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;Çilekli-milkshake&quot;&gt;Çilekli Milkshake&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;çilekli-milkshake&quot;&gt;Çilekli Milkshake&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Çilek/ süt, bazen de dondurma ve tarçının enfes bir karışımı olan bu içecek, C 
 vitamini kaynağı. Çilek aynı zamanda kalp damar sağlığı, LDL kolesterol 
@@ -293,7 +337,11 @@ Mayıs/ haziran ayları, tam da kiraz mevsimi! Bu arada milkshake’in
 “nutella”lı gibi farklı çeşitleri de var ama kalorisinin yüksek olduğunu 
 hatırlatalım.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;buzlu-Şeftali-Çayı&quot;&gt;Buzlu Şeftali Çayı&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;buzlu-şeftali-çayı&quot;&gt;Buzlu Şeftali Çayı&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Şeftali, biraz kuru üzüm ve su ile hazırlanıyor. Elde edilen karışıma çay demi 
 ekleniyor. Buz gibi, üzerinde nane yaprağı ile servis ediliyor. Şeftalinin 
@@ -330,7 +378,11 @@ Sıvı ihtiyacını karşılayan, sağlıklı bir içecek.&lt;/p&gt;
 maden suyundan hoşlanmıyorsanız, işte size güzel bir seçenek. Limon ya da 
 limon suyu ilave ederek tatlandırabilirsiniz. Aynı şekilde “su” da çeşitli meyve 
 ve sebzelerle tatlandırılabilir; birkaç üzüm, dilimlenmiş salatalık gibi… Hem 
+<<<<<<< HEAD
 sağlıklı hem de lezzetli.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Sıcakları Bertaraf Edecek Enfes Yaz İçecekleri</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog8.png" /></entry><entry><title type="html">Mekanlar İçin Dijital Pazarlamanın Önemi… Kafe Ve Restoranlar İçin Sosyal Medya Yönetimi</title><link href="http://localhost:4000/blog/mekanlar-i-cin-dijital-pazarlamanin-onemi-kafe-ve-restoranlar-i-cin-sosyal-medya-yonetimi" rel="alternate" type="text/html" title="Mekanlar İçin Dijital Pazarlamanın Önemi… Kafe Ve Restoranlar İçin Sosyal Medya Yönetimi" /><published>2018-05-29T12:00:00+03:00</published><updated>2018-05-29T12:00:00+03:00</updated><id>http://localhost:4000/blog/mekanlar-i%CC%87cin-dijital-pazarlamanin-onemi-kafe-ve-restoranlar-i%CC%87cin-sosyal-medya-yonetimi</id><content type="html" xml:base="http://localhost:4000/blog/mekanlar-i-cin-dijital-pazarlamanin-onemi-kafe-ve-restoranlar-i-cin-sosyal-medya-yonetimi">&lt;h3 id=&quot;kafe-ve-restoranların-dijital-pazarlama-stratejilerinde-dikkat-edilmesi-gereken-hususlar&quot;&gt;Kafe ve Restoranların Dijital Pazarlama Stratejilerinde Dikkat Edilmesi Gereken Hususlar&lt;/h3&gt;
+=======
+sağlıklı hem de lezzetli.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Sıcakları Bertaraf Edecek Enfes Yaz İçecekleri</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog8.png" /></entry><entry><title type="html">Mekanlar İçin Dijital Pazarlamanın Önemi… Kafe Ve Restoranlar İçin Sosyal Medya Yönetimi</title><link href="http://localhost:4000/blog/mekanlar-i-cin-dijital-pazarlamanin-onemi-kafe-ve-restoranlar-i-cin-sosyal-medya-yonetimi" rel="alternate" type="text/html" title="Mekanlar İçin Dijital Pazarlamanın Önemi… Kafe Ve Restoranlar İçin Sosyal Medya Yönetimi" /><published>2018-05-29T09:00:00+00:00</published><updated>2018-05-29T09:00:00+00:00</updated><id>http://localhost:4000/blog/mekanlar-i%CC%87cin-dijital-pazarlamanin-onemi-kafe-ve-restoranlar-i%CC%87cin-sosyal-medya-yonetimi</id><content type="html" xml:base="http://localhost:4000/blog/mekanlar-i-cin-dijital-pazarlamanin-onemi-kafe-ve-restoranlar-i-cin-sosyal-medya-yonetimi">&lt;h3 id=&quot;kafe-ve-restoranların-dijital-pazarlama-stratejilerinde-dikkat-edilmesi-gereken-hususlar&quot;&gt;Kafe ve Restoranların Dijital Pazarlama Stratejilerinde Dikkat Edilmesi Gereken Hususlar&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Bir işletmeci ya da kafe/ restoran sahibi, dijital alanda var olmanın önemini bilir. Dijital pazarlama stratejisi, günümüzde her işletme için vazgeçilmez… Nelere dikkat edilmeli? Nasıl bir yol izlenmeli? Kafe ve restoranlar, sosyal medya platformlarını nasıl kullanmalı? Merak edilen tüm soruların yanıtları bu yazıda!&lt;/p&gt;
 
@@ -366,7 +418,11 @@ sağlıklı hem de lezzetli.&lt;/p&gt;</content><author><name>Adisyo</name></aut
 
 &lt;p&gt;• Alışveriş sitelerinde yer alarak paket servis hacminizi artırabilirsiniz. Dükkanınız boş kalsa da online siparişler cironuzu artıracak.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;arama-motorlarında-İlk-sırada-mısınız&quot;&gt;Arama Motorlarında İlk Sırada Mısınız?&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;arama-motorlarında-i̇lk-sırada-mısınız&quot;&gt;Arama Motorlarında İlk Sırada Mısınız?&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;• Sosyal medya hesaplarınız haricinde arama motorlarında da isminizle çıktığınızdan emin olun. Arama motorlarına işletmenizin adı yazıldığında ilk sırada siz mi yer alıyorsunuz? Adres, iletişim bilgisi gibi bilgilere ihtiyaç duyan müşterileriniz, web sitenize hemen ulaşabilmeli.&lt;/p&gt;
 
@@ -374,7 +430,11 @@ sağlıklı hem de lezzetli.&lt;/p&gt;</content><author><name>Adisyo</name></aut
 
 &lt;p&gt;• Reklam konusunda bir uyarı daha: Google Adsense, Facebook ve Twitter gibi sosyal reklam hizmeti sunan platformlar ile coğrafi konum tabanlı reklamlar verebilirsiniz. Önce küçük bütçelerle başlayabilirsiniz.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;• Müşterileriniz mekanınızla ilgili paylaşım yapıyor mu? En sevilen yemek ve içeceklerin paylaşılması, daha çok müşteri kazanmak demek. Burada hashtag kullanımına da dikkat!&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Kafe ve Restoranların Dijital Pazarlama Stratejilerinde Dikkat Edilmesi Gereken Hususlar</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog4.png" /></entry><entry><title type="html">Yazın Tüketilmesi Gereken Besinler</title><link href="http://localhost:4000/blog/yazin-tuketilmesi-gereken-besinler" rel="alternate" type="text/html" title="Yazın Tüketilmesi Gereken Besinler" /><published>2018-03-16T12:00:00+03:00</published><updated>2018-03-16T12:00:00+03:00</updated><id>http://localhost:4000/blog/yazin-tuketilmesi-gereken-besinler</id><content type="html" xml:base="http://localhost:4000/blog/yazin-tuketilmesi-gereken-besinler">&lt;h3 id=&quot;restoran-ve-kafe-menülerinde-de-bu-yiyecekleri-sorunuz-İşte-yazın-tüketilmesi-gereken-besinler&quot;&gt;Restoran ve Kafe Menülerinde de Bu Yiyecekleri Sorunuz! İşte Yazın Tüketilmesi Gereken Besinler&lt;/h3&gt;
+=======
+&lt;p&gt;• Müşterileriniz mekanınızla ilgili paylaşım yapıyor mu? En sevilen yemek ve içeceklerin paylaşılması, daha çok müşteri kazanmak demek. Burada hashtag kullanımına da dikkat!&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Kafe ve Restoranların Dijital Pazarlama Stratejilerinde Dikkat Edilmesi Gereken Hususlar</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog4.png" /></entry><entry><title type="html">Yazın Tüketilmesi Gereken Besinler</title><link href="http://localhost:4000/blog/yazin-tuketilmesi-gereken-besinler" rel="alternate" type="text/html" title="Yazın Tüketilmesi Gereken Besinler" /><published>2018-03-16T09:00:00+00:00</published><updated>2018-03-16T09:00:00+00:00</updated><id>http://localhost:4000/blog/yazin-tuketilmesi-gereken-besinler</id><content type="html" xml:base="http://localhost:4000/blog/yazin-tuketilmesi-gereken-besinler">&lt;h3 id=&quot;restoran-ve-kafe-menülerinde-de-bu-yiyecekleri-sorunuz-i̇şte-yazın-tüketilmesi-gereken-besinler&quot;&gt;Restoran ve Kafe Menülerinde de Bu Yiyecekleri Sorunuz! İşte Yazın Tüketilmesi Gereken Besinler&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Yumurta, yulaf, ceviz, hurma, karpuz… Sıcak havaların yol açtığı su kaybı ve 
 bitkinliğe karşı iyi gelen besinleri tüketerek yaz mevsimini rahat bir şekilde 
@@ -385,7 +445,11 @@ seçenek bulabilirsiniz.&lt;/p&gt;
 sürekli açık olan klimalar… Beslenme rutininize dikkat ederek yaz mevsimini 
 rahat bir şekilde geçirebilirsiniz. Peki neler tüketilmeli, nasıl tüketilmeli?&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;cevİz&quot;&gt;CEVİZ&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;cevi̇z&quot;&gt;CEVİZ&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;En az balık kadar omega 3 kaynağı olan ceviz, konsantrasyon eksikliğine karşı 
 bire bir. Üstelik tok tutar, iştahınızı dengelemenize yardımcı olur. Yaz 
@@ -394,7 +458,11 @@ günde 3–4 tane ceviz tüketmeniz yeterli. Ayrıca iş yerinde, öğle arasın
 tulum peynirli/ cevizli bir salataya ne dersiniz? Yanında asitli içecekler 
 tüketmeden gönül rahatlığıyla yiyebilirsiniz.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;sÜt-ve-yoĞurt&quot;&gt;SÜT VE YOĞURT&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;süt-ve-yoğurt&quot;&gt;SÜT VE YOĞURT&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Su kaybı yaşamamak için süt, yoğurt, ayran gibi proteinli, kalsiyumlu 
 besinlere ağırlık verin. Ana yemeğin yanında ayran içebileceğiniz gibi cacık da 
@@ -443,13 +511,21 @@ sebzeler… Özellikle et yemeklerinin yanına cacık sipariş edebilirsiniz. He
 semizotu! Başlı başına bir öğün. Yemeğini tercih etmeyenler, yoğurtlu 
 semizotunu denemeli.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;ÇÖrek-otu&quot;&gt;ÇÖREK OTU&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;çörek-otu&quot;&gt;ÇÖREK OTU&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Hazımsızlığa karşı önerilen çörek otu; demir, potasyum, magnezyum, 
 selenyum, çinko ve fosfor gibi vitamin ve minerallerden zengin… Kan şekerini 
 dengeleyici. Üstelik yoğurda, salata ve meyvelere de çok yakışıyor. Evinizde 
 de bulundurabilirsiniz, yemek yemeye gittiğiniz kafe ve restoranda da 
+<<<<<<< HEAD
 siparişinize ekleyebilirsiniz.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Restoran ve Kafe Menülerinde de Bu Yiyecekleri Sorunuz! İşte Yazın Tüketilmesi Gereken Besinler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog9.png" /></entry><entry><title type="html">Restoran Menüsü Hazırlarken Dikkat Edilmesi Gereken En Önemli Kurallar</title><link href="http://localhost:4000/blog/restoran-menusu-hazirlarken-dikkat-edilmesi-gereken-en-onemli-kurallar" rel="alternate" type="text/html" title="Restoran Menüsü Hazırlarken Dikkat Edilmesi Gereken En Önemli Kurallar" /><published>2018-03-11T12:00:00+03:00</published><updated>2018-03-11T12:00:00+03:00</updated><id>http://localhost:4000/blog/restoran-menusu-hazirlarken-dikkat-edilmesi-gereken-en-onemli-kurallar</id><content type="html" xml:base="http://localhost:4000/blog/restoran-menusu-hazirlarken-dikkat-edilmesi-gereken-en-onemli-kurallar">&lt;h3 id=&quot;başarılı-menü-tasarımı-nasıl-yapılır-bu-tüyolardan-yararlanın&quot;&gt;Başarılı Menü Tasarımı Nasıl Yapılır? Bu Tüyolardan Yararlanın&lt;/h3&gt;
+=======
+siparişinize ekleyebilirsiniz.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Restoran ve Kafe Menülerinde de Bu Yiyecekleri Sorunuz! İşte Yazın Tüketilmesi Gereken Besinler</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog9.png" /></entry><entry><title type="html">Restoran Menüsü Hazırlarken Dikkat Edilmesi Gereken En Önemli Kurallar</title><link href="http://localhost:4000/blog/restoran-menusu-hazirlarken-dikkat-edilmesi-gereken-en-onemli-kurallar" rel="alternate" type="text/html" title="Restoran Menüsü Hazırlarken Dikkat Edilmesi Gereken En Önemli Kurallar" /><published>2018-03-11T09:00:00+00:00</published><updated>2018-03-11T09:00:00+00:00</updated><id>http://localhost:4000/blog/restoran-menusu-hazirlarken-dikkat-edilmesi-gereken-en-onemli-kurallar</id><content type="html" xml:base="http://localhost:4000/blog/restoran-menusu-hazirlarken-dikkat-edilmesi-gereken-en-onemli-kurallar">&lt;h3 id=&quot;başarılı-menü-tasarımı-nasıl-yapılır-bu-tüyolardan-yararlanın&quot;&gt;Başarılı Menü Tasarımı Nasıl Yapılır? Bu Tüyolardan Yararlanın&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Yemekler ile fiyatlarını listelemenin haricinde bir işletmenin kimliğini ve 
 markasını da yansıtan “menü”yü tasarlarken belli başlı kurallara uymak şart. 
@@ -495,7 +571,11 @@ boğmayın. Ayrıca bazı yemekler de “kutu” içinde menüde yer bulabilir.
 Makarna ve pilav gibi kar marjı yüksek olan yemeklerde çoğu zaman bu 
 tüyoya başvurulur.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h3 id=&quot;yıldız-yemekleri-Ön-plana-Çıkarın&quot;&gt;“Yıldız Yemekler”i Ön Plana Çıkarın&lt;/h3&gt;
+=======
+&lt;h3 id=&quot;yıldız-yemekleri-ön-plana-çıkarın&quot;&gt;“Yıldız Yemekler”i Ön Plana Çıkarın&lt;/h3&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Eğer restoranınızda rakiplerinizden farklı olarak bir yemek/ içecek var ise 
 menüde ön planda olmalı. Böylelikle müşterinize direkt olarak farklılığınızı ve 
@@ -533,7 +613,11 @@ alması tercih sebebidir.&lt;/p&gt;
 düşünün. Herhangi bir hata var mı? Müşteriler, çalışanlarınıza en çok hangi 
 soruları soruyor? Neyin cevabını bulamıyorlar? Anında optimize edin. Ayrıca 
 kusurlu ya da hasarlı menüleri asla müşterilerinize vermeyin. Onarın veya 
+<<<<<<< HEAD
 değiştirin. Personelinize menünün bir iletişim aracı olduğunu hatırlatın.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Başarılı Menü Tasarımı Nasıl Yapılır? Bu Tüyolardan Yararlanın</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog10.png" /></entry><entry><title type="html">Restaurantlarda POS Sistemi ve Faydaları</title><link href="http://localhost:4000/blog/restaurantlarda-pos-sistemi-ve-faydalar%C4%B1" rel="alternate" type="text/html" title="Restaurantlarda POS Sistemi ve Faydaları" /><published>2016-07-02T12:00:00+03:00</published><updated>2016-07-02T12:00:00+03:00</updated><id>http://localhost:4000/blog/restaurantlarda-pos-sistemi-ve-faydalar%C4%B1</id><content type="html" xml:base="http://localhost:4000/blog/restaurantlarda-pos-sistemi-ve-faydalar%C4%B1">&lt;p&gt;Teknolojinin hızlı gelişimiyle pek çok alanda kullanılan elektronik sistemler değişmiş ve yenilenmiştir. Teknoloji, sanayi ve sanayinin kollarında kullanılması dışında hizmet sektöründe de oldukça önemli bir paya sahiptir. Hizmet sektörünün önemli bir basamağı olan restaurantların ve cafelerin kullanmış oldukları pos sistemleri ise, restaurantların veya cafelerin hizmet kalitesi ve işleyişini önemli bir ölçüde etkilemektedir.&lt;/p&gt;
+=======
+değiştirin. Personelinize menünün bir iletişim aracı olduğunu hatırlatın.&lt;/p&gt;</content><author><name>Adisyo</name></author><category term="Dijital Pazarlama" /><category term="Sosyal Medya" /><category term="Restorant" /><category term="Kafe" /><category term="Adisyon" /><summary type="html">Başarılı Menü Tasarımı Nasıl Yapılır? Bu Tüyolardan Yararlanın</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog10.png" /></entry><entry><title type="html">Restaurantlarda POS Sistemi ve Faydaları</title><link href="http://localhost:4000/blog/restaurantlarda-pos-sistemi-ve-faydalar%C4%B1" rel="alternate" type="text/html" title="Restaurantlarda POS Sistemi ve Faydaları" /><published>2016-07-02T09:00:00+00:00</published><updated>2016-07-02T09:00:00+00:00</updated><id>http://localhost:4000/blog/restaurantlarda-pos-sistemi-ve-faydalar%C4%B1</id><content type="html" xml:base="http://localhost:4000/blog/restaurantlarda-pos-sistemi-ve-faydalar%C4%B1">&lt;p&gt;Teknolojinin hızlı gelişimiyle pek çok alanda kullanılan elektronik sistemler değişmiş ve yenilenmiştir. Teknoloji, sanayi ve sanayinin kollarında kullanılması dışında hizmet sektöründe de oldukça önemli bir paya sahiptir. Hizmet sektörünün önemli bir basamağı olan restaurantların ve cafelerin kullanmış oldukları pos sistemleri ise, restaurantların veya cafelerin hizmet kalitesi ve işleyişini önemli bir ölçüde etkilemektedir.&lt;/p&gt;
+>>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 
 &lt;p&gt;Yenilenen pos sistemlerinin başında adisyo uygulaması gelmektedir. Adisyo, teknolojiyle beraber geliştirilmiş ve kullanıcıların hizmetine sunulmuştur. Tıpkı akıllı telefonlardaki gibi bir işleyişe ve sisteme sahip olan adisyo, zaman zaman kendini yenilemekte kısacası güncellemektedir. Böylelikle yıllar geçse dahi teknolojiyi yakından takip etmenize imkân tanımakta bu sayede çağın gerisinde kalmaktan kullanıcılarını kurtarmaktadır. İnternet bağlantısının olduğu telefon, tablet ve bilgisayar gibi tüm akıllı cihazlarda kullanıma uygundur. Adisyo.com adresinde kullanıcıların hizmetine sunulan bu program sayesinde restaurant ve cafelerin edinmiş olduğu faydaları ise  özetlemek gerekirse şöyledir:&lt;/p&gt;
 
