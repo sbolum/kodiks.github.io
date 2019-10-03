@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 20
 title: Çoklu Şube Yönetimi
-description: Adisyo çoklu şube yönetimi (Patron Uygulaması) ile işletmenizin bütün şubelerini, tek bir noktadan yönetmenizi sağlar.
+description: Adisyo çoklu şube yönetimi (Patron Uygulaması) ile işletmenizin bütün şubelerini,tek bir noktadan yönetmenizi sağlar.
 icon: ti-medall
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Çoklu Şube Yönetimi
     desc: |
-      <p class="f_p f_400">Adisyo çoklu şube yönetimi (Patron Uygulaması) ile işletmenizin bütün şubelerini, tek bir noktadan yönetmenizi sağlar. Şubelerinizin genel durumları, masa doluluk oranları, günlük sipariş sayısı ve daha bir çok veriyi size gösterir. Üstelik herhangi bir ek ücret talebinde bulunmaz.</p>
+      <p class="f_p f_400">Adisyo çoklu şube yönetimi (Patron Uygulaması) ile işletmenizin bütün şubelerini,tek bir noktadan yönetmenizi sağlar. Şubelerinizin genel durumları, masa doluluk oranları, günlük sipariş sayısı ve daha birçok veriyi anlık takip etmenizi sağlar. Üstelik tüm bunlar için ek ücret ödemezsiniz.</p>
     image: /assets/img/home/features/coklu-sube-yonemi01.png
 
   - title: Devir Ekonomi Devri

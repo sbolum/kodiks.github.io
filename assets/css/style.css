@@ -13,7 +13,7 @@ Copyright. All Rights Reserved.
 }
 
 body {
-    font: 500 15px/26px 'Quicksand', sans-serif;
+    font: 500 16px/26px 'Quicksand', sans-serif;
     letter-spacing: 0.5px;
     line-height: 32px;
     color: #353535;
@@ -7743,7 +7743,7 @@ sub {
     border-bottom: 1px solid #e2e2e2;
 }
 .mapbox {
-    height: 400px;
+    height: 425px;
     -webkit-box-shadow: 0px 3px 4px 0px rgba(12, 0, 46, 0.05);
     box-shadow: 0px 3px 4px 0px rgba(12, 0, 46, 0.05);
     border: 10px solid #fff;

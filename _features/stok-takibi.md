@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 90
 title: Stok ve Reçete Takibi
-description: Adisyo ile ürünlerinizin stok bilgilerini tutabilirsiniz. Eğer stokta kalmayan bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stoğunuzda kalmadığını anlarsınız. 
+description: Adisyo ile ürünlerinizin stok bilgilerini tutabilirsiniz. Eğer stokta kalmayan bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stoğunuzda kalmadığını anlarsınız.
 icon: ti-package
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Stok Takibi
     desc: |
-      <p class="f_p f_400">Adisyo ile ürünlerinizin stok bilgilerini tutabilirsiniz. Eğer stokta kalmayan bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stoğunuzda kalmadığını anlarsınız.  Doğrudan satışı yapılan ürünlerinize ait stok takibi dışında, reçete modülümüz sayesinde hammadde takibi de yapabilirsiniz.
+      <p class="f_p f_400">Adisyo ile ürünlerinizin stok bilgilerini tutabilirsiniz. Eğer stokta kalmayan bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stoğunuzda kalmadığını anlarsınız. Doğrudan satışı yapılan ürünlerinize ait stok takibi dışında, reçete modülümüz sayesinde hammadde takibi de yapabilirsiniz.
       </p>
     image: /assets/img/home/features/stok-takibi01.png
   

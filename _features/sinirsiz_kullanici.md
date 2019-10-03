@@ -2,10 +2,7 @@
 layout: feature_detail
 order: 100
 title: Sınırsız Kullanıcı
-description: Adisyo'da dilediğiniz sayıda çalışanınzı sisteme dahil edebilir, sınırsız kullanıcı ekleyebilirsiniz. Kapsamlı özellikleri uygun fiyatlarla sunan Adisyo'da kullanıcı başına ayrıca bir ücret ödemezsiniz.
-
-
-
+description: Adisyo'da dilediğiniz sayıda çalışanınızı sisteme dahil edebilir, sınırsız kullanıcı ekleyebilirsiniz. Kapsamlı özellikleri uygun fiyatlarla sunan Adisyo'da kullanıcı başına ayrıca bir ücret ödemezsiniz.
 icon: ti-shine
 color: red
 visible: true
@@ -13,7 +10,7 @@ visible: true
 descriptions: 
   - title: Sınırsız Kullanıcı
     desc: |
-      <p class="f_p f_400">Adisyo'da dilediğiniz sayıda çalışanınzı sisteme dahil edebilir, sınırsız kullanıcı ekleyebilirsiniz. Kapsamlı özellikleri uygun fiyatlarla sunan Adisyo'da kullanıcı başına ayrıca bir ücret ödemezsiniz. Tek fiyat, sınırsız kullanıcı keyfini yaşarsınız.</p>
+      <p class="f_p f_400">Adisyo'da dilediğiniz sayıda çalışanınızı sisteme dahil edebilir, sınırsız kullanıcı ekleyebilirsiniz. Kapsamlı özellikleri uygun fiyatlarla sunan Adisyo'da kullanıcı başına ayrıca bir ücret ödemezsiniz. Tek fiyat ile sınırsız kullanıcı keyfini yaşarsınız.</p>
     image: /assets/img/home/features/alluser01.png
   
   - title: Devir Ekonomi Devri

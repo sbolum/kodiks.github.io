@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 50
 title: Müşteri Yönetimi
-description: Restoranlarınıza gelen müşterileri kolayca kayıt edebilir, onlara bakiye tanımlayabilirsiniz. CallerID ile arayan müşterilerinizin tüm bilgilerini görebilir ve siparişinizi alabilirsiniz.
+description: Adisyo ile işletmenize gelen müşterileri kolayca kayıt edebilir, onlara bakiye tanımlayabilirsiniz. CallerID özelliği ile arayan müşterilerinizin tüm bilgilerini görebilir, siparişinizi alabilirsiniz.
 icon: ti-flag
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Müşteri Yönetimi
     desc: |
-      <p class="f_p f_400">Adisyo ile müşteri yönetimi oldukça kolay. Restoranlarınıza gelen müşterileri kolayca kayıt edebilir, onlara bakiye tanımlayabilirsiniz. CallerID ile arayan müşterilerinizin tüm bilgilerini görebilir, hızlıca siparişinizi alabilirsiniz.</p>
+      <p class="f_p f_400">Adisyo ile müşteri yönetimi oldukça kolaydır. İşletmenize gelen müşterileri kolayca kayıt edebilir, onlara bakiye tanımlayabilirsiniz. CallerID ile arayan müşterilerinizin tüm bilgilerini görebilir, hızlıca sipariş alabilirsiniz.</p>
     image: /assets/img/home/features/musteri-yonetimi01.png
 
   - title: Devir Ekonomi Devri
