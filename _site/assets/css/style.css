@@ -9741,9 +9741,6 @@ input[type=number]::-webkit-inner-spin-button {
     color: #fff;
 }
 
-<<<<<<< HEAD
-
-
 
 .release-notes-wrapper {
     margin-bottom: .5rem;
@@ -9791,8 +9788,8 @@ input[type=number]::-webkit-inner-spin-button {
 
 
 
-#release_notes_content #added,
-#release_notes_content #eklendi
+.release_notes_content #added,
+.release_notes_content #eklendi
 {
     background: #28a745;
     border-color: #28a745;
@@ -9801,8 +9798,8 @@ input[type=number]::-webkit-inner-spin-button {
     padding: 0px 11px;
 }
 
-#release_notes_content #changed,
-#release_notes_content #degisti
+.release_notes_content #changed,
+.release_notes_content #degisti
 {
     background: #0366d6;
     border-color: #0366d6;
@@ -9811,8 +9808,8 @@ input[type=number]::-webkit-inner-spin-button {
     padding: 0px 11px;
 }
 
-#release_notes_content #deprecated,
-#release_notes_content #rafakalkti
+.release_notes_content #deprecated,
+.release_notes_content #rafakalkti
 {
     background: #0366d6;
     border-color: #0366d6;
@@ -9821,8 +9818,8 @@ input[type=number]::-webkit-inner-spin-button {
     padding: 0px 11px;
 }
 
-#release_notes_content #removed,
-#release_notes_content #kaldirildi
+.release_notes_content #removed,
+.release_notes_content #kaldirildi
 {
     background: #d73a49;
     border-color: #d73a49;
@@ -9831,8 +9828,8 @@ input[type=number]::-webkit-inner-spin-button {
     padding: 0px 11px;
 }
 
-#release_notes_content #fixed,
-#release_notes_content #duzeltildi
+.release_notes_content #fixed,
+.release_notes_content #duzeltildi
 {
     background: #0366d6;
     border-color: #0366d6;
@@ -9841,8 +9838,8 @@ input[type=number]::-webkit-inner-spin-button {
     padding: 0px 11px;
 }
 
-#release_notes_content #security,
-#release_notes_content #guvenlik
+.release_notes_content #security,
+.release_notes_content #guvenlik
 {
     background: #0366d6;
     border-color: #0366d6;
@@ -9851,8 +9848,6 @@ input[type=number]::-webkit-inner-spin-button {
     padding: 0px 11px;
 }
 
-=======
->>>>>>> f74d4dcd95a809d2561e9070b1ff91f403c71600
 /*====================================================*/
 
 /*====================================================*/

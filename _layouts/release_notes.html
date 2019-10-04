@@ -5,26 +5,36 @@ layout: wrapper
 <!--PAGE CONTENT-->
 {% include header_sub.html %}
 
-<section class="blog_area sec_pad">
-    <div class="container">
+<section class="software_service_area sec_pad">
+    <div class="container mb_40">
         <div class="row">
-            <div class="col-lg-12 col-sm-12">
-                <h2>Sürüm Notları</h2>
-                <div class="release-notes-wrapper">
+            <div class="col-lg-3 col-md-3">
+                <ul class="nav nav-tabs software_service_tab" id="myTab" role="tablist">
                     {% assign sorted_release_notes = site.release-notes | sort: 'date' | reverse %}
                     {% for note in sorted_release_notes %}
-                    <div class="release-note">
-                        <span class="version">{{ note.version }}</span>
-                        <a href="{{ note.url }}">
-                            <span class="title f_p f_size_16 f_500 t_color">{{ note.title }}</h5>     
-                        </a>
-                        <span class="date">{{ note.date | date: "%d-%m-%Y" }}</span>
-                    </div>
+                    <li class="nav-item">
+                        <a class="nav-link {% if forloop.first %}active{% endif %}" id="v{{ note.version | replace: '.', '' }}-tab"
+                            data-toggle="tab" href="#v{{ note.version | replace: '.', '' }}" role="tab" aria-controls="v{{ note.version | replace: '.', '' }}"
+                            aria-selected="true">{{ note.version }}</a>
+                    </li>
                     {% endfor %}
-                </div>
+                </ul>
             </div>
 
+            <div class="col-lg-9 col-md-9">
+                <div class="tab-content release_notes_content" id="myTabContent">
+                    {% assign sorted_release_notes = site.release-notes | sort: 'date' | reverse %}
+                    {% for note in sorted_release_notes %}
+                    <div class="tab-pane fade {% if forloop.first %}show active{% endif %}" id="v{{ note.version | replace: '.', '' }}" role="tabpanel"
+                        aria-labelledby="v{{ note.version | replace: '.', '' }}-tab">
+                        <h3 class="f_p f_size_22 f_600 color-red">{{ note.title }}</h3>
+                        <p>{{ note.content }}</p>
+                    </div>
+                    {% endfor %}
+
+
+                </div>
+            </div>
         </div>
     </div>
 </section>
-<!--PAGE CONTENT-->

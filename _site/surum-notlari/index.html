@@ -220,45 +220,133 @@
     </div>
 </section>
 
-<section class="blog_area sec_pad">
-    <div class="container">
+<section class="software_service_area sec_pad">
+    <div class="container mb_40">
         <div class="row">
-            <div class="col-lg-12 col-sm-12">
-                <h2>Sürüm Notları</h2>
-                <div class="release-notes-wrapper">
+            <div class="col-lg-3 col-md-3">
+                <ul class="nav nav-tabs software_service_tab" id="myTab" role="tablist">
                     
                     
-                    <div class="release-note">
-                        <span class="version">2.2.0</span>
-                        <a href="/surum-notlari/v2-2-0/">
-                            <span class="title f_p f_size_16 f_500 t_color">2 Ekim 2019 Güncellemeleri</h5>     
-                        </a>
-                        <span class="date">02-10-2019</span>
-                    </div>
+                    <li class="nav-item">
+                        <a class="nav-link active" id="v220-tab"
+                            data-toggle="tab" href="#v220" role="tab" aria-controls="v220"
+                            aria-selected="true">2.2.0</a>
+                    </li>
                     
-                    <div class="release-note">
-                        <span class="version">2.1.3</span>
-                        <a href="/surum-notlari/v2-1-3/">
-                            <span class="title f_p f_size_16 f_500 t_color">25 Eylül 2019 Güncellemeleri</h5>     
-                        </a>
-                        <span class="date">25-09-2019</span>
-                    </div>
+                    <li class="nav-item">
+                        <a class="nav-link " id="v213-tab"
+                            data-toggle="tab" href="#v213" role="tab" aria-controls="v213"
+                            aria-selected="true">2.1.3</a>
+                    </li>
                     
-                    <div class="release-note">
-                        <span class="version">2.1.2</span>
-                        <a href="/surum-notlari/v2-1-2/">
-                            <span class="title f_p f_size_16 f_500 t_color">24 Eylül 2019 Güncellemeleri</h5>     
-                        </a>
-                        <span class="date">24-09-2019</span>
-                    </div>
+                    <li class="nav-item">
+                        <a class="nav-link " id="v212-tab"
+                            data-toggle="tab" href="#v212" role="tab" aria-controls="v212"
+                            aria-selected="true">2.1.2</a>
+                    </li>
                     
-                </div>
+                </ul>
             </div>
 
+            <div class="col-lg-9 col-md-9">
+                <div class="tab-content release_notes_content" id="myTabContent">
+                    
+                    
+                    <div class="tab-pane fade show active" id="v220" role="tabpanel"
+                        aria-labelledby="v220-tab">
+                        <h3 class="f_p f_size_22 f_600 color-red">2 Ekim 2019 Güncellemeleri</h3>
+                        <p><h4 id="added">Added</h4>
+<ul>
+  <li>New visual identity by <a href="https://github.com/tylerfortune8">@tylerfortune8</a>.</li>
+  <li>Version navigation.</li>
+  <li>Links to latest released version in previous versions.</li>
+  <li>“Why keep a changelog?” section.</li>
+  <li>“Who needs a changelog?” section.</li>
+  <li>“How do I make a changelog?” section.</li>
+  <li>“Frequently Asked Questions” section.</li>
+  <li>New “Guiding Principles” sub-section to “How do I make a changelog?”.</li>
+  <li>Simplified and Traditional Chinese translations from <a href="https://github.com/tianshuo">@tianshuo</a>.</li>
+  <li>German translation from <a href="https://github.com/mpbzh">@mpbzh</a> &amp; <a href="https://github.com/Art4">@Art4</a>.</li>
+  <li>Italian translation from <a href="https://github.com/azkidenz">@azkidenz</a>.</li>
+  <li>Swedish translation from <a href="https://github.com/magol">@magol</a>.</li>
+  <li>Turkish translation from <a href="https://github.com/karalamalar">@karalamalar</a>.</li>
+  <li>French translation from <a href="https://github.com/zapashcanon">@zapashcanon</a>.</li>
+  <li>Brazilian Portugese translation from <a href="https://github.com/Webysther">@Webysther</a>.</li>
+  <li>Polish translation from <a href="https://github.com/amielucha">@amielucha</a> &amp; <a href="https://github.com/m-aciek">@m-aciek</a>.</li>
+  <li>Russian translation from <a href="https://github.com/aishek">@aishek</a>.</li>
+  <li>Czech translation from <a href="https://github.com/h4vry">@h4vry</a>.</li>
+  <li>Slovak translation from <a href="https://github.com/jkostolansky">@jkostolansky</a>.</li>
+  <li>Korean translation from <a href="https://github.com/pierceh89">@pierceh89</a>.</li>
+  <li>Croatian translation from <a href="https://github.com/porx">@porx</a>.</li>
+  <li>Persian translation from <a href="https://github.com/Hameds">@Hameds</a>.</li>
+  <li>Ukrainian translation from <a href="https://github.com/osadchyi-s">@osadchyi-s</a>.</li>
+</ul>
+
+<h4 id="changed">Changed</h4>
+<ul>
+  <li>Start using “changelog” over “change log” since it’s the common usage.</li>
+  <li>Start versioning based on the current English version at 0.3.0 to help
+translation authors keep things up-to-date.</li>
+  <li>Rewrite “What makes unicorns cry?” section.</li>
+  <li>Rewrite “Ignoring Deprecations” sub-section to clarify the ideal
+scenario.</li>
+  <li>Improve “Commit log diffs” sub-section to further argument against
+them.</li>
+  <li>Merge “Why can’t people just use a git log diff?” with “Commit log
+diffs”</li>
+  <li>Fix typos in Simplified Chinese and Traditional Chinese translations.</li>
+  <li>Fix typos in Brazilian Portuguese translation.</li>
+  <li>Fix typos in Turkish translation.</li>
+  <li>Fix typos in Czech translation.</li>
+  <li>Fix typos in Swedish translation.</li>
+  <li>Improve phrasing in French translation.</li>
+  <li>Fix phrasing and spelling in German translation.</li>
+</ul>
+
+<h4 id="removed">Removed</h4>
+<ul>
+  <li>Section about “changelog” vs “CHANGELOG”.</li>
+</ul>
+</p>
+                    </div>
+                    
+                    <div class="tab-pane fade " id="v213" role="tabpanel"
+                        aria-labelledby="v213-tab">
+                        <h3 class="f_p f_size_22 f_600 color-red">25 Eylül 2019 Güncellemeleri</h3>
+                        <p><h4 id="added">Added</h4>
+<ul>
+  <li>RU translation from <a href="https://github.com/aishek">@aishek</a>.</li>
+  <li>pt-BR translation from <a href="https://github.com/tallesl">@tallesl</a>.</li>
+  <li>es-ES translation from <a href="https://github.com/ZeliosAriex">@ZeliosAriex</a>.</li>
+</ul>
+</p>
+                    </div>
+                    
+                    <div class="tab-pane fade " id="v212" role="tabpanel"
+                        aria-labelledby="v212-tab">
+                        <h3 class="f_p f_size_22 f_600 color-red">24 Eylül 2019 Güncellemeleri</h3>
+                        <p><h4 id="changed">Changed</h4>
+<ul>
+  <li>Update year to match in every README example.</li>
+  <li>Reluctantly stop making fun of Brits only, since most of the world
+writes dates in a strange way.</li>
+</ul>
+
+<h4 id="fixed">Fixed</h4>
+<ul>
+  <li>Fix typos in recent README changes.</li>
+  <li>Update outdated unreleased diff link.</li>
+</ul>
+</p>
+                    </div>
+                    
+
+
+                </div>
+            </div>
         </div>
     </div>
-</section>
-<!--PAGE CONTENT--> <!--call area banner-->
+</section> <!--call area banner-->
 <section class="saas_subscribe_area">
     <div class="container">
         <div class="row saas_action_content wow fadeInUp" data-wow-delay="0.5"style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
