@@ -43,7 +43,7 @@
 
     - id: 32
       title: Yemek Sepeti entegrasyonunuz var mı? Adisyo üzerinden Yemek Sepeti siparişlerimi görebilir miyim?
-      description: Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Adisyo, Yemeksepeti sipariş süreçlerinizi de yönetebilen, Yemek Sepeti ile tam entegre çalışan bir sistemdir. Yapmanız gereken işletmenize ait Yemek Sepeti adresinizi örneğin; (www.yemeksepeti.com/isletmeadınız) destek@adisyo.com e-mail adresimize göndermeniz. Geri kalan tüm entegrasyon işlemleri bizim tarafımızdan sağlanmaktadır.
+      description: Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Adisyo, Yemeksepeti sipariş süreçlerinizi de yönetebilen, Yemek Sepeti ile tam entegre çalışan bir sistemdir. Yapmanız gereken, işletmenize ait Yemek Sepeti adresinizi örneğin; (www.yemeksepeti.com/isletmeadınız) destek@adisyo.com e-mail adresimize göndermeniz yeterlidir. Geri kalan tüm entegrasyon işlemleri bizim tarafımızdan sağlanmaktadır.
 
     - id: 33
       title: Bizim Hesap entegrasyonunuz var mı?
