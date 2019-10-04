@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Dövizli Satış
     desc: |
-      <p class="f_p f_400">Adisyo ile dövizli satışlarınızı yapabilmenizie olanak tanır. Restoran ayarlarından dövizli satışı aktifleştirerek ödeme ekranında dövizli satış yapmaya hemen başlayabilirsiniz. Döviz kurlarını isterseniz Merkez Bankasından otomatik alabilir isterseniz de manuel olarak kendiniz ayarlayabilirsiniz.</p>
+      <p class="f_p f_400">Adisyo, işletmenizde döviz ile satış yapabilmenize olanak tanır. Restoran ayarlarından döviz ile satış seçeneğini aktif ederek döviz ile satış yapmaya hemen başlayabilirsiniz. Döviz kurlarını isterseniz Merkez Bankası’ndan otomatik alabilir isterseniz de manuel olarak kendiniz ayarlayabilirsiniz.</p>
     image: /assets/img/home/features/dovizli-satis01.png
 
   - title: Devir Ekonomi Devri
