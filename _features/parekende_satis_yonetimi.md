@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 80
 title: Perakende Satış Yönetimi
-description: Parakende satış yönetimi sayesinde direk satışlarınızı kolayca gerçekleştirebilirsiniz. Böylece tüm siparişlerinizi, zaman kaybı yaşamadan hızlıca alabilirsiniz.
+description: Perakende satış yönetimi sayesinde direk satışlarınızı kolayca gerçekleştirebilirsiniz. Böylece tüm siparişlerinizi, zaman kaybı yaşamadan hızlıca alabilirsiniz.
 icon: ti-crown
 color: red
 visible: true

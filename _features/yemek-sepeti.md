@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 120
 title: Yemek Sepeti Entegrasyonu
-description: Adisyo, Yemek Sepeti ile tam senkronizasyon içerisindedir. Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Yemek Sepeti siparişlerinizi tek ekrandan yönetebilirsiniz.
+description: Adisyo, Yemek Sepeti ile tam senkronizasyon içerisindedir. Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Yemek Sepeti siparişlerinizi de Adisyo ile yönetebilirsiniz.
 icon: ti-bag
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Yemek Sepeti Entegrasyonu
     desc: |
-      <p class="f_p f_400">Adisyo, Yemek Sepeti ile tam senkronizasyon içerisindedir. Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Yemek Sepeti siparişlerinizi tek ekrandan yönetebilirsiniz.</p>
+      <p class="f_p f_400">Adisyo, Yemek Sepeti ile tam senkronizasyon içerisindedir. Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Yemek Sepeti siparişlerinizi de Adisyo ile yönetebilirsiniz.</p>
     image: /assets/img/home/features/yemek-sepeti01.png
 
   - title: Devir Ekonomi Devri
