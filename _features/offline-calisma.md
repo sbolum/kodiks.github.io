@@ -8,7 +8,7 @@ color: red
 visible: true
 
 descriptions: 
-  - title: İnternet bağlantınız mı kesildi? Adisyo ile artık sorun değil, sipariş almaya  kesintisiz olarak devam edebilirsiniz.
+  - title: İnternet bağlantınız mı kesildi? Adisyo ile artık sorun değil, sipariş almaya  kesintisiz devam edebilirsiniz.
     desc: |
       <p class="f_p f_400">Adisyo kullanıcıları için internetin geçici olarak kesilmesi sorun olmaz. Adisyo offline ile internetin olmadığı durumlarda bile çalışmaya devam edebilirsiniz. Kağıt adisyona mı döneceğiz diye bir kaygınız olmaz. Siparişleriniz senkron bir şekilde mutfak ekranına düşerken siz, hızınıza hız katmaya devam edersiniz.</p>
     image: /assets/img/home/features/offline01.png

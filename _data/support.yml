@@ -5,7 +5,7 @@
       title: 15 günlük deneme üyeliği açtım, herhangi bir kısıtlama olacak mı?
       description: Adisyo ile 15 gün boyunca  tüm özellikleri hiçbir kısıtlama olmadan kullanabilirsiniz. Ek ücret ödemezsiniz, kredi kartı bilgilerinizi girmek zorunda kalmazsınız. Eğer memnun kalırsanız sürenizi uzatıp kullanmaya devam edebilirsiniz.
     - id: 11
-      title: Adisyo içinde stok takibi yapabilir miyim? Nasıl kullanılıyor?
+      title: Adisyo içinde stok takibi yapabilir miyim? 
       description: Adisyo ile ürünlerinizin stok bilgisini tutabilirsiniz. Eğer stokta tükenen veya kritik seviyenin altına inen bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stokta kalmadığını anlarsınız.  Doğrudan satışı yapılan ürünlerinize ait stok takibi dışında, reçete modülümüz sayesinde hammadde takibi de yapabilirsiniz.
     - id: 12
       title: Paket siparişi yönetimi nasıl yapılıyor? Caller ID desteğiniz var mı?
