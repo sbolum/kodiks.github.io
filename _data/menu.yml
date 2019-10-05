@@ -86,3 +86,11 @@
   isHeader: false
   isFooter: true
   submenu: false  
+
+  
+- id: 11
+  title: Sürüm Notları
+  url: /surum-notlari/
+  isHeader: false
+  isFooter: true
+  submenu: false  

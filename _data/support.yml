@@ -2,20 +2,20 @@
   category_name: Genel Konular
   items:
     - id: 10
-      title: 15 günlük deneme üyeliği açtım, her hangi bir kısıtma olacak mı?
-      description: Adisyo ile 15 gün boyunca hiçbir kısıtlama olmadan, tüm özelliklerini  kullanabilirsiniz. Ek ücret vermezsiniz, kredi kartı bilgilerinizi girmek zorunda kalmazsınız. Eğer memnun kalırsanız sürenizi uzatıp kullanmaya devam edebilirsiniz.
+      title: 15 günlük deneme üyeliği açtım, herhangi bir kısıtlama olacak mı?
+      description: Adisyo ile 15 gün boyunca  tüm özellikleri hiçbir kısıtlama olmadan kullanabilirsiniz. Ek ücret ödemezsiniz, kredi kartı bilgilerinizi girmek zorunda kalmazsınız. Eğer memnun kalırsanız sürenizi uzatıp kullanmaya devam edebilirsiniz.
     - id: 11
-      title: Adisyo içinde stok takibi yapabilir miyim? Nasıl kullanılıyor?
-      description: Adisyo ile ürünlerinizin ürünlerinizin stoğunu tutabilirsiniz. Eğer stokta tükenen veya kritik seviyenin altına inen bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stoğunuzda kalmadığını anlarsınız.  Doğrudan satışı yapılan ürünlerinize ait stok takibi dışında, reçete modülümüz sayesinde hammadde takibinizi de yapabilirsiniz.
+      title: Adisyo içinde stok takibi yapabilir miyim? 
+      description: Adisyo ile ürünlerinizin stok bilgisini tutabilirsiniz. Eğer stokta tükenen veya kritik seviyenin altına inen bir ürün sipariş olarak girilirse Adisyo sizi uyarır, böylece ürünün stokta kalmadığını anlarsınız.  Doğrudan satışı yapılan ürünlerinize ait stok takibi dışında, reçete modülümüz sayesinde hammadde takibi de yapabilirsiniz.
     - id: 12
       title: Paket siparişi yönetimi nasıl yapılıyor? Caller ID desteğiniz var mı?
-      description: Adisyo ile paket servis siparişlerinizi daha kolay bir şekilde yönetebilirsiniz. Adisyo içerisindeki modül ile paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca sisteme kaydedebilir, ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de kolayca gerçekleştirebilirsiniz. Arayan numaraların gösterilmesi (Caller ID) sistemi sayesinde, dışarıdan sizi arayan müşterinizin bilgilerini kaydedebileceğiniz ve ardından hızlıca sipariş alabileceğiniz modülümüz sayesinde artık arayan kişileri tanımanız mümkün.
+      description: Adisyo ile paket siparişlerinizi çok daha kolay bir şekilde yönetebilirsiniz. Adisyo içerisindeki paket sipariş modülü ile bu siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca sisteme kaydedebilir, ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de kolayca gerçekleştirebilirsiniz. Arayan numaraların gösterilmesi (Caller ID) sistemi sayesinde, sizi arayan müşterilerinizin adres, telefon gibi bilgilerinin yanında önceki siparişlerini de görebilirsiniz.
     - id: 13
       title: Döviz ile ödeme alabilir miyim?
-      description: Döviz ile ödeme alan işletmelerimiz, kendi belirledikleri kur veya Merkez Bankası kuru üzerinden kolaylıkla döviz tahsilatı yapabilirler. Dilerseniz bu konuda hazırladığımız video'yu izleyip daha fazla bilgi alabilirsiniz. <b><a href="https://youtu.be/1H6BHI-NItw" target="_blank">Video'yu izlemek için tıklayınız.</a></b>
+      description: Döviz ile ödeme alan işletmelerimiz, kendi belirledikleri kur veya Merkez Bankası kuru üzerinden kolaylıkla döviz tahsilatı yapabilirler. Dilerseniz bu konuda hazırladığımız videoyu izleyip daha fazla bilgi alabilirsiniz. <b><a href="https://youtu.be/1H6BHI-NItw" target="_blank">Video'yu izlemek için tıklayınız.</a></b>
     - id: 14
-      title: Müşteri verilerim kaybolur mu? 
-      description: Adisyo, verilerinizi yüksek güvenliğe sahip üç farklı sunucuda tutar ve anlık yedeklerinizi alır. İşletmenizdeki cihazlar bozulsa bile verileriniz Adisyo ile güvende kalır. Ayrıca Adisyo tüm müşteri verilerinizi istediğiniz zaman excel çıktısı olarak alabilmenize olanak tanır.
+      title: Tanımlı Müşterilerim kaybolur mu?
+      description: Adisyo, verilerinizi yüksek güvenliğe sahip üç farklı sunucuda tutar ve anlık yedeklerinizi alır. İşletmenizdeki cihazlar bozulsa bile verileriniz Adisyo ile güvende kalır. Ayrıca Adisyo, tüm müşterilerinizi istediğiniz zaman excel formatında bilgisayarınıza indirebilmenize olanak tanır.
     
     
 
@@ -24,38 +24,38 @@
   items:
     - id: 21 
       title: Adisyo'yu kullanmak için nasıl bir bilgisayara sahip olmam gerekiyor?
-      description: Adisyo, interneti olan herhangi bir bilgisayarda çalışmaktadır.
+      description: Adisyo ile internet olan herhangi bir cihazdan çalışabilirsiniz.
 
     - id: 22 
-      title: Teknik destek hizmetiniz ücretli mi?
-      description: Teknik destek hizmetimiz, mesai saatlerimiz içerisinde mail veya telefon üzerinden ücretsiz olarak verilmektedir.
+      title: Teknik destek hizmeti ücretli mi?
+      description: Teknik destek hizmetimiz, mesai saatleri içinde mail veya telefon üzerinden ücretsiz olarak verilmektedir.
 
     - id: 23
       title: Termal yazıcı desteğiniz var mı? Mutfak ekranı için ayrıca çıktı alabilir miyim?
-      description: Termal yazıcı desteğimiz var, marka ve ürünler hakkında daha detaylı bilgi almak için bizi arayabilirsiniz veya e-mail gönderebilirsiniz. Adisyo sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfağınızda tablet, laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişlerin bu ekranlarda görünmesini sağlayabilir, isterseniz de bir başka yazıcı bulundurarak, gelen siparişlerinizin mutfak yazıcınızdan otomatik olarak çıkmasını sağlayabilirsiniz.
+      description: Termal yazıcı desteğimiz var, marka ve ürünler hakkında daha detaylı bilgi almak için bizi arayabilir veya e-mail gönderebilirsiniz. Adisyo, sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfağınızda tablet, laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişlerin bu cihazlarda görünmesini sağlayabilir, isterseniz de termal yazıcı kullanarak, gelen siparişlerinizin çıktı olarak alınmasını sağlayabilirsiniz.
 
 - id: c3
   category_name: Entegrasyonlar
   items:
     - id: 31
       title: Perakende veya direkt satış imkanımız var mı?
-      description: Adisyo ile perakende (direkt) satış siparişlerinizi ayrı bir modül ile yönetebilirsiniz. Bu modül sayesinde siparişleri masalara girme zorunluluğunuz ortadan kalkar. Özellikle self servis hizmeti veren işletmelerde, bu modül siparişlerinizi çok daha hızlı bir şekilde yönetmenizi sağlayacaktır.
+      description: Adisyo ile perakende (direkt) satış siparişlerinizi ayrı bir modül ile yönetebilirsiniz. Bu modül sayesinde siparişleri masalara girme zorunluluğunuz ortadan kalkar. Özellikle self servis hizmet veren işletmelerde, bu modül siparişlerinizi çok daha hızlı bir şekilde yönetmenizi sağlayacaktır.
 
     - id: 32
-      title: Yemek Sepeti ile entegrasyonunuz var mı? Adisyo üzerinden yemek sepeti siparişlerimi görebilir miyim?
-      description: Yemek Sepetinden gelen siparişleri ayrı bir yerden yönetmek zorunda değilsiniz. Adisyo, Yemeksepeti sipariş süreçlerinizi de yönetebilen, Yemek Sepeti ile tam entegre bir sistemdir. Yapmanız gereken işletmenizi ait Yemek Sepeti adresinizi örneğin; (www.yemeksepeti.com/isletmeadınız) destek@adisyo.com e-mail adresimize göndermeniz. Geri kalan tüm entegrasyon işlemleri bizim tarafımızdan sağlanmaktadır.
+      title: Yemek Sepeti entegrasyonunuz var mı? Adisyo üzerinden Yemek Sepeti siparişlerimi görebilir miyim?
+      description: Yemek Sepeti’nden gelen siparişlerinizi ayrı bir yerden yönetmek zorunda değilsiniz. Adisyo, Yemeksepeti sipariş süreçlerinizi de yönetebilen, Yemek Sepeti ile tam entegre çalışan bir sistemdir. Yapmanız gereken, işletmenize ait Yemek Sepeti adresinizi örneğin; (www.yemeksepeti.com/isletmeadınız) destek@adisyo.com e-mail adresimize göndermeniz yeterlidir. Geri kalan tüm entegrasyon işlemleri bizim tarafımızdan sağlanmaktadır.
 
     - id: 33
-      title: Bizim hesap entegrasyonunuz var mı?
-      description: Adisyo operasyonlarınızı yönetirken, ön muhasebenizi de Bizimhesap'tan yönetin. Adisyo'daki tüm hareketler otomatik olarak Bizimhesap'a aktarılacaktır. Böylece maliyet, kar-zarar gibi hesaplarınızı kolaylıkla göreceksiniz.
+      title: Bizim Hesap entegrasyonunuz var mı?
+      description: Adisyo, operasyonlarınızı yönetirken ön muhasebe işlemlerinizi de Bizim Hesap uygulaması ile yönetin. Adisyo'daki tüm hareketler otomatik olarak Bizim Hesap uygulamasına aktarılır. Böylece maliyet, kar-zarar gibi hesaplarınızı kolaylıkla takip edebilirsiniz.
 
     - id: 34
       title: Oteller için entegrasyonunuz var mı?
-      description: Adisyo otel operasyonlarınızı yönetirken, aynı zamanda Hotelier ile de entegre olarak çalışır. Sizin yerinize işlemleri kendi yapar. Hotelier'de yapılan tüm hareketleriniz otomatik olarak Adisyo'ya aktarılacaktır. Böylece tüm işlemlerinizi entegreli olarak kolaylıkla görebilirsiniz.
+      description: Adisyo, otel operasyonlarınızı yönetirken aynı zamanda Hotelier ile de entegre olarak çalışır. Hotelier tarafında yapılan tüm hareketleriniz otomatik olarak Adisyo'ya aktarılır. Böylece tüm işlemlerinizi entegreli olarak kolaylıkla görebilirsiniz.
 
 - id: c4
   category_name: Mobil Kullanım
   items:
     - id: 41
       title: Mobil uygulamanız var mı? Android veya iOS telefonumda Adisyo kullanabilir miyim?
-      description: Google Play ve App Store üzerinden mobil uygulamamızı hızlıca indirebilirsiniz. Böylece fazladan bir harcama yapmadan çalışanlarınızn, tablet ve cep telefonlarında ki, mobil uygulamalarımız üzerinden garsonlarınızın sipariş ve ödeme almalarını sağlayabilirsiniz.
+      description: Google Play ve App Store üzerinden mobil uygulamamızı hızlıca indirebilirsiniz. Böylece fazladan bir harcama yapmadan çalışanlarınızın, tablet veya cep telefonlarından sipariş ve ödeme almalarını sağlayabilirsiniz.

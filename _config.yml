@@ -20,7 +20,7 @@ about: Adisyo, cafe ve restoran operasyonlarınızı, herhangi bir cihaz üzerin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adisyo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-address: "İçerenköy Mah. Topçu İbrahim Sk. AND Binası No:8-10 D5 Ataşehir - İstanbul"
+address: "Business İstanbul - Merdivenköy Mah. Yumurtacı Abdibey Cd. No:10 B-Blok D:138 Kadıköy/İstanbul"
 phone: "+90 (216) 706 06 24"
 email: "destek@adisyo.com"
 working_hours: "Pazartesi - Cumartesi 09.00 - 18.00"
@@ -48,3 +48,6 @@ collections:
   posts:
     output: true
     permalink: /blog/:name/
+  release-notes:
+    output: true
+    permalink: /surum-notlari/:name/

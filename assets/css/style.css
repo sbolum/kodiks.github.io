@@ -13,7 +13,7 @@ Copyright. All Rights Reserved.
 }
 
 body {
-    font: 500 15px/26px 'Quicksand', sans-serif;
+    font: 500 16px/26px 'Quicksand', sans-serif;
     letter-spacing: 0.5px;
     line-height: 32px;
     color: #353535;
@@ -7743,7 +7743,7 @@ sub {
     border-bottom: 1px solid #e2e2e2;
 }
 .mapbox {
-    height: 400px;
+    height: 425px;
     -webkit-box-shadow: 0px 3px 4px 0px rgba(12, 0, 46, 0.05);
     box-shadow: 0px 3px 4px 0px rgba(12, 0, 46, 0.05);
     border: 10px solid #fff;
@@ -9739,6 +9739,113 @@ input[type=number]::-webkit-inner-spin-button {
     background: #cb2c2e;
     border-color: #cb2c2e;
     color: #fff;
+}
+
+
+.release-notes-wrapper {
+    margin-bottom: .5rem;
+    display: grid;
+}
+.release-notes-wrapper .release-note-title {
+    margin-top: 28px;
+}
+.release-notes-wrapper .border_bottom {
+    width: 180px;
+    height: 1px;
+    background: #677294;
+    display: block;
+}
+.release-notes-wrapper .release-note a {
+    font: 400 16px/35px "Quicksand", sans-serif;
+    color: #434343;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.release-notes-wrapper .release-note span.date {
+    border-bottom: 1px solid transparent;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    float: right;
+}
+.release-notes-wrapper .release-note a:hover span {
+    color: #cb2c2e;
+    border-color: #cb2c2e;
+}
+
+
+.release-notes-wrapper .release-note span.version {
+    font: 400 13px/26px "Quicksand", sans-serif;
+    background: #cb2c2e;
+    border-color: #cb2c2e;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+
+.release_notes_content #added,
+.release_notes_content #eklendi
+{
+    background: #28a745;
+    border-color: #28a745;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
+}
+
+.release_notes_content #changed,
+.release_notes_content #degisti
+{
+    background: #0366d6;
+    border-color: #0366d6;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
+}
+
+.release_notes_content #deprecated,
+.release_notes_content #rafakalkti
+{
+    background: #0366d6;
+    border-color: #0366d6;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
+}
+
+.release_notes_content #removed,
+.release_notes_content #kaldirildi
+{
+    background: #d73a49;
+    border-color: #d73a49;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
+}
+
+.release_notes_content #fixed,
+.release_notes_content #duzeltildi
+{
+    background: #0366d6;
+    border-color: #0366d6;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
+}
+
+.release_notes_content #security,
+.release_notes_content #guvenlik
+{
+    background: #0366d6;
+    border-color: #0366d6;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0px 11px;
 }
 
 /*====================================================*/

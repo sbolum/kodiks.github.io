@@ -1,0 +1,40 @@
+---
+layout: wrapper
+---
+<!--PAGE CONTENT-->
+<section class="breadcrumb_area">
+    <img class="breadcrumb_shap" src="/assets/img/home/subpage_banner.png" alt="">
+    <div class="container">
+        <div class="breadcrumb_content text-center">
+            <h1 class="f_p f_700 f_size_50 height50">{{page.title}}</h1>
+            <p class="f_400 f_size_16 l_height26">{{page.description}}</p>
+        </div>
+    </div>
+</section>
+
+<section class="blog_area sec_pad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 blog_sidebar_left">
+                <div class="blog_single mb_50">
+                    <div class="blog_content">
+                        <div class="post_date">
+                            <span>v{{ page.version }} </span>
+                        </div>
+                        <a href="{{page.url}}">
+                            <h5 class="f_p f_size_20 f_500 t_color mb-30">{{page.title}}</h5>
+                        </a>
+                        <div id="release_notes_content"></p>{{content}}</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-12">
+                {% include release_notes_sidemenu.html %}
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--PAGE CONTENT-->

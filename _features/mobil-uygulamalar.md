@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 40
 title: Mobil Uygulamalar
-description: Adisyo sizi tek bir cihazı kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar...
+description: Adisyo sizi tek bir cihaz kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar...
 icon: ti-heart 
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Mobil Uygulamalar
     desc: |
-      <p class="f_p f_400">Adisyo sizi tek bir cihazı kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar...</p>
+      <p class="f_p f_400">Adisyo sizi tek bir cihaz kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar...</p>
     image: /assets/img/home/features/mobil-uygulama01.png
 
   - title: Devir Ekonomi Devri

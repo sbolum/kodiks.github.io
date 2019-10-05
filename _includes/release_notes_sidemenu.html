@@ -1,0 +1,18 @@
+<div class="blog-sidebar">
+    <div class="widget sidebar_widget widget_categorie mt_60">
+        <div class="widget_title">
+            <h3 class="f_p f_size_20 t_color3">Sürüm Notları</h3>
+            <div class="border_bottom"></div>
+        </div>
+        <ul class="list-unstyled">
+            {% assign sorted_release_notes = site.release-notes | sort: 'date' | reverse %}
+            {% for note in sorted_release_notes %}
+            <li>
+                <a href="{{ note.url }}">
+                    <span>{{ note.title }}</span><em>{{ note.version }}</em>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

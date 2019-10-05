@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 80
 title: Perakende Satış Yönetimi
-description: Parakende satış yönetimi sayesinde direk satışlarınızı kolayca gerçekleştirebilirsiniz. Böylece tüm siparişlerinizi, zaman kaybı yaşamadan hızlıca yapabilirsiniz.
+description: Perakende satış yönetimi sayesinde direk satışlarınızı kolayca gerçekleştirebilirsiniz. Böylece tüm siparişlerinizi, zaman kaybı yaşamadan hızlıca alabilirsiniz.
 icon: ti-crown
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Perakende Satış Yönetimi
     desc: |
-      <p class="f_p f_400">Adisyo'nun perakende satış yönetimi modülü ile direk satışlarınızı çok daha hızlı bir şekilde yönetebilirsiniz. Böylece hızlıca tüm siparişlerinizi, zaman kaybı yaşamadan en hızlı şekilde gerçekleştirebilirsiniz.</p>
+      <p class="f_p f_400">Adisyo'nun perakende satış yönetimi modülü ile direk satışlarınızı çok daha hızlı bir şekilde yönetebilirsiniz. Böylece tüm siparişlerinizi hızlıca , zaman kaybı yaşamadan takip edebilirsiniz.</p>
     image: /assets/img/home/features/perakende-satis01.png
     
   - title: Devir Ekonomi Devri

@@ -2,7 +2,7 @@
 layout: feature_detail
 order: 110
 title: Termal Yazıcı ve Mutfak Ekranı
-description: Adisyo sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfakta tablet, laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişleri bu ekranlarda görebilirsiniz.
+description: Adisyo sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfakta tablet, laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişleri bu ekranlarda takip edebilirsiniz.
 icon: ti-bolt
 color: red
 visible: true
@@ -10,7 +10,7 @@ visible: true
 descriptions: 
   - title: Termal Yazıcı ve Mutfak Ekranı
     desc: |
-      <p class="f_p f_400">Adisyo sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfakta tablet, laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişleri bu ekranlarda görebilirsiniz, isterseniz de termal yazıcı ile siparişlerinizin otomatik olarak ilgili yazıcıdan çıkmasını sağlayabilirsiniz. Dilerseniz ürün bazlı olarak tanımladığınız yazıcılarınızdan o ürün özelinde çıktı da alabilirsiniz.</p>
+      <p class="f_p f_400">Adisyo sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfakta tablet, laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişleri bu ekranlarda takip edebilir, isterseniz de termal yazıcı ile siparişlerinizin ilgili yazıcıdan çıkmasını sağlayabilirsiniz.</p>
     image: /assets/img/home/features/mutfak-ekrani01.png
 
   - title: Devir Ekonomi Devri
