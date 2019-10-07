@@ -25,6 +25,7 @@ git commit -m "yorum"
 git push origin master
 
 
+
 --------------------------------------------------------------------------------------------
 pc ye indirme SSH
 SSH oluşturmak  - gitbash te yapılacak
