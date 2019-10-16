@@ -121,18 +121,34 @@ $('#return-to-top').click(function () {      // When arrow is clicked
         }(), function() {
             var a = e(".app_testimonial_slider");
             a.length && a.owlCarousel({
-                loop: !0,
-                margin: 10,
-                items: 1,
-                autoplay: !0,
-                smartSpeed: 4e3,
-                autoplaySpeed: !0,
-                responsiveClass: !0,
-                nav: !0,
-                dot: !0,
-                navText: ['<i class="ti-arrow-left"></i>', '<i class="ti-arrow-right"></i>'],
-                navContainer: ".nav_container"
-            })
+                loop:true,
+                margin:15,
+                items: 6,
+                autoplay: true,
+                smartSpeed: 800,
+                autoplaySpeed: false,
+                responsiveClass:true,
+                nav: true,
+                dot: true,
+                stagePadding: 0,
+                navText: ['<i class="ti-arrow-left"></i>','<i class="ti-arrow-right"></i>'],
+                navContainer: '.agency_testimonial_info',
+                responsive: {
+                    0: {
+                        items: 3
+                    },
+                    650: {
+                        items: 3
+                    },
+                    776: {
+                        items: 4
+                    },
+                    1199: {
+                        items: 6
+                    }
+                }    
+            }
+            )
         }(), (o = e(".app_screenshot_slider")).length && o.owlCarousel({
             loop: !0,
             margin: 10,
