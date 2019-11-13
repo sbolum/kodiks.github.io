@@ -23,7 +23,7 @@ $('#return-to-top').click(function () {      // When arrow is clicked
         showAlert("Yönlendirme", "Uygulamaya yönlendiriliyorsunuz lüften bekleyiniz", "info", 5e3), setTimeout(() => {
             let a = JSON.parse(e.cookie("user"));
             var i = "";
-            i = "False" === a.isUsingNewVersion ? `https://adisyo.com/app/#!/login?token=${a.access_token}&pin=${a.pin}` : `http://pos.adisyo.com/login/?token=${a.access_token}&pin=${a.pin}&isHasMultipleRestaurants=${a.isHasMultipleRestaurants}`, window.open(i, "_blank")
+            i = "False" === a.isUsingNewVersion ? `https://adisyo.com/app/#!/login?token=${a.access_token}&pin=${a.pin}` : `http://pos.adisyo.com/#/login/?token=${a.access_token}&pin=${a.pin}&isHasMultipleRestaurants=${a.isHasMultipleRestaurants}`, window.open(i, "_blank")
         }, 2e3)
     }), e(".header_area").length && e(window).scroll(function() {
         e(window).scrollTop() ? e(".header_area").addClass("navbar_fixed") : e(".header_area").removeClass("navbar_fixed")
