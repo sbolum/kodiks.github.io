@@ -228,5 +228,72 @@
             }
         })
     })
+
+     // validate - İŞ BANKASI KAMPANYA
+     $(function () {
+        $('#contactFormBank').validate({
+            rules: {
+                name: {
+                    required: true,
+                    minlength: 2
+                },
+              
+                email: {
+                    required: true,
+                    email: true
+                },
+
+                telephone: {
+                    required: true,
+                    telephone: true
+                },
+
+                vergikimlik: {
+                    required: true,
+                    telephone: true
+                },
+               
+            },
+            messages: {
+                name: {
+                    required: "* Lütfen Adınızı Soyadınızı giriniz",
+                    minlength: "* İsminiz en az 2 karakter olmalıdır"
+                },
+               
+                email: {
+                    required: "* Lütfen e-posta adresinizi giriniz"
+                },
+
+                telephone: {
+                    required: "* Lütfen telefon numaranızı giriniz"
+                },
+
+                vergikimlik: {
+                    required: "* Vergi kimlik numaranızı giriniz"
+                },
+                
+            },
+            submitHandler: function (form) {
+                $(form).ajaxSubmit({
+                    type: "POST",
+                    data: $(form).serialize(),
+                    url: "",
+                    success: function () {
+                        $('#contactFormBank :input').attr('disabled', 'disabled');
+                        $('#contactFormBank').fadeTo("slow", 0.15, function () {
+                            $(this).find(':input').attr('disabled', 'disabled');
+                            $(this).find('label').css('cursor', 'default');
+                            $('#success').fadeIn()
+                        })
+                    },
+                    error: function () {
+                        $('#contactFormBank').fadeTo("slow", 0.15, function () {
+                            $('#error').fadeIn()
+                        })
+                    }
+                })
+            }
+        })
+    })
       
 })(jQuery)

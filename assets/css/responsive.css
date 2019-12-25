@@ -16,7 +16,7 @@ Copyright. All Rights Reserved.
 
 @media (max-height: 1680px) {
   .top-buttons {
-    padding-left:210px;
+    padding-left: 210px;
     text-align: center;
   }
 }
@@ -48,7 +48,6 @@ Copyright. All Rights Reserved.
     padding-left: 100px;
     text-align: center;
   }
-
 }
 
 @media (max-width: 1500px) {
@@ -58,9 +57,7 @@ Copyright. All Rights Reserved.
   }
   .btn_tel {
     display: none;
-}
-
-
+  }
 }
 
 @media (max-width: 1480px) {
@@ -70,8 +67,7 @@ Copyright. All Rights Reserved.
   }
   .btn_tel {
     display: none;
-}
-
+  }
 }
 
 @media (max-width: 1450px) {
@@ -171,20 +167,20 @@ Copyright. All Rights Reserved.
     padding: 20px 3%;
     color: #fff;
     opacity: 0;
-}
-.modal__form {
-  width: 55%;
-  height: 100%;
-  display: table-cell;
-  padding: 20px 3%;
-  background-color: #fff;
-  opacity: 0;
-  transition: all 0.3s 0.12s;
-}
+  }
+  .modal__form {
+    width: 55%;
+    height: 100%;
+    display: table-cell;
+    padding: 20px 3%;
+    background-color: #fff;
+    opacity: 0;
+    transition: all 0.3s 0.12s;
+  }
 
   .pl_80 {
     padding-left: 40px;
-}
+  }
 
   .top-buttons {
     padding-left: 40px;
@@ -510,7 +506,6 @@ Copyright. All Rights Reserved.
   .login_area .login_info {
     padding-right: 50px;
   }
-  
 }
 
 @media (max-width: 1120px) {
@@ -523,10 +518,9 @@ Copyright. All Rights Reserved.
 }
 
 @media (max-width: 1024px) {
-
   .pl_80 {
     padding-left: 20px;
-}
+  }
   .btn_tel {
     display: none;
   }
@@ -544,7 +538,7 @@ Copyright. All Rights Reserved.
   .f_size_38 {
     font-size: 28px;
     letter-spacing: 1px;
-}
+  }
 
   svg {
     width: 120px;
@@ -558,13 +552,13 @@ Copyright. All Rights Reserved.
 
   .navbar-brand {
     display: inline-block;
-    padding-top: .3125rem;
-    padding-bottom: .3125rem;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
     margin-right: 0px;
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-}
+  }
   .top-buttons {
     padding-left: 0px;
     text-align: center;
@@ -592,15 +586,16 @@ Copyright. All Rights Reserved.
 
   .navbar-brand {
     display: inline-block;
-    padding-top: .3125rem;
-    padding-bottom: .3125rem;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
     margin-right: 0rem;
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-}
-
-
+  }
+  .isbank-popup-main {
+    display: none;
+  }
   .s_service_section {
     margin-top: 280px;
   }
@@ -1093,7 +1088,7 @@ Copyright. All Rights Reserved.
   .btn_user:hover {
     color: #ffffff;
     background: none !important;
-}
+  }
   .w_menu .nav-item .nav-link {
     color: #353635;
   }
@@ -1359,14 +1354,14 @@ Copyright. All Rights Reserved.
 @media (max-width: 768px) {
   .service_details_img {
     margin-left: 0px;
-}
+  }
 
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
     width: 80%;
-}
- 
+  }
+
   .breadcrumb_content h1 {
     font-size: 24px;
     line-height: 38px;
@@ -1789,21 +1784,21 @@ Copyright. All Rights Reserved.
   }
   .pl_footer-menu {
     padding-left: 20px;
-}
+  }
   .mt_80 {
     margin-top: 0px;
-}
+  }
 }
 
 @media (max-width: 650px) {
   .service_details_img {
     margin-left: 0px;
-}
+  }
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
     width: 80%;
-}
+  }
   .about_img .about_img_slider .about_item.w45,
   .about_img .about_img_slider .about_item.w55 {
     width: 100%;
@@ -1925,7 +1920,7 @@ Copyright. All Rights Reserved.
 @media (max-width: 600px) {
   .service_details_img {
     margin-left: 0px;
-}
+  }
   table {
     border: 0;
   }
@@ -1971,16 +1966,16 @@ Copyright. All Rights Reserved.
   .hidden-xs {
     visibility: hidden !important;
     display: none !important;
-}
+  }
 
   .service_details_img {
     margin-left: 0px;
-}
+  }
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
     width: 60%;
-}
+  }
   .slider_btn {
     margin-bottom: 10px;
     margin-top: 10px;
@@ -2039,7 +2034,7 @@ Copyright. All Rights Reserved.
 
   .f_size_34 {
     font-size: 26px;
-}
+  }
   .footer_area_two .footer_bottom p {
     margin-bottom: 8px !important;
   }
@@ -2321,9 +2316,9 @@ Copyright. All Rights Reserved.
     padding: 110px 0px 50px;
   }
 
-  .breadcrumb_shap img{
+  .breadcrumb_shap img {
     opacity: 0.1;
-}
+  }
 
   .shop_grid_area .row,
   .shop_list_area .row {
@@ -2376,12 +2371,12 @@ Copyright. All Rights Reserved.
 @media (max-width: 450px) {
   .service_details_img {
     margin-left: 0px;
-}
+  }
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
     width: 60%;
-}
+  }
 
   .breadcrumb_area .breadcrumb_shap {
     position: absolute;
@@ -2389,16 +2384,16 @@ Copyright. All Rights Reserved.
     top: 0;
     z-index: -1;
     opacity: 0.1;
-}
+  }
   .footer_nine_area {
     padding-left: 15px;
     padding-right: 15px;
     text-align: center;
-}
+  }
   .partner_info .logo_item img {
     max-width: 70%;
     opacity: 0.5;
-}
+  }
 
   .jq-toast-wrap.bottom-right {
     bottom: 0px !important;
@@ -2465,6 +2460,10 @@ Copyright. All Rights Reserved.
     padding-top: 80px;
     position: relative;
     z-index: 1;
+  }
+
+  .isbank-popup-main {
+    display: none;
   }
   label {
     font-size: 16px;
@@ -2672,19 +2671,19 @@ Copyright. All Rights Reserved.
 @media (max-height: 420px) {
   .service_details_img {
     margin-left: 0px;
-}
+  }
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
     width: 80%;
-}
+  }
   .breadcrumb_area .breadcrumb_shap {
     position: absolute;
     right: 0;
     top: 0;
     z-index: -1;
     opacity: 0.1;
-}
+  }
   .modal__form {
     width: 55%;
     height: 100%;
@@ -2754,19 +2753,19 @@ Copyright. All Rights Reserved.
 @media (max-width: 320px) {
   .service_details_img {
     margin-left: 0px;
-}
+  }
   .service_details_img img {
     /* margin-left: 0px; */
     text-align: center !important;
     width: 80%;
-}
+  }
   .breadcrumb_area .breadcrumb_shap {
     position: absolute;
     right: 0;
     top: 0;
     z-index: -1;
     opacity: 0.1;
-}
+  }
   .modal__form {
     width: 55%;
     height: 100%;
@@ -2803,5 +2802,3 @@ Copyright. All Rights Reserved.
     padding-bottom: 120px !important;
   }
 }
-
-
