@@ -211,20 +211,26 @@
                 },
                 tcBank: {
                     required: !0,
+                    minlength: 11
+
                    },
                 vergikimlikBank: {
-                    required: !0
+                    required: !0,
+                    minlength: 10
                    },           
                },
                messages: {
                 nameBank: {
-                 required: "* Lütfen adınızı soyadınızı giriniz"
+                 required: "* Lütfen adınızı soyadınızı giriniz",
+                 
                 },
                 tcBank: {
-                    required: "* T.C kimlik numaranızı yazınız"
+                    required: "* T.C kimlik numaranızı yazınız",
+                    minlength: "* En az 11 karakter girilmelidir."
                    },
                 vergikimlikBank: {
-                    required: "* Vergi kimlik numaranızı yazınız"
+                    required: "* Vergi kimlik numaranızı yazınız",
+                    minlength: "* En az 10 karakter girilmelidir."
                    }
                },
          submitHandler: function(i) {
