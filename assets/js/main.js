@@ -17,6 +17,13 @@ $('#return-to-top').click(function () {      // When arrow is clicked
     }, 500);
 });
 
+$(window).on('load',function(){
+    console.log(localStorage.getItem('isbankKapat'));
+    if(localStorage.getItem('isbankKapat')){
+        $('#ed_Anasayfa_Bar_main_bar').hide();
+    }
+})
+
 ! function(e) {
     "use strict";
     e.cookie("user") ? (e("#goToApp").css("display", "inline"), e("#loginModal").css("display", "none")) : (e("#goToApp").css("display", "none"), e("#loginModal").css("display", "inline")), e("#goToApp").click(function() {

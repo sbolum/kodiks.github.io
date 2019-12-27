@@ -202,14 +202,15 @@
        })
       }
      })
-    }), e(function() {
+    }), 
+    e(function() {
         e("#contactFormBank").validate({
             rules: {
                 nameBank: {
                  required: !0
                 },
                 tcBank: {
-                    required: !0
+                    required: !0,
                    },
                 vergikimlikBank: {
                     required: !0
@@ -228,19 +229,19 @@
                },
          submitHandler: function(i) {
              console.log("iş bankası kaydı");
-          var r = e(i).serializeArray(),
+           var r = e(i).serializeArray(),
            a = {
-            fullName: r[0].value,
-            phone: r[2].value,
-            from: r[1].value
+            fullName: '<br>-- İŞ BANKASI BAŞVURU FORMU --<br><br>'+r[0].value.toString(),
+            phone:'TC NO: '+r[1].value.toString()+'<br>'+'VERGI NO: '+r[2].value.toString(),
            };
+          console.log(a);
           e.ajax({
-           url: "#",
+           url: "https://adisyo.com/api/general/SendUnauthorizedFeedback",
            type: "post",
            dataType: "json",
            data: a,
            success: function(e) {
-            toggleModal(), showAlert("Kampanya Katılım", "Kaydınız Alışmıştır. En yakın sürede değerlendirilip tarafınıza geri dönüş yapılacaktır. Teşekkürler.", "success", 6e3)
+            toggleModal(), showAlert("İş Bankası Kampanya Katılım", "Kaydınız Alınmıştır. En yakın sürede değerlendirilip tarafınıza geri dönüş yapılacaktır. Teşekkürler.", "success", 6e3)
            },
            error: function(e) {
             showAlert("Hata", e.responseText, "error", 8e3)
@@ -250,3 +251,8 @@
         })
        })
    }(jQuery);
+
+   function closeIsbank(){
+       localStorage.setItem('isbankKapat',true);
+       $('#ed_Anasayfa_Bar_main_bar').fadeOut('slow');
+   }
