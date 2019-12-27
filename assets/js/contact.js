@@ -254,5 +254,8 @@
 
    function closeIsbank(){
        localStorage.setItem('isbankKapat',true);
-       $('#ed_Anasayfa_Bar_main_bar').fadeOut('slow');
+       $('#isBankButon').css('display','none');
+       $('#isBankButon2').css('display','none');
+       $('#isBankKampanya').css('visibility','hidden');
+
    }

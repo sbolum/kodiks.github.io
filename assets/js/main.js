@@ -20,7 +20,7 @@ $('#return-to-top').click(function () {      // When arrow is clicked
 $(window).on('load',function(){
     console.log(localStorage.getItem('isbankKapat'));
     if(localStorage.getItem('isbankKapat')){
-        $('#ed_Anasayfa_Bar_main_bar').hide();
+        $('#isBankKampanya').css('visibility','hidden');
     }
 })
 
