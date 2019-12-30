@@ -194,7 +194,7 @@
         dataType: "json",
         data: a,
         success: function(e) {
-         toggleModal(), showAlert("Sizi Arayalım", "Kaydınız alışmıştır. En yakın sürede tarafınıza geri dönüş yapılacaktır. Teşekkürler.", "success", 6e3)
+         toggleModal(), showAlert("Sizi Arayalım", "Kaydınız alışmıştır. En kısa sürede tarafınıza geri dönüş yapılacaktır. Teşekkürler.", "success", 6e3)
         },
         error: function(e) {
          showAlert("Hata", e.responseText, "error", 8e3)
@@ -247,7 +247,7 @@
            dataType: "json",
            data: a,
            success: function(e) {
-            toggleModal(), showAlert("İş Bankası Kampanya Katılım", "Kaydınız Alınmıştır. En yakın sürede değerlendirilip tarafınıza geri dönüş yapılacaktır. Teşekkürler.", "success", 6e3)
+            toggleModal(), showAlert("İŞ Bankası Kampanya", "Kaydınız alınmıştır. En kısa sürede değerlendirilip tarafınıza geri dönüş yapılacaktır. Teşekkürler.", "success", 6e3)
            },
            error: function(e) {
             showAlert("Hata", e.responseText, "error", 8e3)

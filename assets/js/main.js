@@ -17,7 +17,7 @@ $('#return-to-top').click(function () {      // When arrow is clicked
     }, 500);
 });
 
-$(window).on('load',function(){
+$( document ).ready(function() {
     console.log(localStorage.getItem('isbankKapat'));
     if(localStorage.getItem('isbankKapat')){
         $('#isBankKampanya').css('visibility','hidden');
