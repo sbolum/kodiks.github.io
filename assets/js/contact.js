@@ -209,6 +209,10 @@
                 nameBank: {
                  required: !0
                 },
+                telBank:{
+                    required: !0,
+                    minlength: 11
+                },
                 tcBank: {
                     required: !0,
                     minlength: 11
