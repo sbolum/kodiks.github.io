@@ -1511,7 +1511,7 @@ input:-internal-autofill-selected {
     padding-top: 15px;
 }
 .menu>.nav-item.submenu .dropdown-menu .nav-item:last-child {
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     margin-bottom: 0px;
 }
 .menu>.nav-item.submenu .dropdown-menu .nav-item>.dropdown-menu {
