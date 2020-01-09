@@ -16,8 +16,6 @@
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	line-height: 1;
-
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -1197,10 +1195,10 @@
 	background-image: url(/assets/img/icons/yemeksepeti.png);
     content: "";
     position: absolute;
-    width: 25px;
-    height: 25px;
-    top: 7px;
-    left: 7px;
+	width: 26px;
+    height: 26px;
+    top: 8px;
+    left: 8px;
     background-size: cover;
     background-color: transparent;
 }
@@ -1210,10 +1208,10 @@
 	background-image: url(/assets/img/icons/printer.png);
     content: "";
     position: absolute;
-	width: 23px;
-    height: 23px;
-    top: 7px;
-    left: 7px;
+	width: 26px;
+    height: 26px;
+    top: 8px;
+    left: 8px;
     background-size: cover;
     background-color: transparent;
 }
@@ -1223,10 +1221,10 @@
 	background-image: url(/assets/img/icons/stock.png);
     content: "";
     position: absolute;
-    width: 25px;
-    height: 25px;
-    top: 7px;
-    left: 7px;
+	width: 26px;
+    height: 26px;
+    top: 8px;
+    left: 8px;
     background-size: cover;
     background-color: transparent;
 }
@@ -1236,10 +1234,10 @@
 	background-image: url(/assets/img/icons/wifi.png);
     content: "";
     position: absolute;
-	width: 25px;
-    height: 25px;
-    top: 7px;
-    left: 7px;
+	width: 26px;
+    height: 26px;
+    top: 8px;
+    left: 8px;
     background-size: cover;
     background-color: transparent;
 }
@@ -1248,10 +1246,10 @@
 	background-image: url(/assets/img/icons/responsive.png);
     content: "";
     position: absolute;
-    width: 25px;
-    height: 25px;
-    top: 7px;
-    left: 7px;
+	width: 26px;
+    height: 26px;
+    top: 8px;
+    left: 8px;
     background-size: cover;
     background-color: transparent;
 }

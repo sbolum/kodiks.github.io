@@ -134,7 +134,7 @@ $('#return-to-top').click(function () {      // When arrow is clicked
                 margin:15,
                 items: 6,
                 autoplay: true,
-                smartSpeed: 800,
+                smartSpeed: 300,
                 autoplaySpeed: false,
                 responsiveClass:true,
                 nav: true,

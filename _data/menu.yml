@@ -28,7 +28,7 @@
     - id: 15
       title: Entegrasyonlar
       url: /ozellikler/entegrasyonlar
-      icon: ti-stok
+      icon: ti-control-shuffle
 - id: 2
   title: FİYATLAR
   url: /fiyatlar/

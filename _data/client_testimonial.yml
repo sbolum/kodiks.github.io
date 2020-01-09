@@ -1,44 +1,4 @@
 - id: 26
-  company_name: Lokmaçatı
-  owner: Ayk Baklacıoğlu
-  comment:  Bundan yaklaşık 4-5 ay önce Çeşme/Alaçatı’da yeni bir işletme açmak üzere yola çıktım.
-            Her işletme de olduğu gibi benim açacağım cafe içinde bir POS sistemi kurmam gerekiyordu.
-            Yaptığım uzun araştırmalar sonucunda; Genç ve dinamik bir ekibe sahip olan, güvenilir ve
-            kolay kullanımı olan bir arayüze sahip ve en önemlisi fiyat politikasında rakipsiz bir 
-            firma oldukları için düşünmeden Adisyo'yu seçtim. Bugün, ne kadar doğru bir seçim yaptığımı görüyorum.
-            Eğer sizde yeni bir işletme açacaksanız ve bir POS sistemine ihtiyacınız varsa, o zaman düşünmeden 
-            Adisyo'yu seçin pişman olmazsanız... Teşekkürler Adisyo Ekibi. Başarılarınızın devamını dilerim.         
-  logo: /assets/img/home/testimonial/lokmacati.jpg
-
-
-- id: 25
-  company_name: Neşve Restaurant
-  owner: Şaban Emeklioğlu
-  comment:  Adisyo'yu bir yılı aşkın süredir kullanıyorum. İşletmemizde hızımıza hız katıyor, 
-            çok hızlı ve kullanımı kolay bir yazılım. Bu fiyata bu hizmeti verdikleri için çok teşekkürler. 
-            Sektördeki tüm işletmelere denemelerini tavsiye ediyorum.                     
-  logo: /assets/img/home/testimonial/nesve.jpg
-
-- id: 24
-  company_name: Vitamin Simit
-  owner: Cenk Tik
-  comment:  Yoğun bir şekilde müşteri ağırladığımız simit kafemizde Adisyo
-            kullanıyoruz. Bu sayesinde günlük oluşan sipariş yoğunluğumuz daha rahat olmaya
-            başladı. Ayrıca işletmede olmadığım zaman bile herşeye erişebiliyorum.                   
-  logo: /assets/img/home/testimonial/vitaminsimit.jpg
-
-
-- id: 24
-  company_name: Baltazar Meat & Drink
-  owner: Ozan Rende
-  comment: Adisyo’yu ilk kullanmaya başladığımızda çalışanlarımızın programa
-          alışması sanki daha önce kullanmışlar gibi hızlı oldu. Adisyo’nun gayet şık
-          ve sade tasarımı ile hızlı olması bize çok büyük bir avantaj sağlıyor.
-          Ayrıca Adisyo ile restaurantımın bütün bilgileri avucumun içinde.
-          Teşekkürler Adisyo.                                               
-  logo: /assets/img/home/testimonial/baltazar.jpg
-
-- id: 22
   company_name: Pizza Dünyası
   owner: Mustafa Yıldırım
   comment:  Türkiye'nin en büyük iletişim şirketinde 12 yıl iş tecrübesinden sonra
@@ -51,6 +11,44 @@
             yerden ulaşıp gerektiğinde anında müdahale imkanına sahip oldum.
             Teşekkürler Adisyo.
   logo: /assets/img/home/testimonial/pizzadunyasi.jpg
+
+- id: 25
+  company_name: Lokmaçatı
+  owner: Ayk Baklacıoğlu
+  comment:  Bundan yaklaşık 4-5 ay önce Çeşme/Alaçatı’da yeni bir işletme açmak üzere yola çıktım.
+            Her işletme de olduğu gibi benim açacağım cafe içinde bir POS sistemi kurmam gerekiyordu.
+            Yaptığım uzun araştırmalar sonucunda; Genç ve dinamik bir ekibe sahip olan, güvenilir ve
+            kolay kullanımı olan bir arayüze sahip ve en önemlisi fiyat politikasında rakipsiz bir 
+            firma oldukları için düşünmeden Adisyo'yu seçtim. Bugün, ne kadar doğru bir seçim yaptığımı görüyorum.
+            Eğer sizde yeni bir işletme açacaksanız ve bir POS sistemine ihtiyacınız varsa, o zaman düşünmeden 
+            Adisyo'yu seçin pişman olmazsanız... Teşekkürler Adisyo Ekibi. Başarılarınızın devamını dilerim.         
+  logo: /assets/img/home/testimonial/lokmacati.jpg
+
+- id: 24
+  company_name: Neşve Restaurant
+  owner: Şaban Emeklioğlu
+  comment:  Adisyo'yu bir yılı aşkın süredir kullanıyorum. İşletmemizde hızımıza hız katıyor, 
+            çok hızlı ve kullanımı kolay bir yazılım. Bu fiyata bu hizmeti verdikleri için çok teşekkürler. 
+            Sektördeki tüm işletmelere denemelerini tavsiye ediyorum.                     
+  logo: /assets/img/home/testimonial/nesve.jpg
+
+- id: 23
+  company_name: Vitamin Simit
+  owner: Cenk Tik
+  comment:  Yoğun bir şekilde müşteri ağırladığımız simit kafemizde Adisyo
+            kullanıyoruz. Bu sayesinde günlük oluşan sipariş yoğunluğumuz daha rahat olmaya
+            başladı. Ayrıca işletmede olmadığım zaman bile herşeye erişebiliyorum.                   
+  logo: /assets/img/home/testimonial/vitaminsimit.jpg
+
+- id: 22
+  company_name: Baltazar Meat & Drink
+  owner: Ozan Rende
+  comment: Adisyo’yu ilk kullanmaya başladığımızda çalışanlarımızın programa
+          alışması sanki daha önce kullanmışlar gibi hızlı oldu. Adisyo’nun gayet şık
+          ve sade tasarımı ile hızlı olması bize çok büyük bir avantaj sağlıyor.
+          Ayrıca Adisyo ile restaurantımın bütün bilgileri avucumun içinde.
+          Teşekkürler Adisyo.                                               
+  logo: /assets/img/home/testimonial/baltazar.jpg
 
 - id: 21
   company_name: Tosttuning
