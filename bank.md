@@ -13,6 +13,6 @@ permalink: /banka-bilgilerimiz/
 <br /><br />
 
 {: .table .table-striped .table-bordered }
-| BANKA ADI              | HESAP ADI               | HESAP NO         | ŞUBE KOD   | İBAN NO                                |
-| -----------------------|:-----------------------:|:----------------:|:----------:|:--------------------------------------:|
-| Türkiye İş Bankası     | Adisyo Bilişim A.Ş      | 509047           | 1206       | TR15 0006 4000 0011 2060 5090 47       |
+| BANKA ADI              | HESAP ADI               | HESAP NO     | ŞUBE KOD   | IBAN NO                                |
+| -----------------------|:-----------------------:|:------------:|:----------:|:--------------------------------------:|
+| Türkiye İş Bankası     | Adisyo Bilişim A.Ş      | 509047       | 1206       | TR15 0006 4000 0011 2060 5090 47       |

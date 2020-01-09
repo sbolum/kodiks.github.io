@@ -206,6 +206,7 @@ select:-webkit-autofill:focus {
     display: block;
     text-decoration: none;
     display: none;
+    visibility: initial !important;
     -webkit-transition: all 0.3s linear;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
@@ -507,7 +508,7 @@ input:-internal-autofill-selected {
     margin-right: 10px;
     height: auto;
     padding-bottom: 0px;
-    opacity: 0.8 !important;
+    opacity: 0.7 !important;
 }
 
 .mobile-store-icons:hover {
@@ -517,7 +518,7 @@ input:-internal-autofill-selected {
 .playstore {
     width: 165px;
     height: auto;
-    opacity: 0.8 !important;
+    opacity: 0.7 !important;
 }
 
 .playstore:hover {

@@ -3,6 +3,15 @@ Fatih Komecoglu | www.fatihkomecoglu.com
 UI Designer and Front-End Developer 
 Copyright. All Rights Reserved.
 */
+
+
+$( document ).ready(function() {
+    console.log(localStorage.getItem('isbankKapat'));
+    if(localStorage.getItem('isbankKapat')){
+        $('#isBankKampanya').css('visibility','hidden');
+    }
+})
+
 // ===== Scroll to Top ==== 
 $(window).scroll(function () {
     if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
@@ -16,13 +25,6 @@ $('#return-to-top').click(function () {      // When arrow is clicked
         scrollTop: 0                       // Scroll to top of body
     }, 500);
 });
-
-$( document ).ready(function() {
-    console.log(localStorage.getItem('isbankKapat'));
-    if(localStorage.getItem('isbankKapat')){
-        $('#isBankKampanya').css('visibility','hidden');
-    }
-})
 
 ! function(e) {
     "use strict";
