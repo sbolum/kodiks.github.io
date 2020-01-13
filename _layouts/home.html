@@ -45,14 +45,12 @@ layout: wrapper
                 <div class="pulse-x"></div>
             </div>
             <h2 class="f_size_34 f_600 t_color3 l_height30 mb_20 text-center mt_60 wow fadeInDown"
-                data-wow-delay="0.3s">
-                Adisyo'nun Benzersiz Özellikleri ile Tanışın</h2>
-            <p class="f_400 f_size_16 l_height30 text-center mb_90 wow wow fadeInDown" data-wow-delay="0.8s">Basit ve
-                kullanımı kolay arayüzü ile ihtiyacınız olan tüm özellikler bir arada</p>
+                data-wow-delay="0.3s">Adisyo'nun Benzersiz Özellikleri ile Tanışın</h2>
+            <p class="f_400 f_size_16 l_height30 text-center mb_90 wow wow fadeInDown" data-wow-delay="0.8s">Basit ve kullanımı kolay arayüzü ile ihtiyacınız olan tüm özellikler bir arada</p>
             <div class="row p_service_info">
                 {% for feature in site.data.home_features %}
                 <div class="col-lg-4 col-sm-4">
-                    <div class="p_service_item pr_70 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="p_service_item pr_35 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="icon {{feature.color}}"><i class="{{feature.icon}}"></i></div>
                         <h5 class="f_600 f_p t_color3">{{feature.title}}</h5>
                         <p class="f_400">
@@ -63,12 +61,15 @@ layout: wrapper
                 </div>
                 {% endfor %}
             </div>
-            <div class="text-center mt_40 mb_0">
-                <a class="properties_btn_tr" href="/ozellikler">Tüm Özellikler</a>
-            </div>
+           
         </div>
+       
     </div>
+  
 </section>
+<div class="text-center">
+    <a class="properties_btn_tr mt_40 mb_40" href="/ozellikler">Tüm Özellikler</a>
+</div>
 
 <!--pricing-->
 <section class="pricing_area bg_color sec_pad">
@@ -130,7 +131,7 @@ layout: wrapper
                         </div>
                     </div>
                 </div>
-                <div class="text-center mt_20 mb_20">
+                <div class="text-center mt_20 mb_0">
                     <a class="properties_btn_tr" href="/fiyatlar">Tüm Fiyatlarımız</a>
                 </div>
             </div>
