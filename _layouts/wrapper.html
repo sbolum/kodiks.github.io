@@ -42,6 +42,18 @@
         gtag('config', 'UA-79631820-1', { 'optimize_id': 'GTM-KV4MR8M' });
 
     </script>
+    <style>
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+        }
+
+        /* Firefox */
+        input[type=number] {
+        -moz-appearance:textfield;
+        }
+    </style>
     <!-- Yandex.Metrika counter -->
     <!-- <script type="text/javascript" >
     (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -116,7 +128,13 @@
                                                 placeholder="Adınız Soyadınız *">
                                         </div>
                                     </div>
-
+                                    <div class="col-lg-12">
+                                        <div class="form-group text_box">
+                                            <label class="f_p text_c f_600">Email Adresiniz</label>
+                                            <input type="text"
+                                                id="mailBank" name="mailBank" placeholder="Email Adresiniz (Boş geçilebilir)">
+                                        </div>
+                                    </div>
                                     <div class="col-lg-12">
                                         <div class="form-group text_box">
                                             <label class="f_p text_c f_600">Telefon Numaranız</label>
@@ -135,8 +153,10 @@
                                         </div>
                                     </div>
 
+                                    
+
                                 </div>
-                                <button type="submit" class="btn_three mt_30 b-fix-btn">Gönder</button>
+                                <button class="btn_three mt_30 b-fix-btn">Gönder</button>
                             </form>
                         </div>
                     </div>
