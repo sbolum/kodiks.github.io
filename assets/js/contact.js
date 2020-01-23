@@ -191,10 +191,12 @@
         rules: {
           nameBank: { required: !0 },
           telBank: { required: !0, minlength: 11 },
-          tcBank: { required: !0, minlength: 10 }
+          tcBank: { required: !0, minlength: 10 },
+          mailBank : { required: !0}
         },
         messages: {
           nameBank: { required: "* Lütfen adınızı soyadınızı giriniz" },
+          mailBank: {required: "* Lütfen mail adresinizi giriniz"},
           telBank: {
             required: "* Lütfen telefon numaranızı giriniz",
             minlength: "* Telefon numaranız 11 haneli olmalıdır."
@@ -209,8 +211,8 @@
           var a = {
               FullName: "<br>-- İŞ BANKASI BAŞVURU FORMU --<br><br>" + r[0].value.toString(),
               Phone:"<br>TEL NO: " + r[2].value.toString(),
-              Identity: "TC NO/VERGI NO: " + r[3].value.toString(),
-              From: r[1].value.toString() == "" ? null : r[1].value.toString(),
+              Identity: "TC NO/VERGI NO: " + r[3].value.toString() +"<br>",
+              From: "Email: " + r[1].value.toString(),
               restaurantId: null
             };
           e.ajax({
