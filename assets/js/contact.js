@@ -210,7 +210,8 @@
               FullName: "<br>-- İŞ BANKASI BAŞVURU FORMU --<br><br>" + r[0].value.toString(),
               Phone:"<br>TEL NO: " + r[2].value.toString(),
               Identity: "TC NO/VERGI NO: " + r[3].value.toString(),
-              From: r[1].value.toString() == "" ? null : r[1].value.toString()
+              From: r[1].value.toString() == "" ? null : r[1].value.toString(),
+              restaurantId: null
             };
           e.ajax({
             url: "https://adisyo.com/api/general/SubmitIsBankCampaignRequest",
