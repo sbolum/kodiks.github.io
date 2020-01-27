@@ -21,11 +21,11 @@
 
   
 - id: 4
-  title: Offline Çalışma
-  description: Adisyo kullanımı sırasında, internet bağlantınız kesilse bile çalışmaya devam edersiniz. Böylece işletmenizin tüm operasyonlarını kesintisiz sürdürebilirsiniz.
-  icon: ti-rss-alt
+  title: Gelişmiş Raporlama
+  description: Adisyo ile yapmış olduğunuz tüm satış, ödeme ve stoklarınız işletmenize özel detaylı ve anlaşılır raporlar halinde sunulmuştur. 
+  icon: ti-report
   color: red
-  url: /ozellikler/offline-calisma
+  url: /ozellikler/gelismis-raporlama
 
 - id: 5
   title: Stok Takibi

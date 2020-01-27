@@ -1,6 +1,6 @@
 ---
 layout: release_notes
 title: Adisyo Sürüm Güncellemeleri
-description: Adisyo'nun tüm değişiklikleri bu dosyada belgelenecektir.
+description: Adisyo için geliştirilen tüm güncellemeler ve özellikleri buradan takip edebilirsiniz.
 permalink: /surum-notlari/
 ---
