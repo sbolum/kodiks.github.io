@@ -209,10 +209,10 @@
         submitHandler: function(i) {
           var r = e(i).serializeArray();
           var a = {
-              FullName: "<br>-- İŞ BANKASI BAŞVURU FORMU --<br><br>" + r[0].value.toString(),
-              Phone:"<br>TEL NO: " + r[2].value.toString(),
-              Identity: "TC NO/VERGI NO: " + r[3].value.toString() +"<br>",
-              From: "Email: " + r[1].value.toString(),
+              FullName: r[0].value.toString(),
+              Phone: r[2].value.toString(),
+              Identity: r[3].value.toString(),
+              From: r[1].value.toString(),
               restaurantId: null
             };
           e.ajax({
