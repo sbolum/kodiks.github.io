@@ -155,12 +155,15 @@
         rules: {
           nameCall: { required: !0 },
           emailCall: { required: !0 },
-          telephoneCall: { required: !0 }
+          telephoneCall: { required: !0, minlength: 11 },
         },
         messages: {
           nameCall: { required: "* Lütfen Adınızı Soyadınızı giriniz" },
           emailCall: { required: "* Lütfen e-posta adresinizi giriniz" },
-          telephoneCall: { required: "* Telefon numaranızı yazınız" }
+          telephoneCall: {
+            required: "* Lütfen telefon numaranızı giriniz",
+            minlength: "* Telefon numaranız 11 haneli olmalıdır."
+          }
         },
         submitHandler: function(i) {
           var r = e(i).serializeArray(),
