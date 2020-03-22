@@ -42,11 +42,11 @@
     - id: 51
       title: Fiyatlarımız
       url: /fiyatlar/
-      icon: ti-mobiluygulama
+      icon: ti-fiyarlarimiz
     - id: 52
       title: Kampanyalar
       url: /kampanyalar/
-      icon: ti-reports
+      icon: ti-kampanya
 - id: 3
   title: DESTEK
   url: /destek/

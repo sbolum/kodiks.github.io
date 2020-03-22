@@ -639,7 +639,10 @@
     }
     .container.custom_container {
         max-width: 100%;
-        padding: 0 0
+        padding: 0px 15px;
+    }
+    .small-item {
+        transform: scale(1);
     }
     .price_content .price_item {
         height: 100%
@@ -1441,6 +1444,9 @@
     }
     .sec_title.mb_70 {
         margin-bottom: 50px
+    }
+    .m-t_90 {
+        margin-top: 50px;
     }
     .mapbox {
         display: none

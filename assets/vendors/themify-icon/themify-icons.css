@@ -356,6 +356,8 @@ url('fonts/themify.svg?-fvbane#themify') format('svg');font-weight:normal;font-s
 .ti-offline:before{background-image:url(/assets/img/icons/wifi.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-mobiluygulama:before{background-image:url(/assets/img/icons/responsive.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-reports:before{background-image:url(/assets/img/icons/report.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
+.ti-fiyarlarimiz:before{background-image:url(/assets/img/icons/fiyatlar.png);content:"";position:absolute;width:30px;height:30px;top:6px;left:6px;background-size:cover;background-color:transparent;}
+.ti-kampanya:before{background-image:url(/assets/img/icons/kampanya.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-dropbox-alt:before{content:"\e75c";}
 .ti-css3:before{content:"\e75d";}
 .ti-rss:before{content:"\e75e";}
