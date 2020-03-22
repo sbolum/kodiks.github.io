@@ -37,8 +37,16 @@
   url: /fiyatlar/
   isHeader: true
   isFooter: true
-  submenu: false
-
+  submenu: true
+  subitems:
+    - id: 51
+      title: Fiyatlarımız
+      url: /fiyatlar/
+      icon: ti-mobiluygulama
+    - id: 52
+      title: Kampanyalar
+      url: /kampanyalar/
+      icon: ti-reports
 - id: 3
   title: DESTEK
   url: /destek/
