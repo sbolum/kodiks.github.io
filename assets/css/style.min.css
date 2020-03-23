@@ -1594,21 +1594,7 @@ input:-internal-autofill-selected {
     transition: color .3s ease 0s;
     position: relative
 }
-
-.menu>.nav-item>.nav-link:before {
-    content: "";
-    width: 0;
-    height: 1px;
-    background: #cb2c2e;
-    position: absolute;
-    bottom: -5px;
-    left: auto;
-    right: 0;
-    -webkit-transition: all .2s linear;
-    -o-transition: all .2s linear;
-    transition: all .2s linear
-}
-
+    
 .menu>.nav-item>.nav-link:after {
     display: none
 }
@@ -1674,7 +1660,7 @@ input:-internal-autofill-selected {
 }
 
 .menu>.nav-item.submenu .dropdown-menu .nav-item:first-child {
-    padding-top: 15px
+    padding-top: 5px
 }
 
 .menu>.nav-item.submenu .dropdown-menu .nav-item:last-child {
@@ -1810,9 +1796,9 @@ input:-internal-autofill-selected {
 }
 
 .menu>.nav-item:hover .nav-link:before {
-    width: 100%;
+    /* width: 100%;
     left: 0;
-    right: auto
+    right: auto */
 }
 
 @media (min-width:992px) {

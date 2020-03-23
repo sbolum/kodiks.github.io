@@ -1006,7 +1006,7 @@
         -ms-transition: max-height .5s, opacity .2s .1s, visibility 0s 0s;
         -o-transition: max-height .5s, opacity .2s .1s, visibility 0s 0s;
         transition: max-height .5s, opacity .2s .1s, visibility 0s 0s;
-        max-height: 420px;
+        max-height: 450px;
         overflow-y: scroll;
         display: block;
         opacity: 1;
@@ -1070,6 +1070,7 @@
         padding: 10px;
         background-color: #fff
     }
+
     .btn_user:hover {
         color: #fff;
         background: 0 0!important
@@ -1301,9 +1302,10 @@
         padding: 0;
         white-space: nowrap;
         font: 600 14px/34px Quicksand, sans-serif;
-        color: #c82c2c;
+        color: #434343;
         text-align: center;
         line-height: 35px;
+        margin-left: 30px;
         -webkit-transition: color .2s linear;
         -o-transition: color .2s linear;
         transition: color .2s linear;
@@ -1325,7 +1327,8 @@
         line-height: 34px;
         color: #fff;
         text-align: center;
-        -webkit-box-sizing: content-box
+        -webkit-box-sizing: content-box;
+        display: none;
     }
     .btn_user {
         border: none;
