@@ -24,7 +24,7 @@
                     {% for menu in header_menu %}
                     <li class="nav-item {% if menu.submenu == true %} dropdown submenu {% endif %} {% if page.url contains menu.url %} active {% endif %}">
                         <a class="nav-link {% if menu.submenu == true %} dropdown-toggle icons{% endif %}"
-                            href="{{menu.url}}" role="button" data-toggle="dropdown">{{menu.title | upcase }}</a>
+                            href="{{menu.url}}" role="button" data-toggle="{% if menu.submenu == true %}dropdown{% endif %}">{{menu.title | upcase }}</a>
                         {% if menu.submenu == true %}
                         <ul class="dropdown-menu">
                             {% for sub_items in menu.subitems %}
