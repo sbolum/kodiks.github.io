@@ -1786,9 +1786,9 @@ input:-internal-autofill-selected {
 }
 
 .menu>.nav-item.active .nav-link:before {
-    width: 100%;
+    /* width: 100%;
     left: 0;
-    right: auto
+    right: auto */
 }
 
 .menu>.nav-item:hover .nav-link {
