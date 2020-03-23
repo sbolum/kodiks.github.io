@@ -30,13 +30,14 @@
                         <ul class="dropdown-menu">
                             {% for sub_items in menu.subitems %}
                             <li class="nav-item">
-                                <a href="{{sub_items.url}}" class="nav-link">
+                                <a href="{{sub_items.url}}" class="{% if sub_items.isButton == true %} btn_properties {% else %} nav-link {% endif %}">
+                                    {% if sub_items.isButton == false %}
                                     <div class="icon-menu"><i class="{{sub_items.icon}}"></i></div>
+                                    {% endif %}
                                     {{sub_items.title}}
                                 </a>
                             </li>
                             {% endfor %}
-                            <li class="nav-item"><a class="btn_properties" href="/ozellikler">Tüm Özellikler</a></li>
                         </ul>
                         {% endif %}
                     </li>
