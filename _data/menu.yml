@@ -123,10 +123,3 @@
   isHeader: false
   isFooter: true
   submenu: false  
-
-- id: 12
-  title: Covid19
-  url: /covid19/
-  isHeader: false
-  isFooter: true
-  submenu: false
