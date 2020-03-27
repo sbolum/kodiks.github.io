@@ -414,6 +414,11 @@ textarea:-webkit-autofill:hover {
     margin-right: 5px
 }
 
+.f-covid {
+    text-align: justify;
+    font-size: 20px;
+}
+
 @media (min-width:1250px) {
     .container {
         max-width: 1200px

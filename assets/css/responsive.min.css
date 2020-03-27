@@ -1613,6 +1613,15 @@
   .saas_service_img img {
     max-width: 100%;
   }
+
+  .max-w-30 {
+    max-width: 30% !important;
+}
+
+.f-covid {
+  text-align: justify;
+  font-size: initial;
+}
   .about_img .about_img_slider .about_item .about_text .br {
     margin-bottom: 15px;
   }
@@ -2371,6 +2380,9 @@
   .sec_pad {
     padding: 40px 0;
     overflow: hidden;
+  }
+  .covid-pad {
+    padding: 20px 0 !important;
   }
   .m-t_90 {
     margin-top: 50px;
