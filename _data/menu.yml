@@ -42,7 +42,7 @@
 
     - id: 16
       title: Tüm Özellikler
-      url: ozellikler/
+      url: /ozellikler/
       icon: 
       isButton: true
 
