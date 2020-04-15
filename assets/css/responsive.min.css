@@ -1357,6 +1357,18 @@
 }
 
 @media (max-width: 768px) {
+  .mb_20_mobile {
+    margin-bottom: 20px
+}
+  #loader-adisyo svg {
+    width: 120px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+}
   .service_details_img {
     margin-left: 0;
   }
