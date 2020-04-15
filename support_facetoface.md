@@ -1,6 +1,6 @@
 ---
 layout: support_facetoface
 title: Yardıma ihtiyaç duyduğunuz her anda yanınızdayız!
-description: Adisyo ile ilgili destek almak isterseniz, bizimle iletişime geçmeniz yeterli.
+description: Adisyo ile ilgili destek almak isterseniz, bizimle iletişime geçmeniz yeterlidir.
 permalink: /yuzyuzedestek/
 ---
