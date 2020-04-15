@@ -1,7 +1,7 @@
 ---
 layout: support
-title: Destek
-description: Tüm sorularınıza yanıt bulabileceğiniz, adisyo kullanım klavuzu hazırladık. 
+title: Destek Merkezi
+description: Adisyo hakkında öğrenmek istediğiniz tüm bilgilere buradan ulaşabilirsiniz.
 redirect_from:
     - /faq.html
 permalink: /destek/

@@ -123,3 +123,10 @@
   isHeader: false
   isFooter: true
   submenu: false  
+
+- id: 12
+  title: Yüz Düze Destek
+  url: /yuzyuzedestek/
+  isHeader: false
+  isFooter: false
+  submenu: false  

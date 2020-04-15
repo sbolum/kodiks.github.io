@@ -173,7 +173,7 @@ ul {
     background-repeat: no-repeat
 }
 
-svg {
+#loader-adisyo svg {
     width: 180px;
     position: fixed;
     top: 0;
@@ -419,6 +419,34 @@ textarea:-webkit-autofill:hover {
     font-size: 20px;
 }
 
+.border-support {
+    text-align: center;
+    background-color: white;
+    -webkit-box-shadow: 0px 4px 6px 0px rgba(0, 11, 40, 0.1);
+    box-shadow: 0px 4px 6px 0px rgba(0, 11, 40, 0.1);
+    padding: 40px;
+    border: 1px solid #e2e2e2;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.yerli_uretim {
+    top: 0px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0px;
+    padding-top: 3px;
+    width: 87.5px;
+    height: 35px;
+    float: right;
+}
+
+.copyright_text {
+    padding-top: 10px;
+}
 
 @media (min-width:1250px) {
     .container {
@@ -582,6 +610,7 @@ input:-internal-autofill-selected {
     color: #000!important
 }
 
+
 .saas_service_img img {
     max-width: 100%
 }
@@ -668,26 +697,6 @@ input:-internal-autofill-selected {
     color: #bdbed6
 }
 
-.bg_color {
-    background: #f8f8f8
-}
-
-.bg_color_white {
-    background: #fff!important
-}
-
-.bg_color_lg {
-    background-color: #f8f8f8
-}
-
-.dk_bg_one {
-    background: #090a21
-}
-
-.dk_bg_two {
-    background: #0f1029
-}
-
 .mt-fix {
     margin-top: -10px
 }
@@ -752,6 +761,10 @@ input:-internal-autofill-selected {
     margin-bottom: 70px
 }
 
+.mb_0 {
+    margin-bottom: 0px;
+}
+}
 .mb_10 {
     margin-bottom: 10px
 }
@@ -947,6 +960,26 @@ input:-internal-autofill-selected {
 }
 .bg-yellow {
     background-color: #fffad1 !important;
+}
+
+.bg_color {
+    background: #f8f8f8
+}
+
+.bg_color_white {
+    background: #fff!important
+}
+
+.bg_color_lg {
+    background-color: #f8f8f8
+}
+
+.dk_bg_one {
+    background: #090a21
+}
+
+.dk_bg_two {
+    background: #0f1029
 }
 
 .f-right {
@@ -4139,8 +4172,8 @@ input:-internal-autofill-selected {
 }
 
 .software_featured_item h3 {
-    font-size: 17px;
-    margin: 30px 0 25px
+    font-size: 16px;
+    margin: 20px 0 20px;
 }
 
 .software_featured_item .learn_btn {
@@ -12133,7 +12166,7 @@ footer {
 
 .footer_nine_bottom {
     background: #000;
-    padding: 8px 0 0 0
+    padding: 5px 0px 5px 0px;
 }
 
 .footer_nine_bottom p {
