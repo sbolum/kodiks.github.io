@@ -442,6 +442,7 @@ textarea:-webkit-autofill:hover {
     width: 87.5px;
     height: 35px;
     float: right;
+    opacity: 0.7;
 }
 
 .copyright_text {

@@ -6,28 +6,20 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="f-title f_600 f_size_18 color-grey pr_20">
-                        <a href="index.html" class="f-logo"><img src="/assets/img/logo-adisyo-footer.svg"
-                                alt="adisyo-logo"></a>
+                        <a href="index.html" class="f-logo"><img src="/assets/img/logo-adisyo-footer.svg" alt="adisyo-logo"></a>
                         <p class="f_400 f_p f_size_14 mb-0 l_height28 mt_10">
 
                         </p>
                         <div class="f_social_icon_two mt_80 pb_30">
                             <h3 class="f-title f_600 f_size_18 color-white mb_10">Bizi Takip Edin</h3>
-                            {% for social in site.data.social_media %}
-                            {% if social.type == "twitter" %}
+                            {% for social in site.data.social_media %} {% if social.type == "twitter" %}
                             <a href="https://twitter.com/adisyocom" target="_blank" class="f_size_24"><i
-                                    class="ti-twitter-alt"></i></a>
-                            {% elsif social.type == "facebook" %}
+                                    class="ti-twitter-alt"></i></a> {% elsif social.type == "facebook" %}
                             <a href="https://www.facebook.com/adisyocom/" target="_blank" class="f_size_24"><i
-                                    class="ti-facebook"></i></a>
-                            {% elsif social.type == "instagram" %}
+                                    class="ti-facebook"></i></a> {% elsif social.type == "instagram" %}
                             <a href="https://www.instagram.com/adisyocom/" target="_blank" class="f_size_24"><i
-                                    class="ti-instagram"></i></a>
-                            {% elsif social.type == "youtube" %}
-                            <a href="https://www.youtube.com/channel/UCKdnA5lA-tBGbBjBPWoy-Lw/videos" target="_blank"
-                                class="f_size_24"><i class="ti-youtube"></i></a>
-                            {% endif %}
-                            {% endfor %}
+                                    class="ti-instagram"></i></a> {% elsif social.type == "youtube" %}
+                            <a href="https://www.youtube.com/channel/UCKdnA5lA-tBGbBjBPWoy-Lw/videos" target="_blank" class="f_size_24"><i class="ti-youtube"></i></a> {% endif %} {% endfor %}
                         </div>
                     </div>
                 </div>
@@ -35,8 +27,7 @@
                     <div class="f_widget about-widget">
                         <h3 class="f-title f_600 f_size_18 color-white mb_20">Şirketimiz</h3>
                         <ul class="list-unstyled f_list">
-                            {% assign footer_menu = site.data.menu | where: "isHeader", false  %}
-                            {% for menu in footer_menu %}
+                            {% assign footer_menu = site.data.menu | where: "isFooter", true %} {% for menu in footer_menu %}
                             <li><a href="{{menu.url}}">{{menu.title}}</a></li>
                             {% endfor %}
                         </ul>
@@ -48,12 +39,10 @@
                         <h3 class="f-title f_600 f_size_18 color-white mb_20">Hemen İndirin</h3>
                         <ul class="list-unstyled f_list">
                             <li>
-                                <a href="{{site.store_google}}" target="_blank"><img
-                                        src="/assets/img/google-play-badge.svg" class="mobile-store-icons"></a>
+                                <a href="{{site.store_google}}" target="_blank"><img src="/assets/img/google-play-badge.svg" class="mobile-store-icons"></a>
                             </li>
                             <li>
-                                <a href="{{site.store_ios}}" target="_blank"><img src="/assets/img/app-store-badge.svg"
-                                        class="mobile-store-icons"></a>
+                                <a href="{{site.store_ios}}" target="_blank"><img src="/assets/img/app-store-badge.svg" class="mobile-store-icons"></a>
                             </li>
                             <!-- 
                             <li>
@@ -72,8 +61,7 @@
                         <ul class="list-unstyled f_list">
                             <li><i class="ti-direction-alt m-r-10 "></i> {{site.address}}</li>
                             <li><i class="ti-calendar m-r-10 "></i> {{site.working_hours}}</li>
-                            <li><i class="ti ti-headphone-alt m-r-10 color-red"></i> <a class="color-red"
-                                    href="tel:{{site.phone}}"> {{site.phone}}</a></li>
+                            <li><i class="ti ti-headphone-alt m-r-10 color-red"></i> <a class="color-red" href="tel:{{site.phone}}"> {{site.phone}}</a></li>
                             <li><i class="ti-email mr_10"></i><a href="mailto:{{site.email}}"> {{site.email}}</a></li>
 
 
@@ -91,8 +79,8 @@
                     <p class="copyright_text">{{site.copyright}}</p>
                 </div>
                 <div class="col-sm-6 hidden-xs">
-                        <div class="yerli_uretim">                        
-                            <svg data-name="madeinturkey" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40">
+                    <div class="yerli_uretim">
+                        <svg data-name="madeinturkey" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40">
                             <defs>
                               <style>.fill-white{fill:rgba(255, 255, 255, 0.6);}</style>
                             </defs>
@@ -113,7 +101,7 @@
                             <path class="fill-white" d="M83.5,34.43h2.09a.49.49,0,0,0,.55-.56v-5l1.94,3.31a.44.44,0,0,0,.4.23.43.43,0,0,0,.39-.23l1.94-3.31v5a.49.49,0,0,0,.55.56h2.09a.49.49,0,0,0,.55-.56v-9.8a.48.48,0,0,0-.55-.55h-2a.66.66,0,0,0-.63.31l-2.33,4.08-2.34-4.08a.65.65,0,0,0-.62-.31h-2a.48.48,0,0,0-.54.55v9.8A.49.49,0,0,0,83.5,34.43Z"></path>
                             <path class="fill-white" d="M19.54,0l-9,7.64v5.21h6.68l4.88-4.14h2.33l9.11,11.07-.23,1.86-1.84-.1-6.93-8.41-2.07,1.76,6.93,8.41-.23,1.86-1.84-.1-6.93-8.41-2.07,1.76,6.93,8.41L25,28.68l-1.82-.11-2.54-1.42-.8-2.85-2.67-1.36-.8-2.86-2.66-1.34-1.09-3.21H7.27L4.43,18,0,12.85V40H100V0ZM4.88,22.89l-.4-1.44L8.59,18H10.7l.38,1.47L6.21,23.55ZM8.29,27l-.41-1.45,4.88-4.14,1.34.65.39,1.46L9.62,27.69Zm3.41,4.14-.41-1.45,4.87-4.13,1.35.64.39,1.46L13,31.83ZM16.43,36l-1.32-.67-.41-1.44,4.87-4.14,1.35.65.38,1.46ZM97.3,37.25H36.11V18.64L25.66,6H21.17l-4.86,4.14h-3l0-1.05,7.41-6.29H97.3Z"></path>
                           </svg>
-                        </div> 
+                    </div>
                 </div>
                 <!-- <div class="col-sm-6">
                     <select class="selectpicker flag_selector" data-width="fit">
@@ -126,6 +114,3 @@
         </div>
     </div>
 </footer>
-
-
-

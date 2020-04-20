@@ -2,7 +2,7 @@
   title: ÖZELLİKLER
   url: /ozellikler/
   isHeader: true
-  isFooter: true
+  isFooter: false
   submenu: true
   subitems:
     - id: 11
@@ -50,7 +50,7 @@
   title: FİYATLAR
   url: /fiyatlar/
   isHeader: true
-  isFooter: true
+  isFooter: false
   submenu: true
   subitems:
     - id: 21
@@ -70,21 +70,21 @@
   title: DESTEK
   url: /destek/
   isHeader: true
-  isFooter: true
+  isFooter: false
   submenu: false  
 
 - id: 4
   title: BLOG
   url: /blog/
   isHeader: true
-  isFooter: true
+  isFooter: false
   submenu: false  
 
 - id: 5
   title: İLETİŞİM
   url: /iletisim/
   isHeader: true
-  isFooter: true
+  isFooter: false
   submenu: false  
 
 - id: 6
