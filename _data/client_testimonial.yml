@@ -1,3 +1,15 @@
+- id: 27
+  company_name: Corner Pizza
+  owner: Ramazan Gümüş
+  comment:  13 yıllık birikimin vermiş olduğu güvenle mevcut müşterilere hitap eden bir firmayız. 
+            Dev firmalar teknolojinin A dan Z ye her şeyiyle çok iyi kullanırken biz sadece bir bilgisayara bağlı saçma bir adisyon programıyla 13 yılı bitirdik. 
+            Artık işleri ileriye taşımak yerine içinde bulunduğumuz durumla cebelleşiyorduk. Bilgisayarın başına bir şey gelmesinden çok korkuyorduk. 
+            Bu yüzden farklı bir program indirmekten bile çekinir hale geldik. Ama tamamen yeni nesil adisyo pos ihtiyacımıza yetişti. 
+            Artık şezlonguma uzanıp hangi saatler arasında daha az iş olduğunu ve ona uygun reklam çalışmalarıyla işlerimizi büyütmenin 
+            yoluna bakıyorum. Bunun en güzel yanlarından biri ise, sürekli olarak kendilerini güncel tutmaları, bu alanda gayret göstermeleridir.
+            Teşekkürler Adisyo.
+  logo: /assets/img/home/testimonial/cornerpizza.jpg
+
 - id: 26
   company_name: Pizza Dünyası
   owner: Mustafa Yıldırım
@@ -21,7 +33,9 @@
             kolay kullanımı olan bir arayüze sahip ve en önemlisi fiyat politikasında rakipsiz bir 
             firma oldukları için düşünmeden Adisyo'yu seçtim. Bugün, ne kadar doğru bir seçim yaptığımı görüyorum.
             Eğer sizde yeni bir işletme açacaksanız ve bir POS sistemine ihtiyacınız varsa, o zaman düşünmeden 
-            Adisyo'yu seçin pişman olmazsanız... Teşekkürler Adisyo Ekibi. Başarılarınızın devamını dilerim.         
+            Adisyo'yu seçin pişman olmazsanız.
+            Teşekkürler Adisyo Ekibi. 
+            Başarılarınızın devamını dilerim.         
   logo: /assets/img/home/testimonial/lokmacati.jpg
 
 - id: 24
@@ -44,8 +58,8 @@
   company_name: Baltazar Meat & Drink
   owner: Ozan Rende
   comment: Adisyo’yu ilk kullanmaya başladığımızda çalışanlarımızın programa
-          alışması sanki daha önce kullanmışlar gibi hızlı oldu. Adisyo’nun gayet şık
-          ve sade tasarımı ile hızlı olması bize çok büyük bir avantaj sağlıyor.
+          alışması sanki daha önce kullanmışlar gibi hızlı oldu. 
+          Adisyo’nun gayet şık ve sade tasarımı ile hızlı olması bize çok büyük bir avantaj sağlıyor.
           Ayrıca Adisyo ile restaurantımın bütün bilgileri avucumun içinde.
           Teşekkürler Adisyo.                                               
   logo: /assets/img/home/testimonial/baltazar.jpg
