@@ -39,3 +39,6 @@ Open github profile login ol - setting - SSH keys - New SSH Key yukarıda oluşt
 
 pc ye indirmek için;
 git clone git@github.com:kodiks/kodiks.github.io.git
+
+
+wrapper içinde iş bankası pop-up var açıp kapatmak için yorum satırı yapıyorum.
