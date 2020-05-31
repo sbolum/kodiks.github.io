@@ -5,7 +5,13 @@
   isFooter: false
   submenu: true
   subitems:
-    - id: 11
+    - id: 31
+      title: Dijital Cep Menü
+      url: /ozellikler/dijital-menu
+      icon: ti-dijitalmenu
+      isButton: false
+
+    - id: 32
       title: Mobil Uygulamalar
       url: /ozellikler/mobil-uygulamalar
       icon: ti-mobiluygulama
@@ -16,31 +22,31 @@
     #   url: /ozellikler/offline-calisma
     #   icon: ti-offline
 
-    - id: 12
+    - id: 33
       title: Gelişmiş Raporlama
       url: /ozellikler/gelismis-raporlama
       icon: ti-reports
       isButton: false
 
-    - id: 13
+    - id: 34
       title: Stok ve Reçete Takibi
       url: /ozellikler/stok-takibi
       icon: ti-stok
       isButton: false
 
-    - id: 14
+    - id: 35
       title: Termal Yazıcı
       url: /ozellikler/termal-yazici-mutfak
       icon: ti-termalyazici
       isButton: false
 
-    - id: 15
+    - id: 36
       title: Entegrasyonlar
       url: /ozellikler/entegrasyonlar
       icon: ti-control-shuffle
       isButton: false
 
-    - id: 16
+    - id: 37
       title: Tüm Özellikler
       url: /ozellikler/
       icon: 
@@ -64,7 +70,6 @@
       url: /kampanyalar/
       icon: ti-kampanya
       isButton: false
-
 
 - id: 3
   title: DESTEK
@@ -101,14 +106,12 @@
   isFooter: true
   submenu: false  
 
-
 - id: 8
   title: Gizlilik Politikası
   url: /gizlilik-politikasi/
   isHeader: false
   isFooter: true
   submenu: false  
-
 
 - id: 10
   title: Banka Bilgilerimiz

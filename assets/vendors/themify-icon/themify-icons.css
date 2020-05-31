@@ -55,7 +55,8 @@ url('fonts/themify.svg?-fvbane#themify') format('svg');font-weight:normal;font-s
 .ti-key:before{content:"\e631";}
 .ti-import:before{content:"\e632";}
 .ti-image:before{content:"\e633";}
-.ti-heart:before{background-image:url(/assets/img/icons/responsive.png);content:"";position:absolute;width:40px;height:40px;top:12px;left:12px;background-size:cover;background-color:transparent;}
+.ti-heart:before{background-image:url(/assets/img/icons/mobiluygulama.png);content:"";position:absolute;width:40px;height:40px;top:12px;left:12px;background-size:cover;background-color:transparent;}
+.ti-dijitalmenu-2:before{background-image:url(/assets/img/icons/dijitalmenu.png);content:"";position:absolute;width:40px;height:40px;top:12px;left:12px;background-size:cover;background-color:transparent;}
 .ti-heart-broken:before{content:"\e635";}
 .ti-hand-stop:before{content:"\e636";}
 .ti-hand-open:before{content:"\e637";}
@@ -354,7 +355,8 @@ url('fonts/themify.svg?-fvbane#themify') format('svg');font-weight:normal;font-s
 .ti-termalyazici:before{background-image:url(/assets/img/icons/printer.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-stok:before{background-image:url(/assets/img/icons/stock.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-offline:before{background-image:url(/assets/img/icons/wifi.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
-.ti-mobiluygulama:before{background-image:url(/assets/img/icons/responsive.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
+.ti-mobiluygulama:before{background-image:url(/assets/img/icons/mobiluygulama.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
+.ti-dijitalmenu:before{background-image:url(/assets/img/icons/dijitalmenu.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-reports:before{background-image:url(/assets/img/icons/report.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
 .ti-fiyarlarimiz:before{background-image:url(/assets/img/icons/fiyatlar.png);content:"";position:absolute;width:30px;height:30px;top:6px;left:6px;background-size:cover;background-color:transparent;}
 .ti-kampanya:before{background-image:url(/assets/img/icons/kampanya.png);content:"";position:absolute;width:26px;height:26px;top:8px;left:8px;background-size:cover;background-color:transparent;}
