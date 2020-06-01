@@ -6,9 +6,9 @@
 // })
 
 $(document).ready(function() {
-    console.log(localStorage.getItem('isbankKapat'));
-    if (localStorage.getItem('isbankKapat')) {
-        $('#isBankKampanya').css('visibility', 'hidden');
+    console.log(localStorage.getItem('DijitalMenuKapat'));
+    if (localStorage.getItem('DijitalMenuKapat')) {
+        $('#DijitalMenu').css('visibility', 'hidden');
     }
 })
 
