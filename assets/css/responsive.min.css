@@ -971,10 +971,11 @@
     background-image: url(/assets/img/icons/down.png);
     content: "";
     position: absolute;
-    width: 18px;
-    height: 18px;
+    width: 14px;
+    height: 14px;
     top: 0px;
-    right: -50px;
+    right: -40px;
+    top: 0px;
     background-size: cover;
     background-color: transparent;
     cursor: pointer;
@@ -1357,8 +1358,17 @@
 }
 
 @media (max-width: 768px) {
+  .qrmenu-popup-main{
+    display: none;
+  }
+  .qrmenu-popup-main-text span {
+    font-size: 12px;;
+  }
   .mb_20_mobile {
     margin-bottom: 20px
+}
+.yerli_uretim{
+  display: none;
 }
   #loader-adisyo svg {
     width: 120px;
@@ -2390,7 +2400,7 @@
   }
   .prototype_service_info,
   .sec_pad {
-    padding: 40px 0;
+    padding: 0px 0;
     overflow: hidden;
   }
   .covid-pad {
